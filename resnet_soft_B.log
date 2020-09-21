@@ -1,0 +1,3127 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+The accuracy is 14.06
+Train Epoch: 1 [0/49000 (0%)]	Train Loss: 2.621926	Val Loss: 2.469834	Val Acc: 14.0625
+The accuracy is 31.88
+Train Epoch: 1 [1280/49000 (3%)]	Train Loss: 2.053919	Val Loss: 1.969342	Val Acc: 31.875
+The accuracy is 43.75
+Train Epoch: 1 [2560/49000 (5%)]	Train Loss: 1.721735	Val Loss: 1.647914	Val Acc: 43.75
+The accuracy is 39.69
+Train Epoch: 1 [3840/49000 (8%)]	Train Loss: 1.644001	Val Loss: 1.625864	Val Acc: 39.6875
+The accuracy is 50.00
+Train Epoch: 1 [5120/49000 (10%)]	Train Loss: 1.294938	Val Loss: 1.359203	Val Acc: 50.0
+The accuracy is 42.19
+Train Epoch: 1 [6400/49000 (13%)]	Train Loss: 1.463668	Val Loss: 1.669817	Val Acc: 42.1875
+The accuracy is 53.12
+Train Epoch: 1 [7680/49000 (16%)]	Train Loss: 1.375130	Val Loss: 1.348338	Val Acc: 53.125
+The accuracy is 56.72
+Train Epoch: 1 [8960/49000 (18%)]	Train Loss: 1.201615	Val Loss: 1.208225	Val Acc: 56.71875
+The accuracy is 56.41
+Train Epoch: 1 [10240/49000 (21%)]	Train Loss: 1.163773	Val Loss: 1.199617	Val Acc: 56.40625
+The accuracy is 57.66
+Train Epoch: 1 [11520/49000 (23%)]	Train Loss: 1.521315	Val Loss: 1.262052	Val Acc: 57.65625
+The accuracy is 57.50
+Train Epoch: 1 [12800/49000 (26%)]	Train Loss: 1.110540	Val Loss: 1.178226	Val Acc: 57.5
+The accuracy is 62.66
+Train Epoch: 1 [14080/49000 (29%)]	Train Loss: 1.162556	Val Loss: 1.070845	Val Acc: 62.65625
+The accuracy is 64.84
+Train Epoch: 1 [15360/49000 (31%)]	Train Loss: 1.071685	Val Loss: 0.994620	Val Acc: 64.84375
+The accuracy is 62.19
+Train Epoch: 1 [16640/49000 (34%)]	Train Loss: 0.878650	Val Loss: 1.041064	Val Acc: 62.1875
+The accuracy is 66.72
+Train Epoch: 1 [17920/49000 (37%)]	Train Loss: 1.151974	Val Loss: 0.972019	Val Acc: 66.71875
+The accuracy is 63.75
+Train Epoch: 1 [19200/49000 (39%)]	Train Loss: 1.125317	Val Loss: 1.052198	Val Acc: 63.75
+The accuracy is 66.72
+Train Epoch: 1 [20480/49000 (42%)]	Train Loss: 0.943969	Val Loss: 0.953863	Val Acc: 66.71875
+The accuracy is 67.19
+Train Epoch: 1 [21760/49000 (44%)]	Train Loss: 1.127221	Val Loss: 0.974422	Val Acc: 67.1875
+The accuracy is 66.41
+Train Epoch: 1 [23040/49000 (47%)]	Train Loss: 0.955112	Val Loss: 1.007608	Val Acc: 66.40625
+The accuracy is 67.34
+Train Epoch: 1 [24320/49000 (50%)]	Train Loss: 0.931867	Val Loss: 0.937092	Val Acc: 67.34375
+The accuracy is 53.59
+Train Epoch: 1 [25600/49000 (52%)]	Train Loss: 1.213305	Val Loss: 1.419858	Val Acc: 53.59375
+The accuracy is 65.62
+Train Epoch: 1 [26880/49000 (55%)]	Train Loss: 0.983614	Val Loss: 0.976638	Val Acc: 65.625
+The accuracy is 65.00
+Train Epoch: 1 [28160/49000 (57%)]	Train Loss: 0.910215	Val Loss: 0.964177	Val Acc: 65.0
+The accuracy is 68.91
+Train Epoch: 1 [29440/49000 (60%)]	Train Loss: 0.997393	Val Loss: 0.878007	Val Acc: 68.90625
+The accuracy is 62.50
+Train Epoch: 1 [30720/49000 (63%)]	Train Loss: 0.896426	Val Loss: 1.007875	Val Acc: 62.5
+The accuracy is 69.84
+Train Epoch: 1 [32000/49000 (65%)]	Train Loss: 0.797995	Val Loss: 0.861415	Val Acc: 69.84375
+The accuracy is 68.28
+Train Epoch: 1 [33280/49000 (68%)]	Train Loss: 0.953376	Val Loss: 0.947445	Val Acc: 68.28125
+The accuracy is 67.66
+Train Epoch: 1 [34560/49000 (70%)]	Train Loss: 0.873159	Val Loss: 0.877746	Val Acc: 67.65625
+The accuracy is 69.84
+Train Epoch: 1 [35840/49000 (73%)]	Train Loss: 1.130102	Val Loss: 0.866106	Val Acc: 69.84375
+The accuracy is 65.94
+Train Epoch: 1 [37120/49000 (76%)]	Train Loss: 0.963673	Val Loss: 0.999108	Val Acc: 65.9375
+The accuracy is 74.69
+Train Epoch: 1 [38400/49000 (78%)]	Train Loss: 0.792372	Val Loss: 0.766977	Val Acc: 74.6875
+The accuracy is 70.16
+Train Epoch: 1 [39680/49000 (81%)]	Train Loss: 0.822536	Val Loss: 0.842222	Val Acc: 70.15625
+The accuracy is 69.22
+Train Epoch: 1 [40960/49000 (84%)]	Train Loss: 0.803822	Val Loss: 0.870819	Val Acc: 69.21875
+The accuracy is 70.94
+Train Epoch: 1 [42240/49000 (86%)]	Train Loss: 0.913250	Val Loss: 0.818801	Val Acc: 70.9375
+The accuracy is 73.12
+Train Epoch: 1 [43520/49000 (89%)]	Train Loss: 0.904366	Val Loss: 0.804145	Val Acc: 73.125
+The accuracy is 70.78
+Train Epoch: 1 [44800/49000 (91%)]	Train Loss: 0.876583	Val Loss: 0.842656	Val Acc: 70.78125
+The accuracy is 72.81
+Train Epoch: 1 [46080/49000 (94%)]	Train Loss: 0.802433	Val Loss: 0.789417	Val Acc: 72.8125
+The accuracy is 70.31
+Train Epoch: 1 [47360/49000 (97%)]	Train Loss: 0.913336	Val Loss: 0.853873	Val Acc: 70.3125
+The accuracy is 70.16
+Train Epoch: 1 [48640/49000 (99%)]	Train Loss: 0.800186	Val Loss: 0.814570	Val Acc: 70.15625
+The accuracy is 64.84
+Train Epoch: 2 [0/49000 (0%)]	Train Loss: 1.756914	Val Loss: 0.994397	Val Acc: 64.84375
+The accuracy is 74.06
+Train Epoch: 2 [1280/49000 (3%)]	Train Loss: 0.791128	Val Loss: 0.772041	Val Acc: 74.0625
+The accuracy is 70.47
+Train Epoch: 2 [2560/49000 (5%)]	Train Loss: 1.034994	Val Loss: 0.814744	Val Acc: 70.46875
+The accuracy is 71.41
+Train Epoch: 2 [3840/49000 (8%)]	Train Loss: 0.669516	Val Loss: 0.784167	Val Acc: 71.40625
+The accuracy is 70.94
+Train Epoch: 2 [5120/49000 (10%)]	Train Loss: 0.825547	Val Loss: 0.832858	Val Acc: 70.9375
+The accuracy is 71.41
+Train Epoch: 2 [6400/49000 (13%)]	Train Loss: 0.793491	Val Loss: 0.826739	Val Acc: 71.40625
+The accuracy is 75.00
+Train Epoch: 2 [7680/49000 (16%)]	Train Loss: 0.680532	Val Loss: 0.701724	Val Acc: 75.0
+The accuracy is 75.16
+Train Epoch: 2 [8960/49000 (18%)]	Train Loss: 0.796013	Val Loss: 0.746872	Val Acc: 75.15625
+The accuracy is 73.91
+Train Epoch: 2 [10240/49000 (21%)]	Train Loss: 0.577341	Val Loss: 0.732583	Val Acc: 73.90625
+The accuracy is 71.41
+Train Epoch: 2 [11520/49000 (23%)]	Train Loss: 0.596940	Val Loss: 0.781760	Val Acc: 71.40625
+The accuracy is 74.69
+Train Epoch: 2 [12800/49000 (26%)]	Train Loss: 0.597538	Val Loss: 0.722886	Val Acc: 74.6875
+The accuracy is 74.22
+Train Epoch: 2 [14080/49000 (29%)]	Train Loss: 0.802803	Val Loss: 0.735806	Val Acc: 74.21875
+The accuracy is 75.62
+Train Epoch: 2 [15360/49000 (31%)]	Train Loss: 0.861667	Val Loss: 0.707144	Val Acc: 75.625
+The accuracy is 72.81
+Train Epoch: 2 [16640/49000 (34%)]	Train Loss: 0.971387	Val Loss: 0.819220	Val Acc: 72.8125
+The accuracy is 72.97
+Train Epoch: 2 [17920/49000 (37%)]	Train Loss: 0.902570	Val Loss: 0.777374	Val Acc: 72.96875
+The accuracy is 74.06
+Train Epoch: 2 [19200/49000 (39%)]	Train Loss: 0.744384	Val Loss: 0.712938	Val Acc: 74.0625
+The accuracy is 76.72
+Train Epoch: 2 [20480/49000 (42%)]	Train Loss: 0.593699	Val Loss: 0.700144	Val Acc: 76.71875
+The accuracy is 73.44
+Train Epoch: 2 [21760/49000 (44%)]	Train Loss: 0.553281	Val Loss: 0.721472	Val Acc: 73.4375
+The accuracy is 74.06
+Train Epoch: 2 [23040/49000 (47%)]	Train Loss: 0.717055	Val Loss: 0.740577	Val Acc: 74.0625
+The accuracy is 72.19
+Train Epoch: 2 [24320/49000 (50%)]	Train Loss: 0.637900	Val Loss: 0.796945	Val Acc: 72.1875
+The accuracy is 72.66
+Train Epoch: 2 [25600/49000 (52%)]	Train Loss: 0.939248	Val Loss: 0.832260	Val Acc: 72.65625
+The accuracy is 72.81
+Train Epoch: 2 [26880/49000 (55%)]	Train Loss: 0.754319	Val Loss: 0.810924	Val Acc: 72.8125
+The accuracy is 73.28
+Train Epoch: 2 [28160/49000 (57%)]	Train Loss: 0.750491	Val Loss: 0.738128	Val Acc: 73.28125
+The accuracy is 76.25
+Train Epoch: 2 [29440/49000 (60%)]	Train Loss: 0.788069	Val Loss: 0.720589	Val Acc: 76.25
+The accuracy is 77.19
+Train Epoch: 2 [30720/49000 (63%)]	Train Loss: 0.639861	Val Loss: 0.660778	Val Acc: 77.1875
+The accuracy is 73.28
+Train Epoch: 2 [32000/49000 (65%)]	Train Loss: 0.734071	Val Loss: 0.751495	Val Acc: 73.28125
+The accuracy is 77.19
+Train Epoch: 2 [33280/49000 (68%)]	Train Loss: 0.746425	Val Loss: 0.668776	Val Acc: 77.1875
+The accuracy is 75.31
+Train Epoch: 2 [34560/49000 (70%)]	Train Loss: 0.620875	Val Loss: 0.706779	Val Acc: 75.3125
+The accuracy is 76.88
+Train Epoch: 2 [35840/49000 (73%)]	Train Loss: 0.731774	Val Loss: 0.668883	Val Acc: 76.875
+The accuracy is 69.06
+Train Epoch: 2 [37120/49000 (76%)]	Train Loss: 1.174451	Val Loss: 0.952614	Val Acc: 69.0625
+The accuracy is 72.50
+Train Epoch: 2 [38400/49000 (78%)]	Train Loss: 0.561308	Val Loss: 0.748570	Val Acc: 72.5
+The accuracy is 77.50
+Train Epoch: 2 [39680/49000 (81%)]	Train Loss: 0.628770	Val Loss: 0.657220	Val Acc: 77.5
+The accuracy is 72.97
+Train Epoch: 2 [40960/49000 (84%)]	Train Loss: 0.715263	Val Loss: 0.772500	Val Acc: 72.96875
+The accuracy is 77.34
+Train Epoch: 2 [42240/49000 (86%)]	Train Loss: 0.775824	Val Loss: 0.701393	Val Acc: 77.34375
+The accuracy is 75.78
+Train Epoch: 2 [43520/49000 (89%)]	Train Loss: 0.664094	Val Loss: 0.747433	Val Acc: 75.78125
+The accuracy is 77.03
+Train Epoch: 2 [44800/49000 (91%)]	Train Loss: 0.804687	Val Loss: 0.689223	Val Acc: 77.03125
+The accuracy is 73.91
+Train Epoch: 2 [46080/49000 (94%)]	Train Loss: 0.602172	Val Loss: 0.776171	Val Acc: 73.90625
+The accuracy is 75.00
+Train Epoch: 2 [47360/49000 (97%)]	Train Loss: 0.721554	Val Loss: 0.684373	Val Acc: 75.0
+The accuracy is 75.31
+Train Epoch: 2 [48640/49000 (99%)]	Train Loss: 0.743392	Val Loss: 0.708332	Val Acc: 75.3125
+The accuracy is 77.34
+Train Epoch: 3 [0/49000 (0%)]	Train Loss: 1.713152	Val Loss: 0.635931	Val Acc: 77.34375
+The accuracy is 71.56
+Train Epoch: 3 [1280/49000 (3%)]	Train Loss: 0.573206	Val Loss: 0.860444	Val Acc: 71.5625
+The accuracy is 75.31
+Train Epoch: 3 [2560/49000 (5%)]	Train Loss: 0.573452	Val Loss: 0.682887	Val Acc: 75.3125
+The accuracy is 75.78
+Train Epoch: 3 [3840/49000 (8%)]	Train Loss: 0.537295	Val Loss: 0.670062	Val Acc: 75.78125
+The accuracy is 77.03
+Train Epoch: 3 [5120/49000 (10%)]	Train Loss: 0.497666	Val Loss: 0.634259	Val Acc: 77.03125
+The accuracy is 78.12
+Train Epoch: 3 [6400/49000 (13%)]	Train Loss: 0.499478	Val Loss: 0.637785	Val Acc: 78.125
+The accuracy is 75.16
+Train Epoch: 3 [7680/49000 (16%)]	Train Loss: 0.677910	Val Loss: 0.752075	Val Acc: 75.15625
+The accuracy is 78.75
+Train Epoch: 3 [8960/49000 (18%)]	Train Loss: 0.501111	Val Loss: 0.636019	Val Acc: 78.75
+The accuracy is 76.41
+Train Epoch: 3 [10240/49000 (21%)]	Train Loss: 0.690682	Val Loss: 0.638642	Val Acc: 76.40625
+The accuracy is 77.50
+Train Epoch: 3 [11520/49000 (23%)]	Train Loss: 0.651658	Val Loss: 0.653202	Val Acc: 77.5
+The accuracy is 77.97
+Train Epoch: 3 [12800/49000 (26%)]	Train Loss: 0.698487	Val Loss: 0.610372	Val Acc: 77.96875
+The accuracy is 77.66
+Train Epoch: 3 [14080/49000 (29%)]	Train Loss: 0.532571	Val Loss: 0.683513	Val Acc: 77.65625
+The accuracy is 76.72
+Train Epoch: 3 [15360/49000 (31%)]	Train Loss: 0.641454	Val Loss: 0.667768	Val Acc: 76.71875
+The accuracy is 78.44
+Train Epoch: 3 [16640/49000 (34%)]	Train Loss: 0.426711	Val Loss: 0.650295	Val Acc: 78.4375
+The accuracy is 79.38
+Train Epoch: 3 [17920/49000 (37%)]	Train Loss: 0.600009	Val Loss: 0.682371	Val Acc: 79.375
+The accuracy is 78.75
+Train Epoch: 3 [19200/49000 (39%)]	Train Loss: 0.571623	Val Loss: 0.612374	Val Acc: 78.75
+The accuracy is 75.31
+Train Epoch: 3 [20480/49000 (42%)]	Train Loss: 0.635636	Val Loss: 0.684893	Val Acc: 75.3125
+The accuracy is 75.78
+Train Epoch: 3 [21760/49000 (44%)]	Train Loss: 0.695699	Val Loss: 0.671124	Val Acc: 75.78125
+The accuracy is 75.47
+Train Epoch: 3 [23040/49000 (47%)]	Train Loss: 0.589673	Val Loss: 0.686515	Val Acc: 75.46875
+The accuracy is 78.59
+Train Epoch: 3 [24320/49000 (50%)]	Train Loss: 0.584740	Val Loss: 0.615909	Val Acc: 78.59375
+The accuracy is 77.03
+Train Epoch: 3 [25600/49000 (52%)]	Train Loss: 0.730815	Val Loss: 0.729764	Val Acc: 77.03125
+The accuracy is 77.97
+Train Epoch: 3 [26880/49000 (55%)]	Train Loss: 0.587348	Val Loss: 0.645079	Val Acc: 77.96875
+The accuracy is 71.88
+Train Epoch: 3 [28160/49000 (57%)]	Train Loss: 0.752067	Val Loss: 0.769226	Val Acc: 71.875
+The accuracy is 80.00
+Train Epoch: 3 [29440/49000 (60%)]	Train Loss: 0.604362	Val Loss: 0.604672	Val Acc: 80.0
+The accuracy is 80.16
+Train Epoch: 3 [30720/49000 (63%)]	Train Loss: 0.552581	Val Loss: 0.595046	Val Acc: 80.15625
+The accuracy is 77.34
+Train Epoch: 3 [32000/49000 (65%)]	Train Loss: 0.573751	Val Loss: 0.698410	Val Acc: 77.34375
+The accuracy is 76.72
+Train Epoch: 3 [33280/49000 (68%)]	Train Loss: 0.494694	Val Loss: 0.653010	Val Acc: 76.71875
+The accuracy is 80.00
+Train Epoch: 3 [34560/49000 (70%)]	Train Loss: 0.454931	Val Loss: 0.616940	Val Acc: 80.0
+The accuracy is 81.72
+Train Epoch: 3 [35840/49000 (73%)]	Train Loss: 0.563529	Val Loss: 0.555022	Val Acc: 81.71875
+The accuracy is 76.72
+Train Epoch: 3 [37120/49000 (76%)]	Train Loss: 0.738000	Val Loss: 0.695694	Val Acc: 76.71875
+The accuracy is 80.16
+Train Epoch: 3 [38400/49000 (78%)]	Train Loss: 0.623345	Val Loss: 0.594700	Val Acc: 80.15625
+The accuracy is 78.59
+Train Epoch: 3 [39680/49000 (81%)]	Train Loss: 0.487640	Val Loss: 0.603977	Val Acc: 78.59375
+The accuracy is 78.75
+Train Epoch: 3 [40960/49000 (84%)]	Train Loss: 0.522091	Val Loss: 0.637053	Val Acc: 78.75
+The accuracy is 77.19
+Train Epoch: 3 [42240/49000 (86%)]	Train Loss: 0.608486	Val Loss: 0.643459	Val Acc: 77.1875
+The accuracy is 80.47
+Train Epoch: 3 [43520/49000 (89%)]	Train Loss: 0.562377	Val Loss: 0.595125	Val Acc: 80.46875
+The accuracy is 79.69
+Train Epoch: 3 [44800/49000 (91%)]	Train Loss: 0.660335	Val Loss: 0.574516	Val Acc: 79.6875
+The accuracy is 73.91
+Train Epoch: 3 [46080/49000 (94%)]	Train Loss: 0.651028	Val Loss: 0.741345	Val Acc: 73.90625
+The accuracy is 78.59
+Train Epoch: 3 [47360/49000 (97%)]	Train Loss: 0.710797	Val Loss: 0.630246	Val Acc: 78.59375
+The accuracy is 79.53
+Train Epoch: 3 [48640/49000 (99%)]	Train Loss: 0.448851	Val Loss: 0.550841	Val Acc: 79.53125
+The accuracy is 79.53
+Train Epoch: 4 [0/49000 (0%)]	Train Loss: 1.350095	Val Loss: 0.601746	Val Acc: 79.53125
+The accuracy is 80.47
+Train Epoch: 4 [1280/49000 (3%)]	Train Loss: 0.512268	Val Loss: 0.540321	Val Acc: 80.46875
+The accuracy is 80.78
+Train Epoch: 4 [2560/49000 (5%)]	Train Loss: 0.562500	Val Loss: 0.599176	Val Acc: 80.78125
+The accuracy is 76.56
+Train Epoch: 4 [3840/49000 (8%)]	Train Loss: 0.435687	Val Loss: 0.638131	Val Acc: 76.5625
+The accuracy is 74.22
+Train Epoch: 4 [5120/49000 (10%)]	Train Loss: 0.547816	Val Loss: 0.736348	Val Acc: 74.21875
+The accuracy is 76.09
+Train Epoch: 4 [6400/49000 (13%)]	Train Loss: 0.485716	Val Loss: 0.654446	Val Acc: 76.09375
+The accuracy is 79.22
+Train Epoch: 4 [7680/49000 (16%)]	Train Loss: 0.577739	Val Loss: 0.602394	Val Acc: 79.21875
+The accuracy is 79.84
+Train Epoch: 4 [8960/49000 (18%)]	Train Loss: 0.424603	Val Loss: 0.623081	Val Acc: 79.84375
+The accuracy is 79.22
+Train Epoch: 4 [10240/49000 (21%)]	Train Loss: 0.651802	Val Loss: 0.604851	Val Acc: 79.21875
+The accuracy is 79.38
+Train Epoch: 4 [11520/49000 (23%)]	Train Loss: 0.534074	Val Loss: 0.580832	Val Acc: 79.375
+The accuracy is 80.47
+Train Epoch: 4 [12800/49000 (26%)]	Train Loss: 0.390872	Val Loss: 0.609527	Val Acc: 80.46875
+The accuracy is 79.84
+Train Epoch: 4 [14080/49000 (29%)]	Train Loss: 0.524983	Val Loss: 0.641295	Val Acc: 79.84375
+The accuracy is 80.62
+Train Epoch: 4 [15360/49000 (31%)]	Train Loss: 0.433642	Val Loss: 0.594358	Val Acc: 80.625
+The accuracy is 75.94
+Train Epoch: 4 [16640/49000 (34%)]	Train Loss: 0.738762	Val Loss: 0.700817	Val Acc: 75.9375
+The accuracy is 79.84
+Train Epoch: 4 [17920/49000 (37%)]	Train Loss: 0.683429	Val Loss: 0.568205	Val Acc: 79.84375
+The accuracy is 77.34
+Train Epoch: 4 [19200/49000 (39%)]	Train Loss: 0.477690	Val Loss: 0.661254	Val Acc: 77.34375
+The accuracy is 77.97
+Train Epoch: 4 [20480/49000 (42%)]	Train Loss: 0.464543	Val Loss: 0.655623	Val Acc: 77.96875
+The accuracy is 77.34
+Train Epoch: 4 [21760/49000 (44%)]	Train Loss: 0.657113	Val Loss: 0.638255	Val Acc: 77.34375
+The accuracy is 78.75
+Train Epoch: 4 [23040/49000 (47%)]	Train Loss: 0.668039	Val Loss: 0.596243	Val Acc: 78.75
+The accuracy is 80.94
+Train Epoch: 4 [24320/49000 (50%)]	Train Loss: 0.523699	Val Loss: 0.557483	Val Acc: 80.9375
+The accuracy is 79.69
+Train Epoch: 4 [25600/49000 (52%)]	Train Loss: 0.675978	Val Loss: 0.569522	Val Acc: 79.6875
+The accuracy is 79.38
+Train Epoch: 4 [26880/49000 (55%)]	Train Loss: 0.506230	Val Loss: 0.588153	Val Acc: 79.375
+The accuracy is 79.84
+Train Epoch: 4 [28160/49000 (57%)]	Train Loss: 0.437493	Val Loss: 0.526083	Val Acc: 79.84375
+The accuracy is 81.25
+Train Epoch: 4 [29440/49000 (60%)]	Train Loss: 0.541603	Val Loss: 0.593559	Val Acc: 81.25
+The accuracy is 79.69
+Train Epoch: 4 [30720/49000 (63%)]	Train Loss: 0.571335	Val Loss: 0.584193	Val Acc: 79.6875
+The accuracy is 79.38
+Train Epoch: 4 [32000/49000 (65%)]	Train Loss: 0.445282	Val Loss: 0.598568	Val Acc: 79.375
+The accuracy is 79.69
+Train Epoch: 4 [33280/49000 (68%)]	Train Loss: 0.494111	Val Loss: 0.612480	Val Acc: 79.6875
+The accuracy is 79.22
+Train Epoch: 4 [34560/49000 (70%)]	Train Loss: 0.513201	Val Loss: 0.599940	Val Acc: 79.21875
+The accuracy is 79.22
+Train Epoch: 4 [35840/49000 (73%)]	Train Loss: 0.471513	Val Loss: 0.581620	Val Acc: 79.21875
+The accuracy is 79.53
+Train Epoch: 4 [37120/49000 (76%)]	Train Loss: 0.508952	Val Loss: 0.610431	Val Acc: 79.53125
+The accuracy is 80.47
+Train Epoch: 4 [38400/49000 (78%)]	Train Loss: 0.405136	Val Loss: 0.590891	Val Acc: 80.46875
+The accuracy is 76.25
+Train Epoch: 4 [39680/49000 (81%)]	Train Loss: 0.552619	Val Loss: 0.650317	Val Acc: 76.25
+The accuracy is 80.16
+Train Epoch: 4 [40960/49000 (84%)]	Train Loss: 0.699680	Val Loss: 0.539955	Val Acc: 80.15625
+The accuracy is 77.19
+Train Epoch: 4 [42240/49000 (86%)]	Train Loss: 0.612686	Val Loss: 0.672194	Val Acc: 77.1875
+The accuracy is 80.16
+Train Epoch: 4 [43520/49000 (89%)]	Train Loss: 0.615177	Val Loss: 0.612151	Val Acc: 80.15625
+The accuracy is 80.16
+Train Epoch: 4 [44800/49000 (91%)]	Train Loss: 0.431622	Val Loss: 0.574585	Val Acc: 80.15625
+The accuracy is 77.19
+Train Epoch: 4 [46080/49000 (94%)]	Train Loss: 0.705676	Val Loss: 0.687632	Val Acc: 77.1875
+The accuracy is 79.53
+Train Epoch: 4 [47360/49000 (97%)]	Train Loss: 0.404103	Val Loss: 0.588944	Val Acc: 79.53125
+The accuracy is 80.31
+Train Epoch: 4 [48640/49000 (99%)]	Train Loss: 0.642385	Val Loss: 0.564895	Val Acc: 80.3125
+The accuracy is 77.81
+Train Epoch: 5 [0/49000 (0%)]	Train Loss: 1.216774	Val Loss: 0.682419	Val Acc: 77.8125
+The accuracy is 79.69
+Train Epoch: 5 [1280/49000 (3%)]	Train Loss: 0.551602	Val Loss: 0.634452	Val Acc: 79.6875
+The accuracy is 78.59
+Train Epoch: 5 [2560/49000 (5%)]	Train Loss: 0.416323	Val Loss: 0.579243	Val Acc: 78.59375
+The accuracy is 80.00
+Train Epoch: 5 [3840/49000 (8%)]	Train Loss: 0.379734	Val Loss: 0.601125	Val Acc: 80.0
+The accuracy is 79.22
+Train Epoch: 5 [5120/49000 (10%)]	Train Loss: 0.490739	Val Loss: 0.613834	Val Acc: 79.21875
+The accuracy is 75.78
+Train Epoch: 5 [6400/49000 (13%)]	Train Loss: 0.542606	Val Loss: 0.674428	Val Acc: 75.78125
+The accuracy is 76.72
+Train Epoch: 5 [7680/49000 (16%)]	Train Loss: 0.384543	Val Loss: 0.670994	Val Acc: 76.71875
+The accuracy is 81.72
+Train Epoch: 5 [8960/49000 (18%)]	Train Loss: 0.338833	Val Loss: 0.583356	Val Acc: 81.71875
+The accuracy is 74.84
+Train Epoch: 5 [10240/49000 (21%)]	Train Loss: 0.509867	Val Loss: 0.662176	Val Acc: 74.84375
+The accuracy is 80.16
+Train Epoch: 5 [11520/49000 (23%)]	Train Loss: 0.525105	Val Loss: 0.590154	Val Acc: 80.15625
+The accuracy is 80.31
+Train Epoch: 5 [12800/49000 (26%)]	Train Loss: 0.480683	Val Loss: 0.560565	Val Acc: 80.3125
+The accuracy is 78.44
+Train Epoch: 5 [14080/49000 (29%)]	Train Loss: 0.399017	Val Loss: 0.612381	Val Acc: 78.4375
+The accuracy is 82.97
+Train Epoch: 5 [15360/49000 (31%)]	Train Loss: 0.366804	Val Loss: 0.520045	Val Acc: 82.96875
+The accuracy is 78.12
+Train Epoch: 5 [16640/49000 (34%)]	Train Loss: 0.512209	Val Loss: 0.633272	Val Acc: 78.125
+The accuracy is 78.75
+Train Epoch: 5 [17920/49000 (37%)]	Train Loss: 0.355470	Val Loss: 0.653004	Val Acc: 78.75
+The accuracy is 78.12
+Train Epoch: 5 [19200/49000 (39%)]	Train Loss: 0.349468	Val Loss: 0.652233	Val Acc: 78.125
+The accuracy is 77.50
+Train Epoch: 5 [20480/49000 (42%)]	Train Loss: 0.571388	Val Loss: 0.605655	Val Acc: 77.5
+The accuracy is 80.78
+Train Epoch: 5 [21760/49000 (44%)]	Train Loss: 0.378173	Val Loss: 0.588329	Val Acc: 80.78125
+The accuracy is 79.22
+Train Epoch: 5 [23040/49000 (47%)]	Train Loss: 0.553788	Val Loss: 0.596877	Val Acc: 79.21875
+The accuracy is 77.03
+Train Epoch: 5 [24320/49000 (50%)]	Train Loss: 0.553936	Val Loss: 0.670141	Val Acc: 77.03125
+The accuracy is 78.28
+Train Epoch: 5 [25600/49000 (52%)]	Train Loss: 0.491951	Val Loss: 0.580381	Val Acc: 78.28125
+The accuracy is 77.34
+Train Epoch: 5 [26880/49000 (55%)]	Train Loss: 0.439797	Val Loss: 0.652131	Val Acc: 77.34375
+The accuracy is 83.28
+Train Epoch: 5 [28160/49000 (57%)]	Train Loss: 0.359163	Val Loss: 0.532120	Val Acc: 83.28125
+The accuracy is 79.69
+Train Epoch: 5 [29440/49000 (60%)]	Train Loss: 0.530394	Val Loss: 0.624129	Val Acc: 79.6875
+The accuracy is 81.41
+Train Epoch: 5 [30720/49000 (63%)]	Train Loss: 0.500059	Val Loss: 0.558096	Val Acc: 81.40625
+The accuracy is 81.56
+Train Epoch: 5 [32000/49000 (65%)]	Train Loss: 0.363619	Val Loss: 0.559659	Val Acc: 81.5625
+The accuracy is 80.31
+Train Epoch: 5 [33280/49000 (68%)]	Train Loss: 0.367077	Val Loss: 0.551515	Val Acc: 80.3125
+The accuracy is 80.31
+Train Epoch: 5 [34560/49000 (70%)]	Train Loss: 0.310879	Val Loss: 0.609767	Val Acc: 80.3125
+The accuracy is 80.78
+Train Epoch: 5 [35840/49000 (73%)]	Train Loss: 0.461400	Val Loss: 0.614392	Val Acc: 80.78125
+The accuracy is 82.19
+Train Epoch: 5 [37120/49000 (76%)]	Train Loss: 0.491803	Val Loss: 0.549617	Val Acc: 82.1875
+The accuracy is 76.41
+Train Epoch: 5 [38400/49000 (78%)]	Train Loss: 0.567282	Val Loss: 0.658798	Val Acc: 76.40625
+The accuracy is 78.59
+Train Epoch: 5 [39680/49000 (81%)]	Train Loss: 0.554771	Val Loss: 0.620617	Val Acc: 78.59375
+The accuracy is 80.94
+Train Epoch: 5 [40960/49000 (84%)]	Train Loss: 0.397749	Val Loss: 0.610599	Val Acc: 80.9375
+The accuracy is 80.00
+Train Epoch: 5 [42240/49000 (86%)]	Train Loss: 0.446095	Val Loss: 0.596894	Val Acc: 80.0
+The accuracy is 80.00
+Train Epoch: 5 [43520/49000 (89%)]	Train Loss: 0.518390	Val Loss: 0.585480	Val Acc: 80.0
+The accuracy is 79.22
+Train Epoch: 5 [44800/49000 (91%)]	Train Loss: 0.495680	Val Loss: 0.594667	Val Acc: 79.21875
+The accuracy is 78.12
+Train Epoch: 5 [46080/49000 (94%)]	Train Loss: 0.515059	Val Loss: 0.616482	Val Acc: 78.125
+The accuracy is 81.09
+Train Epoch: 5 [47360/49000 (97%)]	Train Loss: 0.457023	Val Loss: 0.576113	Val Acc: 81.09375
+The accuracy is 82.66
+Train Epoch: 5 [48640/49000 (99%)]	Train Loss: 0.544482	Val Loss: 0.572588	Val Acc: 82.65625
+The accuracy is 80.00
+Train Epoch: 6 [0/49000 (0%)]	Train Loss: 1.170176	Val Loss: 0.580872	Val Acc: 80.0
+The accuracy is 80.94
+Train Epoch: 6 [1280/49000 (3%)]	Train Loss: 0.298205	Val Loss: 0.583992	Val Acc: 80.9375
+The accuracy is 77.97
+Train Epoch: 6 [2560/49000 (5%)]	Train Loss: 0.425631	Val Loss: 0.640874	Val Acc: 77.96875
+The accuracy is 83.12
+Train Epoch: 6 [3840/49000 (8%)]	Train Loss: 0.435572	Val Loss: 0.554193	Val Acc: 83.125
+The accuracy is 80.78
+Train Epoch: 6 [5120/49000 (10%)]	Train Loss: 0.470340	Val Loss: 0.554909	Val Acc: 80.78125
+The accuracy is 81.56
+Train Epoch: 6 [6400/49000 (13%)]	Train Loss: 0.424912	Val Loss: 0.534428	Val Acc: 81.5625
+The accuracy is 81.56
+Train Epoch: 6 [7680/49000 (16%)]	Train Loss: 0.405887	Val Loss: 0.552985	Val Acc: 81.5625
+The accuracy is 78.28
+Train Epoch: 6 [8960/49000 (18%)]	Train Loss: 0.461319	Val Loss: 0.692518	Val Acc: 78.28125
+The accuracy is 80.78
+Train Epoch: 6 [10240/49000 (21%)]	Train Loss: 0.457747	Val Loss: 0.581056	Val Acc: 80.78125
+The accuracy is 82.03
+Train Epoch: 6 [11520/49000 (23%)]	Train Loss: 0.414751	Val Loss: 0.543209	Val Acc: 82.03125
+The accuracy is 80.00
+Train Epoch: 6 [12800/49000 (26%)]	Train Loss: 0.328142	Val Loss: 0.597364	Val Acc: 80.0
+The accuracy is 77.50
+Train Epoch: 6 [14080/49000 (29%)]	Train Loss: 0.511472	Val Loss: 0.637558	Val Acc: 77.5
+The accuracy is 81.09
+Train Epoch: 6 [15360/49000 (31%)]	Train Loss: 0.472519	Val Loss: 0.564603	Val Acc: 81.09375
+The accuracy is 81.41
+Train Epoch: 6 [16640/49000 (34%)]	Train Loss: 0.479297	Val Loss: 0.582187	Val Acc: 81.40625
+The accuracy is 81.56
+Train Epoch: 6 [17920/49000 (37%)]	Train Loss: 0.461991	Val Loss: 0.532738	Val Acc: 81.5625
+The accuracy is 77.97
+Train Epoch: 6 [19200/49000 (39%)]	Train Loss: 0.422431	Val Loss: 0.658225	Val Acc: 77.96875
+The accuracy is 82.34
+Train Epoch: 6 [20480/49000 (42%)]	Train Loss: 0.480804	Val Loss: 0.534477	Val Acc: 82.34375
+The accuracy is 78.28
+Train Epoch: 6 [21760/49000 (44%)]	Train Loss: 0.524293	Val Loss: 0.676201	Val Acc: 78.28125
+The accuracy is 83.28
+Train Epoch: 6 [23040/49000 (47%)]	Train Loss: 0.432765	Val Loss: 0.522374	Val Acc: 83.28125
+The accuracy is 81.09
+Train Epoch: 6 [24320/49000 (50%)]	Train Loss: 0.450637	Val Loss: 0.539907	Val Acc: 81.09375
+The accuracy is 78.59
+Train Epoch: 6 [25600/49000 (52%)]	Train Loss: 0.400873	Val Loss: 0.589655	Val Acc: 78.59375
+The accuracy is 81.25
+Train Epoch: 6 [26880/49000 (55%)]	Train Loss: 0.436408	Val Loss: 0.554872	Val Acc: 81.25
+The accuracy is 80.78
+Train Epoch: 6 [28160/49000 (57%)]	Train Loss: 0.412055	Val Loss: 0.549716	Val Acc: 80.78125
+The accuracy is 80.78
+Train Epoch: 6 [29440/49000 (60%)]	Train Loss: 0.461512	Val Loss: 0.582497	Val Acc: 80.78125
+The accuracy is 81.41
+Train Epoch: 6 [30720/49000 (63%)]	Train Loss: 0.584820	Val Loss: 0.556799	Val Acc: 81.40625
+The accuracy is 81.09
+Train Epoch: 6 [32000/49000 (65%)]	Train Loss: 0.305610	Val Loss: 0.560677	Val Acc: 81.09375
+The accuracy is 81.41
+Train Epoch: 6 [33280/49000 (68%)]	Train Loss: 0.416551	Val Loss: 0.538073	Val Acc: 81.40625
+The accuracy is 80.47
+Train Epoch: 6 [34560/49000 (70%)]	Train Loss: 0.471233	Val Loss: 0.545726	Val Acc: 80.46875
+The accuracy is 81.09
+Train Epoch: 6 [35840/49000 (73%)]	Train Loss: 0.276164	Val Loss: 0.546024	Val Acc: 81.09375
+The accuracy is 79.38
+Train Epoch: 6 [37120/49000 (76%)]	Train Loss: 0.592157	Val Loss: 0.625409	Val Acc: 79.375
+The accuracy is 82.81
+Train Epoch: 6 [38400/49000 (78%)]	Train Loss: 0.383323	Val Loss: 0.523576	Val Acc: 82.8125
+The accuracy is 78.91
+Train Epoch: 6 [39680/49000 (81%)]	Train Loss: 0.478035	Val Loss: 0.627570	Val Acc: 78.90625
+The accuracy is 79.38
+Train Epoch: 6 [40960/49000 (84%)]	Train Loss: 0.454836	Val Loss: 0.622046	Val Acc: 79.375
+The accuracy is 80.31
+Train Epoch: 6 [42240/49000 (86%)]	Train Loss: 0.321107	Val Loss: 0.633012	Val Acc: 80.3125
+The accuracy is 78.91
+Train Epoch: 6 [43520/49000 (89%)]	Train Loss: 0.654361	Val Loss: 0.648402	Val Acc: 78.90625
+The accuracy is 81.88
+Train Epoch: 6 [44800/49000 (91%)]	Train Loss: 0.260622	Val Loss: 0.513706	Val Acc: 81.875
+The accuracy is 79.53
+Train Epoch: 6 [46080/49000 (94%)]	Train Loss: 0.461880	Val Loss: 0.604856	Val Acc: 79.53125
+The accuracy is 78.59
+Train Epoch: 6 [47360/49000 (97%)]	Train Loss: 0.389536	Val Loss: 0.642606	Val Acc: 78.59375
+The accuracy is 81.72
+Train Epoch: 6 [48640/49000 (99%)]	Train Loss: 0.374700	Val Loss: 0.563696	Val Acc: 81.71875
+The accuracy is 80.16
+Train Epoch: 7 [0/49000 (0%)]	Train Loss: 1.192642	Val Loss: 0.588437	Val Acc: 80.15625
+The accuracy is 80.62
+Train Epoch: 7 [1280/49000 (3%)]	Train Loss: 0.384221	Val Loss: 0.564983	Val Acc: 80.625
+The accuracy is 81.41
+Train Epoch: 7 [2560/49000 (5%)]	Train Loss: 0.250370	Val Loss: 0.569058	Val Acc: 81.40625
+The accuracy is 80.78
+Train Epoch: 7 [3840/49000 (8%)]	Train Loss: 0.256802	Val Loss: 0.559378	Val Acc: 80.78125
+The accuracy is 80.00
+Train Epoch: 7 [5120/49000 (10%)]	Train Loss: 0.286092	Val Loss: 0.606719	Val Acc: 80.0
+The accuracy is 80.00
+Train Epoch: 7 [6400/49000 (13%)]	Train Loss: 0.395119	Val Loss: 0.600965	Val Acc: 80.0
+The accuracy is 81.72
+Train Epoch: 7 [7680/49000 (16%)]	Train Loss: 0.375651	Val Loss: 0.562479	Val Acc: 81.71875
+The accuracy is 81.41
+Train Epoch: 7 [8960/49000 (18%)]	Train Loss: 0.420565	Val Loss: 0.601806	Val Acc: 81.40625
+The accuracy is 81.56
+Train Epoch: 7 [10240/49000 (21%)]	Train Loss: 0.307109	Val Loss: 0.591393	Val Acc: 81.5625
+The accuracy is 82.19
+Train Epoch: 7 [11520/49000 (23%)]	Train Loss: 0.363821	Val Loss: 0.526917	Val Acc: 82.1875
+The accuracy is 81.72
+Train Epoch: 7 [12800/49000 (26%)]	Train Loss: 0.279028	Val Loss: 0.519854	Val Acc: 81.71875
+The accuracy is 81.41
+Train Epoch: 7 [14080/49000 (29%)]	Train Loss: 0.171946	Val Loss: 0.527314	Val Acc: 81.40625
+The accuracy is 82.81
+Train Epoch: 7 [15360/49000 (31%)]	Train Loss: 0.278019	Val Loss: 0.562009	Val Acc: 82.8125
+The accuracy is 80.31
+Train Epoch: 7 [16640/49000 (34%)]	Train Loss: 0.336001	Val Loss: 0.621207	Val Acc: 80.3125
+The accuracy is 81.25
+Train Epoch: 7 [17920/49000 (37%)]	Train Loss: 0.249242	Val Loss: 0.537291	Val Acc: 81.25
+The accuracy is 81.88
+Train Epoch: 7 [19200/49000 (39%)]	Train Loss: 0.450812	Val Loss: 0.555334	Val Acc: 81.875
+The accuracy is 78.75
+Train Epoch: 7 [20480/49000 (42%)]	Train Loss: 0.262145	Val Loss: 0.605709	Val Acc: 78.75
+The accuracy is 83.59
+Train Epoch: 7 [21760/49000 (44%)]	Train Loss: 0.222755	Val Loss: 0.557935	Val Acc: 83.59375
+The accuracy is 80.62
+Train Epoch: 7 [23040/49000 (47%)]	Train Loss: 0.225041	Val Loss: 0.577766	Val Acc: 80.625
+The accuracy is 77.03
+Train Epoch: 7 [24320/49000 (50%)]	Train Loss: 0.455065	Val Loss: 0.760555	Val Acc: 77.03125
+The accuracy is 83.44
+Train Epoch: 7 [25600/49000 (52%)]	Train Loss: 0.395955	Val Loss: 0.535634	Val Acc: 83.4375
+The accuracy is 82.34
+Train Epoch: 7 [26880/49000 (55%)]	Train Loss: 0.390816	Val Loss: 0.585466	Val Acc: 82.34375
+The accuracy is 81.41
+Train Epoch: 7 [28160/49000 (57%)]	Train Loss: 0.374614	Val Loss: 0.570582	Val Acc: 81.40625
+The accuracy is 83.59
+Train Epoch: 7 [29440/49000 (60%)]	Train Loss: 0.273167	Val Loss: 0.524250	Val Acc: 83.59375
+The accuracy is 80.62
+Train Epoch: 7 [30720/49000 (63%)]	Train Loss: 0.239512	Val Loss: 0.585923	Val Acc: 80.625
+The accuracy is 81.88
+Train Epoch: 7 [32000/49000 (65%)]	Train Loss: 0.279720	Val Loss: 0.535902	Val Acc: 81.875
+The accuracy is 72.81
+Train Epoch: 7 [33280/49000 (68%)]	Train Loss: 0.658018	Val Loss: 0.844264	Val Acc: 72.8125
+The accuracy is 79.84
+Train Epoch: 7 [34560/49000 (70%)]	Train Loss: 0.322425	Val Loss: 0.605787	Val Acc: 79.84375
+The accuracy is 78.91
+Train Epoch: 7 [35840/49000 (73%)]	Train Loss: 0.488104	Val Loss: 0.717899	Val Acc: 78.90625
+The accuracy is 81.25
+Train Epoch: 7 [37120/49000 (76%)]	Train Loss: 0.402358	Val Loss: 0.568071	Val Acc: 81.25
+The accuracy is 82.66
+Train Epoch: 7 [38400/49000 (78%)]	Train Loss: 0.229729	Val Loss: 0.539776	Val Acc: 82.65625
+The accuracy is 80.16
+Train Epoch: 7 [39680/49000 (81%)]	Train Loss: 0.354697	Val Loss: 0.614375	Val Acc: 80.15625
+The accuracy is 79.84
+Train Epoch: 7 [40960/49000 (84%)]	Train Loss: 0.379036	Val Loss: 0.618710	Val Acc: 79.84375
+The accuracy is 80.47
+Train Epoch: 7 [42240/49000 (86%)]	Train Loss: 0.265101	Val Loss: 0.559567	Val Acc: 80.46875
+The accuracy is 81.09
+Train Epoch: 7 [43520/49000 (89%)]	Train Loss: 0.505809	Val Loss: 0.545808	Val Acc: 81.09375
+The accuracy is 81.25
+Train Epoch: 7 [44800/49000 (91%)]	Train Loss: 0.563897	Val Loss: 0.551222	Val Acc: 81.25
+The accuracy is 81.56
+Train Epoch: 7 [46080/49000 (94%)]	Train Loss: 0.330274	Val Loss: 0.578000	Val Acc: 81.5625
+The accuracy is 81.72
+Train Epoch: 7 [47360/49000 (97%)]	Train Loss: 0.301846	Val Loss: 0.553724	Val Acc: 81.71875
+The accuracy is 82.81
+Train Epoch: 7 [48640/49000 (99%)]	Train Loss: 0.513123	Val Loss: 0.505312	Val Acc: 82.8125
+The accuracy is 78.28
+Train Epoch: 8 [0/49000 (0%)]	Train Loss: 1.198647	Val Loss: 0.665482	Val Acc: 78.28125
+The accuracy is 84.53
+Train Epoch: 8 [1280/49000 (3%)]	Train Loss: 0.266092	Val Loss: 0.531588	Val Acc: 84.53125
+The accuracy is 82.50
+Train Epoch: 8 [2560/49000 (5%)]	Train Loss: 0.269945	Val Loss: 0.535187	Val Acc: 82.5
+The accuracy is 80.47
+Train Epoch: 8 [3840/49000 (8%)]	Train Loss: 0.336485	Val Loss: 0.636032	Val Acc: 80.46875
+The accuracy is 81.41
+Train Epoch: 8 [5120/49000 (10%)]	Train Loss: 0.302031	Val Loss: 0.542895	Val Acc: 81.40625
+The accuracy is 81.72
+Train Epoch: 8 [6400/49000 (13%)]	Train Loss: 0.288063	Val Loss: 0.591748	Val Acc: 81.71875
+The accuracy is 83.28
+Train Epoch: 8 [7680/49000 (16%)]	Train Loss: 0.218557	Val Loss: 0.505501	Val Acc: 83.28125
+The accuracy is 82.03
+Train Epoch: 8 [8960/49000 (18%)]	Train Loss: 0.393804	Val Loss: 0.541898	Val Acc: 82.03125
+The accuracy is 82.81
+Train Epoch: 8 [10240/49000 (21%)]	Train Loss: 0.239586	Val Loss: 0.525060	Val Acc: 82.8125
+The accuracy is 79.53
+Train Epoch: 8 [11520/49000 (23%)]	Train Loss: 0.314891	Val Loss: 0.643417	Val Acc: 79.53125
+The accuracy is 81.72
+Train Epoch: 8 [12800/49000 (26%)]	Train Loss: 0.351701	Val Loss: 0.570409	Val Acc: 81.71875
+The accuracy is 82.34
+Train Epoch: 8 [14080/49000 (29%)]	Train Loss: 0.237857	Val Loss: 0.529918	Val Acc: 82.34375
+The accuracy is 79.53
+Train Epoch: 8 [15360/49000 (31%)]	Train Loss: 0.339709	Val Loss: 0.634375	Val Acc: 79.53125
+The accuracy is 79.69
+Train Epoch: 8 [16640/49000 (34%)]	Train Loss: 0.289401	Val Loss: 0.634667	Val Acc: 79.6875
+The accuracy is 81.88
+Train Epoch: 8 [17920/49000 (37%)]	Train Loss: 0.296854	Val Loss: 0.581007	Val Acc: 81.875
+The accuracy is 81.88
+Train Epoch: 8 [19200/49000 (39%)]	Train Loss: 0.354135	Val Loss: 0.620442	Val Acc: 81.875
+The accuracy is 78.28
+Train Epoch: 8 [20480/49000 (42%)]	Train Loss: 0.474341	Val Loss: 0.670127	Val Acc: 78.28125
+The accuracy is 79.22
+Train Epoch: 8 [21760/49000 (44%)]	Train Loss: 0.477693	Val Loss: 0.613514	Val Acc: 79.21875
+The accuracy is 83.12
+Train Epoch: 8 [23040/49000 (47%)]	Train Loss: 0.278768	Val Loss: 0.554580	Val Acc: 83.125
+The accuracy is 79.06
+Train Epoch: 8 [24320/49000 (50%)]	Train Loss: 0.313804	Val Loss: 0.624126	Val Acc: 79.0625
+The accuracy is 81.09
+Train Epoch: 8 [25600/49000 (52%)]	Train Loss: 0.229339	Val Loss: 0.610791	Val Acc: 81.09375
+The accuracy is 83.75
+Train Epoch: 8 [26880/49000 (55%)]	Train Loss: 0.210395	Val Loss: 0.506898	Val Acc: 83.75
+The accuracy is 82.81
+Train Epoch: 8 [28160/49000 (57%)]	Train Loss: 0.349558	Val Loss: 0.528394	Val Acc: 82.8125
+The accuracy is 83.75
+Train Epoch: 8 [29440/49000 (60%)]	Train Loss: 0.155089	Val Loss: 0.529452	Val Acc: 83.75
+The accuracy is 81.09
+Train Epoch: 8 [30720/49000 (63%)]	Train Loss: 0.281579	Val Loss: 0.578872	Val Acc: 81.09375
+The accuracy is 80.62
+Train Epoch: 8 [32000/49000 (65%)]	Train Loss: 0.383208	Val Loss: 0.599378	Val Acc: 80.625
+The accuracy is 81.88
+Train Epoch: 8 [33280/49000 (68%)]	Train Loss: 0.216419	Val Loss: 0.574878	Val Acc: 81.875
+The accuracy is 81.09
+Train Epoch: 8 [34560/49000 (70%)]	Train Loss: 0.437422	Val Loss: 0.586128	Val Acc: 81.09375
+The accuracy is 80.00
+Train Epoch: 8 [35840/49000 (73%)]	Train Loss: 0.359233	Val Loss: 0.568580	Val Acc: 80.0
+The accuracy is 82.50
+Train Epoch: 8 [37120/49000 (76%)]	Train Loss: 0.399728	Val Loss: 0.498046	Val Acc: 82.5
+The accuracy is 80.78
+Train Epoch: 8 [38400/49000 (78%)]	Train Loss: 0.266707	Val Loss: 0.567810	Val Acc: 80.78125
+The accuracy is 81.41
+Train Epoch: 8 [39680/49000 (81%)]	Train Loss: 0.307305	Val Loss: 0.556426	Val Acc: 81.40625
+The accuracy is 80.78
+Train Epoch: 8 [40960/49000 (84%)]	Train Loss: 0.468958	Val Loss: 0.575351	Val Acc: 80.78125
+The accuracy is 79.69
+Train Epoch: 8 [42240/49000 (86%)]	Train Loss: 0.275883	Val Loss: 0.642849	Val Acc: 79.6875
+The accuracy is 82.97
+Train Epoch: 8 [43520/49000 (89%)]	Train Loss: 0.300531	Val Loss: 0.546812	Val Acc: 82.96875
+The accuracy is 80.94
+Train Epoch: 8 [44800/49000 (91%)]	Train Loss: 0.147656	Val Loss: 0.578639	Val Acc: 80.9375
+The accuracy is 72.19
+Train Epoch: 8 [46080/49000 (94%)]	Train Loss: 0.438078	Val Loss: 0.981101	Val Acc: 72.1875
+The accuracy is 81.88
+Train Epoch: 8 [47360/49000 (97%)]	Train Loss: 0.352865	Val Loss: 0.563977	Val Acc: 81.875
+The accuracy is 80.62
+Train Epoch: 8 [48640/49000 (99%)]	Train Loss: 0.345034	Val Loss: 0.622878	Val Acc: 80.625
+The accuracy is 83.59
+Train Epoch: 9 [0/49000 (0%)]	Train Loss: 1.102684	Val Loss: 0.535269	Val Acc: 83.59375
+The accuracy is 82.81
+Train Epoch: 9 [1280/49000 (3%)]	Train Loss: 0.265754	Val Loss: 0.567292	Val Acc: 82.8125
+The accuracy is 81.88
+Train Epoch: 9 [2560/49000 (5%)]	Train Loss: 0.250284	Val Loss: 0.549670	Val Acc: 81.875
+The accuracy is 82.50
+Train Epoch: 9 [3840/49000 (8%)]	Train Loss: 0.396969	Val Loss: 0.575129	Val Acc: 82.5
+The accuracy is 81.88
+Train Epoch: 9 [5120/49000 (10%)]	Train Loss: 0.147528	Val Loss: 0.554922	Val Acc: 81.875
+The accuracy is 81.88
+Train Epoch: 9 [6400/49000 (13%)]	Train Loss: 0.224113	Val Loss: 0.613962	Val Acc: 81.875
+The accuracy is 81.72
+Train Epoch: 9 [7680/49000 (16%)]	Train Loss: 0.305004	Val Loss: 0.583777	Val Acc: 81.71875
+The accuracy is 81.56
+Train Epoch: 9 [8960/49000 (18%)]	Train Loss: 0.373366	Val Loss: 0.601910	Val Acc: 81.5625
+The accuracy is 81.25
+Train Epoch: 9 [10240/49000 (21%)]	Train Loss: 0.303700	Val Loss: 0.623190	Val Acc: 81.25
+The accuracy is 82.81
+Train Epoch: 9 [11520/49000 (23%)]	Train Loss: 0.238895	Val Loss: 0.512565	Val Acc: 82.8125
+The accuracy is 84.38
+Train Epoch: 9 [12800/49000 (26%)]	Train Loss: 0.198008	Val Loss: 0.537202	Val Acc: 84.375
+The accuracy is 80.62
+Train Epoch: 9 [14080/49000 (29%)]	Train Loss: 0.260060	Val Loss: 0.590083	Val Acc: 80.625
+The accuracy is 83.59
+Train Epoch: 9 [15360/49000 (31%)]	Train Loss: 0.184031	Val Loss: 0.554114	Val Acc: 83.59375
+The accuracy is 81.72
+Train Epoch: 9 [16640/49000 (34%)]	Train Loss: 0.277856	Val Loss: 0.568417	Val Acc: 81.71875
+The accuracy is 84.22
+Train Epoch: 9 [17920/49000 (37%)]	Train Loss: 0.146032	Val Loss: 0.536231	Val Acc: 84.21875
+The accuracy is 82.03
+Train Epoch: 9 [19200/49000 (39%)]	Train Loss: 0.263599	Val Loss: 0.536053	Val Acc: 82.03125
+The accuracy is 82.19
+Train Epoch: 9 [20480/49000 (42%)]	Train Loss: 0.200037	Val Loss: 0.547588	Val Acc: 82.1875
+The accuracy is 80.31
+Train Epoch: 9 [21760/49000 (44%)]	Train Loss: 0.468867	Val Loss: 0.685776	Val Acc: 80.3125
+The accuracy is 82.97
+Train Epoch: 9 [23040/49000 (47%)]	Train Loss: 0.151766	Val Loss: 0.550645	Val Acc: 82.96875
+The accuracy is 80.94
+Train Epoch: 9 [24320/49000 (50%)]	Train Loss: 0.176517	Val Loss: 0.616480	Val Acc: 80.9375
+The accuracy is 78.75
+Train Epoch: 9 [25600/49000 (52%)]	Train Loss: 0.323518	Val Loss: 0.625131	Val Acc: 78.75
+The accuracy is 80.78
+Train Epoch: 9 [26880/49000 (55%)]	Train Loss: 0.232345	Val Loss: 0.625176	Val Acc: 80.78125
+The accuracy is 83.28
+Train Epoch: 9 [28160/49000 (57%)]	Train Loss: 0.278651	Val Loss: 0.574258	Val Acc: 83.28125
+The accuracy is 81.41
+Train Epoch: 9 [29440/49000 (60%)]	Train Loss: 0.143912	Val Loss: 0.636486	Val Acc: 81.40625
+The accuracy is 80.78
+Train Epoch: 9 [30720/49000 (63%)]	Train Loss: 0.212448	Val Loss: 0.605245	Val Acc: 80.78125
+The accuracy is 80.62
+Train Epoch: 9 [32000/49000 (65%)]	Train Loss: 0.340551	Val Loss: 0.642675	Val Acc: 80.625
+The accuracy is 82.81
+Train Epoch: 9 [33280/49000 (68%)]	Train Loss: 0.293544	Val Loss: 0.593828	Val Acc: 82.8125
+The accuracy is 82.19
+Train Epoch: 9 [34560/49000 (70%)]	Train Loss: 0.274670	Val Loss: 0.602590	Val Acc: 82.1875
+The accuracy is 80.16
+Train Epoch: 9 [35840/49000 (73%)]	Train Loss: 0.630697	Val Loss: 0.627523	Val Acc: 80.15625
+The accuracy is 81.25
+Train Epoch: 9 [37120/49000 (76%)]	Train Loss: 0.350715	Val Loss: 0.568140	Val Acc: 81.25
+The accuracy is 82.81
+Train Epoch: 9 [38400/49000 (78%)]	Train Loss: 0.356083	Val Loss: 0.563983	Val Acc: 82.8125
+The accuracy is 81.09
+Train Epoch: 9 [39680/49000 (81%)]	Train Loss: 0.320314	Val Loss: 0.611606	Val Acc: 81.09375
+The accuracy is 78.75
+Train Epoch: 9 [40960/49000 (84%)]	Train Loss: 0.328414	Val Loss: 0.677031	Val Acc: 78.75
+The accuracy is 83.59
+Train Epoch: 9 [42240/49000 (86%)]	Train Loss: 0.187238	Val Loss: 0.497372	Val Acc: 83.59375
+The accuracy is 83.44
+Train Epoch: 9 [43520/49000 (89%)]	Train Loss: 0.280776	Val Loss: 0.479841	Val Acc: 83.4375
+The accuracy is 81.41
+Train Epoch: 9 [44800/49000 (91%)]	Train Loss: 0.286750	Val Loss: 0.619813	Val Acc: 81.40625
+The accuracy is 83.59
+Train Epoch: 9 [46080/49000 (94%)]	Train Loss: 0.141262	Val Loss: 0.594594	Val Acc: 83.59375
+The accuracy is 82.03
+Train Epoch: 9 [47360/49000 (97%)]	Train Loss: 0.310696	Val Loss: 0.586978	Val Acc: 82.03125
+The accuracy is 76.72
+Train Epoch: 9 [48640/49000 (99%)]	Train Loss: 0.609461	Val Loss: 0.719223	Val Acc: 76.71875
+The accuracy is 79.84
+Train Epoch: 10 [0/49000 (0%)]	Train Loss: 0.899440	Val Loss: 0.641661	Val Acc: 79.84375
+The accuracy is 83.44
+Train Epoch: 10 [1280/49000 (3%)]	Train Loss: 0.130448	Val Loss: 0.519354	Val Acc: 83.4375
+The accuracy is 82.50
+Train Epoch: 10 [2560/49000 (5%)]	Train Loss: 0.239686	Val Loss: 0.599179	Val Acc: 82.5
+The accuracy is 81.88
+Train Epoch: 10 [3840/49000 (8%)]	Train Loss: 0.232434	Val Loss: 0.561665	Val Acc: 81.875
+The accuracy is 82.50
+Train Epoch: 10 [5120/49000 (10%)]	Train Loss: 0.250765	Val Loss: 0.580612	Val Acc: 82.5
+The accuracy is 80.94
+Train Epoch: 10 [6400/49000 (13%)]	Train Loss: 0.260737	Val Loss: 0.628755	Val Acc: 80.9375
+The accuracy is 83.59
+Train Epoch: 10 [7680/49000 (16%)]	Train Loss: 0.208514	Val Loss: 0.556886	Val Acc: 83.59375
+The accuracy is 77.50
+Train Epoch: 10 [8960/49000 (18%)]	Train Loss: 0.521782	Val Loss: 0.673021	Val Acc: 77.5
+The accuracy is 80.47
+Train Epoch: 10 [10240/49000 (21%)]	Train Loss: 0.153056	Val Loss: 0.663649	Val Acc: 80.46875
+The accuracy is 81.88
+Train Epoch: 10 [11520/49000 (23%)]	Train Loss: 0.406070	Val Loss: 0.643662	Val Acc: 81.875
+The accuracy is 82.97
+Train Epoch: 10 [12800/49000 (26%)]	Train Loss: 0.132225	Val Loss: 0.585594	Val Acc: 82.96875
+The accuracy is 82.97
+Train Epoch: 10 [14080/49000 (29%)]	Train Loss: 0.241445	Val Loss: 0.554804	Val Acc: 82.96875
+The accuracy is 82.34
+Train Epoch: 10 [15360/49000 (31%)]	Train Loss: 0.199489	Val Loss: 0.590116	Val Acc: 82.34375
+The accuracy is 82.19
+Train Epoch: 10 [16640/49000 (34%)]	Train Loss: 0.238576	Val Loss: 0.596055	Val Acc: 82.1875
+The accuracy is 83.28
+Train Epoch: 10 [17920/49000 (37%)]	Train Loss: 0.160307	Val Loss: 0.527906	Val Acc: 83.28125
+The accuracy is 80.47
+Train Epoch: 10 [19200/49000 (39%)]	Train Loss: 0.327212	Val Loss: 0.644807	Val Acc: 80.46875
+The accuracy is 84.53
+Train Epoch: 10 [20480/49000 (42%)]	Train Loss: 0.246900	Val Loss: 0.551877	Val Acc: 84.53125
+The accuracy is 80.47
+Train Epoch: 10 [21760/49000 (44%)]	Train Loss: 0.242722	Val Loss: 0.707246	Val Acc: 80.46875
+The accuracy is 81.72
+Train Epoch: 10 [23040/49000 (47%)]	Train Loss: 0.190453	Val Loss: 0.607702	Val Acc: 81.71875
+The accuracy is 83.59
+Train Epoch: 10 [24320/49000 (50%)]	Train Loss: 0.188020	Val Loss: 0.534856	Val Acc: 83.59375
+The accuracy is 80.94
+Train Epoch: 10 [25600/49000 (52%)]	Train Loss: 0.206657	Val Loss: 0.622809	Val Acc: 80.9375
+The accuracy is 83.75
+Train Epoch: 10 [26880/49000 (55%)]	Train Loss: 0.288842	Val Loss: 0.585095	Val Acc: 83.75
+The accuracy is 80.16
+Train Epoch: 10 [28160/49000 (57%)]	Train Loss: 0.229826	Val Loss: 0.631289	Val Acc: 80.15625
+The accuracy is 81.72
+Train Epoch: 10 [29440/49000 (60%)]	Train Loss: 0.190733	Val Loss: 0.617361	Val Acc: 81.71875
+The accuracy is 82.34
+Train Epoch: 10 [30720/49000 (63%)]	Train Loss: 0.221903	Val Loss: 0.627075	Val Acc: 82.34375
+The accuracy is 81.56
+Train Epoch: 10 [32000/49000 (65%)]	Train Loss: 0.202836	Val Loss: 0.563933	Val Acc: 81.5625
+The accuracy is 84.53
+Train Epoch: 10 [33280/49000 (68%)]	Train Loss: 0.097437	Val Loss: 0.520904	Val Acc: 84.53125
+The accuracy is 81.41
+Train Epoch: 10 [34560/49000 (70%)]	Train Loss: 0.282070	Val Loss: 0.604734	Val Acc: 81.40625
+The accuracy is 82.97
+Train Epoch: 10 [35840/49000 (73%)]	Train Loss: 0.174231	Val Loss: 0.554161	Val Acc: 82.96875
+The accuracy is 78.28
+Train Epoch: 10 [37120/49000 (76%)]	Train Loss: 0.319086	Val Loss: 0.719613	Val Acc: 78.28125
+The accuracy is 82.34
+Train Epoch: 10 [38400/49000 (78%)]	Train Loss: 0.156874	Val Loss: 0.588605	Val Acc: 82.34375
+The accuracy is 81.41
+Train Epoch: 10 [39680/49000 (81%)]	Train Loss: 0.241036	Val Loss: 0.616114	Val Acc: 81.40625
+The accuracy is 82.66
+Train Epoch: 10 [40960/49000 (84%)]	Train Loss: 0.200970	Val Loss: 0.541548	Val Acc: 82.65625
+The accuracy is 82.66
+Train Epoch: 10 [42240/49000 (86%)]	Train Loss: 0.250375	Val Loss: 0.579399	Val Acc: 82.65625
+The accuracy is 83.28
+Train Epoch: 10 [43520/49000 (89%)]	Train Loss: 0.194754	Val Loss: 0.570162	Val Acc: 83.28125
+The accuracy is 84.53
+Train Epoch: 10 [44800/49000 (91%)]	Train Loss: 0.192285	Val Loss: 0.523403	Val Acc: 84.53125
+The accuracy is 77.19
+Train Epoch: 10 [46080/49000 (94%)]	Train Loss: 0.268832	Val Loss: 0.812149	Val Acc: 77.1875
+The accuracy is 79.38
+Train Epoch: 10 [47360/49000 (97%)]	Train Loss: 0.368052	Val Loss: 0.743774	Val Acc: 79.375
+The accuracy is 82.97
+Train Epoch: 10 [48640/49000 (99%)]	Train Loss: 0.285704	Val Loss: 0.566884	Val Acc: 82.96875
+The accuracy is 83.59
+Train Epoch: 11 [0/49000 (0%)]	Train Loss: 1.080109	Val Loss: 0.547558	Val Acc: 83.59375
+The accuracy is 81.72
+Train Epoch: 11 [1280/49000 (3%)]	Train Loss: 0.125948	Val Loss: 0.579021	Val Acc: 81.71875
+The accuracy is 80.47
+Train Epoch: 11 [2560/49000 (5%)]	Train Loss: 0.205821	Val Loss: 0.665253	Val Acc: 80.46875
+The accuracy is 81.72
+Train Epoch: 11 [3840/49000 (8%)]	Train Loss: 0.217843	Val Loss: 0.698815	Val Acc: 81.71875
+The accuracy is 83.28
+Train Epoch: 11 [5120/49000 (10%)]	Train Loss: 0.147249	Val Loss: 0.558516	Val Acc: 83.28125
+The accuracy is 80.47
+Train Epoch: 11 [6400/49000 (13%)]	Train Loss: 0.188019	Val Loss: 0.765498	Val Acc: 80.46875
+The accuracy is 82.66
+Train Epoch: 11 [7680/49000 (16%)]	Train Loss: 0.167436	Val Loss: 0.580129	Val Acc: 82.65625
+The accuracy is 82.97
+Train Epoch: 11 [8960/49000 (18%)]	Train Loss: 0.185663	Val Loss: 0.545104	Val Acc: 82.96875
+The accuracy is 80.16
+Train Epoch: 11 [10240/49000 (21%)]	Train Loss: 0.312313	Val Loss: 0.688501	Val Acc: 80.15625
+The accuracy is 81.41
+Train Epoch: 11 [11520/49000 (23%)]	Train Loss: 0.186547	Val Loss: 0.630038	Val Acc: 81.40625
+The accuracy is 81.41
+Train Epoch: 11 [12800/49000 (26%)]	Train Loss: 0.154493	Val Loss: 0.636931	Val Acc: 81.40625
+The accuracy is 81.41
+Train Epoch: 11 [14080/49000 (29%)]	Train Loss: 0.157873	Val Loss: 0.664837	Val Acc: 81.40625
+The accuracy is 81.56
+Train Epoch: 11 [15360/49000 (31%)]	Train Loss: 0.305645	Val Loss: 0.673589	Val Acc: 81.5625
+The accuracy is 80.78
+Train Epoch: 11 [16640/49000 (34%)]	Train Loss: 0.162394	Val Loss: 0.662001	Val Acc: 80.78125
+The accuracy is 81.88
+Train Epoch: 11 [17920/49000 (37%)]	Train Loss: 0.172115	Val Loss: 0.623577	Val Acc: 81.875
+The accuracy is 80.94
+Train Epoch: 11 [19200/49000 (39%)]	Train Loss: 0.159179	Val Loss: 0.804972	Val Acc: 80.9375
+The accuracy is 77.66
+Train Epoch: 11 [20480/49000 (42%)]	Train Loss: 0.254855	Val Loss: 0.873948	Val Acc: 77.65625
+The accuracy is 79.38
+Train Epoch: 11 [21760/49000 (44%)]	Train Loss: 0.330834	Val Loss: 0.690863	Val Acc: 79.375
+The accuracy is 82.19
+Train Epoch: 11 [23040/49000 (47%)]	Train Loss: 0.208282	Val Loss: 0.617401	Val Acc: 82.1875
+The accuracy is 83.75
+Train Epoch: 11 [24320/49000 (50%)]	Train Loss: 0.296509	Val Loss: 0.573395	Val Acc: 83.75
+The accuracy is 82.50
+Train Epoch: 11 [25600/49000 (52%)]	Train Loss: 0.138343	Val Loss: 0.641656	Val Acc: 82.5
+The accuracy is 78.59
+Train Epoch: 11 [26880/49000 (55%)]	Train Loss: 0.335696	Val Loss: 0.764837	Val Acc: 78.59375
+The accuracy is 82.19
+Train Epoch: 11 [28160/49000 (57%)]	Train Loss: 0.201487	Val Loss: 0.627333	Val Acc: 82.1875
+The accuracy is 80.94
+Train Epoch: 11 [29440/49000 (60%)]	Train Loss: 0.204262	Val Loss: 0.713070	Val Acc: 80.9375
+The accuracy is 81.88
+Train Epoch: 11 [30720/49000 (63%)]	Train Loss: 0.131148	Val Loss: 0.629190	Val Acc: 81.875
+The accuracy is 82.66
+Train Epoch: 11 [32000/49000 (65%)]	Train Loss: 0.168431	Val Loss: 0.625625	Val Acc: 82.65625
+The accuracy is 82.34
+Train Epoch: 11 [33280/49000 (68%)]	Train Loss: 0.142657	Val Loss: 0.694326	Val Acc: 82.34375
+The accuracy is 84.22
+Train Epoch: 11 [34560/49000 (70%)]	Train Loss: 0.114688	Val Loss: 0.590209	Val Acc: 84.21875
+The accuracy is 82.03
+Train Epoch: 11 [35840/49000 (73%)]	Train Loss: 0.109194	Val Loss: 0.660150	Val Acc: 82.03125
+The accuracy is 83.28
+Train Epoch: 11 [37120/49000 (76%)]	Train Loss: 0.210607	Val Loss: 0.632943	Val Acc: 83.28125
+The accuracy is 77.03
+Train Epoch: 11 [38400/49000 (78%)]	Train Loss: 0.311299	Val Loss: 0.830185	Val Acc: 77.03125
+The accuracy is 81.41
+Train Epoch: 11 [39680/49000 (81%)]	Train Loss: 0.119775	Val Loss: 0.697661	Val Acc: 81.40625
+The accuracy is 83.59
+Train Epoch: 11 [40960/49000 (84%)]	Train Loss: 0.214651	Val Loss: 0.588502	Val Acc: 83.59375
+The accuracy is 83.12
+Train Epoch: 11 [42240/49000 (86%)]	Train Loss: 0.179082	Val Loss: 0.597965	Val Acc: 83.125
+The accuracy is 81.56
+Train Epoch: 11 [43520/49000 (89%)]	Train Loss: 0.223975	Val Loss: 0.666076	Val Acc: 81.5625
+The accuracy is 82.34
+Train Epoch: 11 [44800/49000 (91%)]	Train Loss: 0.129001	Val Loss: 0.551472	Val Acc: 82.34375
+The accuracy is 82.03
+Train Epoch: 11 [46080/49000 (94%)]	Train Loss: 0.182870	Val Loss: 0.643680	Val Acc: 82.03125
+The accuracy is 73.59
+Train Epoch: 11 [47360/49000 (97%)]	Train Loss: 0.543024	Val Loss: 0.951432	Val Acc: 73.59375
+The accuracy is 83.59
+Train Epoch: 11 [48640/49000 (99%)]	Train Loss: 0.213020	Val Loss: 0.571637	Val Acc: 83.59375
+The accuracy is 83.75
+Train Epoch: 12 [0/49000 (0%)]	Train Loss: 0.917129	Val Loss: 0.571838	Val Acc: 83.75
+The accuracy is 80.78
+Train Epoch: 12 [1280/49000 (3%)]	Train Loss: 0.234294	Val Loss: 0.705640	Val Acc: 80.78125
+The accuracy is 80.31
+Train Epoch: 12 [2560/49000 (5%)]	Train Loss: 0.095232	Val Loss: 0.731744	Val Acc: 80.3125
+The accuracy is 82.66
+Train Epoch: 12 [3840/49000 (8%)]	Train Loss: 0.093368	Val Loss: 0.622175	Val Acc: 82.65625
+The accuracy is 79.06
+Train Epoch: 12 [5120/49000 (10%)]	Train Loss: 0.224506	Val Loss: 0.848887	Val Acc: 79.0625
+The accuracy is 83.44
+Train Epoch: 12 [6400/49000 (13%)]	Train Loss: 0.155696	Val Loss: 0.638610	Val Acc: 83.4375
+The accuracy is 80.31
+Train Epoch: 12 [7680/49000 (16%)]	Train Loss: 0.273040	Val Loss: 0.723470	Val Acc: 80.3125
+The accuracy is 80.31
+Train Epoch: 12 [8960/49000 (18%)]	Train Loss: 0.205751	Val Loss: 0.707125	Val Acc: 80.3125
+The accuracy is 82.81
+Train Epoch: 12 [10240/49000 (21%)]	Train Loss: 0.092447	Val Loss: 0.661831	Val Acc: 82.8125
+The accuracy is 81.88
+Train Epoch: 12 [11520/49000 (23%)]	Train Loss: 0.130274	Val Loss: 0.752866	Val Acc: 81.875
+The accuracy is 81.09
+Train Epoch: 12 [12800/49000 (26%)]	Train Loss: 0.169884	Val Loss: 0.757665	Val Acc: 81.09375
+The accuracy is 80.16
+Train Epoch: 12 [14080/49000 (29%)]	Train Loss: 0.187940	Val Loss: 0.750278	Val Acc: 80.15625
+The accuracy is 82.34
+Train Epoch: 12 [15360/49000 (31%)]	Train Loss: 0.274155	Val Loss: 0.771284	Val Acc: 82.34375
+The accuracy is 81.41
+Train Epoch: 12 [16640/49000 (34%)]	Train Loss: 0.132709	Val Loss: 0.683203	Val Acc: 81.40625
+The accuracy is 83.28
+Train Epoch: 12 [17920/49000 (37%)]	Train Loss: 0.142380	Val Loss: 0.632896	Val Acc: 83.28125
+The accuracy is 83.12
+Train Epoch: 12 [19200/49000 (39%)]	Train Loss: 0.081525	Val Loss: 0.623778	Val Acc: 83.125
+The accuracy is 83.28
+Train Epoch: 12 [20480/49000 (42%)]	Train Loss: 0.072594	Val Loss: 0.658366	Val Acc: 83.28125
+The accuracy is 79.53
+Train Epoch: 12 [21760/49000 (44%)]	Train Loss: 0.221076	Val Loss: 0.726256	Val Acc: 79.53125
+The accuracy is 84.38
+Train Epoch: 12 [23040/49000 (47%)]	Train Loss: 0.125152	Val Loss: 0.563697	Val Acc: 84.375
+The accuracy is 84.53
+Train Epoch: 12 [24320/49000 (50%)]	Train Loss: 0.072394	Val Loss: 0.570635	Val Acc: 84.53125
+The accuracy is 57.97
+Train Epoch: 12 [25600/49000 (52%)]	Train Loss: 1.220146	Val Loss: 1.270995	Val Acc: 57.96875
+The accuracy is 79.69
+Train Epoch: 12 [26880/49000 (55%)]	Train Loss: 0.281920	Val Loss: 0.670968	Val Acc: 79.6875
+The accuracy is 82.03
+Train Epoch: 12 [28160/49000 (57%)]	Train Loss: 0.169537	Val Loss: 0.561280	Val Acc: 82.03125
+The accuracy is 83.44
+Train Epoch: 12 [29440/49000 (60%)]	Train Loss: 0.225914	Val Loss: 0.607542	Val Acc: 83.4375
+The accuracy is 81.88
+Train Epoch: 12 [30720/49000 (63%)]	Train Loss: 0.197376	Val Loss: 0.655837	Val Acc: 81.875
+The accuracy is 77.50
+Train Epoch: 12 [32000/49000 (65%)]	Train Loss: 0.248463	Val Loss: 0.812045	Val Acc: 77.5
+The accuracy is 79.06
+Train Epoch: 12 [33280/49000 (68%)]	Train Loss: 0.179863	Val Loss: 0.767188	Val Acc: 79.0625
+The accuracy is 83.75
+Train Epoch: 12 [34560/49000 (70%)]	Train Loss: 0.139067	Val Loss: 0.569210	Val Acc: 83.75
+The accuracy is 82.97
+Train Epoch: 12 [35840/49000 (73%)]	Train Loss: 0.106558	Val Loss: 0.602656	Val Acc: 82.96875
+The accuracy is 81.25
+Train Epoch: 12 [37120/49000 (76%)]	Train Loss: 0.312504	Val Loss: 0.617684	Val Acc: 81.25
+The accuracy is 82.66
+Train Epoch: 12 [38400/49000 (78%)]	Train Loss: 0.111716	Val Loss: 0.641490	Val Acc: 82.65625
+The accuracy is 82.50
+Train Epoch: 12 [39680/49000 (81%)]	Train Loss: 0.197210	Val Loss: 0.663157	Val Acc: 82.5
+The accuracy is 80.47
+Train Epoch: 12 [40960/49000 (84%)]	Train Loss: 0.349041	Val Loss: 0.748017	Val Acc: 80.46875
+The accuracy is 84.06
+Train Epoch: 12 [42240/49000 (86%)]	Train Loss: 0.238359	Val Loss: 0.542956	Val Acc: 84.0625
+The accuracy is 82.19
+Train Epoch: 12 [43520/49000 (89%)]	Train Loss: 0.214926	Val Loss: 0.623197	Val Acc: 82.1875
+The accuracy is 82.34
+Train Epoch: 12 [44800/49000 (91%)]	Train Loss: 0.140491	Val Loss: 0.694127	Val Acc: 82.34375
+The accuracy is 82.66
+Train Epoch: 12 [46080/49000 (94%)]	Train Loss: 0.172090	Val Loss: 0.639220	Val Acc: 82.65625
+The accuracy is 81.56
+Train Epoch: 12 [47360/49000 (97%)]	Train Loss: 0.172228	Val Loss: 0.654902	Val Acc: 81.5625
+The accuracy is 81.56
+Train Epoch: 12 [48640/49000 (99%)]	Train Loss: 0.316371	Val Loss: 0.671185	Val Acc: 81.5625
+The accuracy is 82.66
+Train Epoch: 13 [0/49000 (0%)]	Train Loss: 1.061484	Val Loss: 0.618782	Val Acc: 82.65625
+The accuracy is 82.81
+Train Epoch: 13 [1280/49000 (3%)]	Train Loss: 0.131919	Val Loss: 0.626029	Val Acc: 82.8125
+The accuracy is 83.12
+Train Epoch: 13 [2560/49000 (5%)]	Train Loss: 0.118323	Val Loss: 0.673209	Val Acc: 83.125
+The accuracy is 77.03
+Train Epoch: 13 [3840/49000 (8%)]	Train Loss: 0.297233	Val Loss: 0.971992	Val Acc: 77.03125
+The accuracy is 81.72
+Train Epoch: 13 [5120/49000 (10%)]	Train Loss: 0.101355	Val Loss: 0.629961	Val Acc: 81.71875
+The accuracy is 82.97
+Train Epoch: 13 [6400/49000 (13%)]	Train Loss: 0.067553	Val Loss: 0.615686	Val Acc: 82.96875
+The accuracy is 83.75
+Train Epoch: 13 [7680/49000 (16%)]	Train Loss: 0.185429	Val Loss: 0.718189	Val Acc: 83.75
+The accuracy is 83.59
+Train Epoch: 13 [8960/49000 (18%)]	Train Loss: 0.103867	Val Loss: 0.690886	Val Acc: 83.59375
+The accuracy is 83.44
+Train Epoch: 13 [10240/49000 (21%)]	Train Loss: 0.154080	Val Loss: 0.708807	Val Acc: 83.4375
+The accuracy is 82.03
+Train Epoch: 13 [11520/49000 (23%)]	Train Loss: 0.110762	Val Loss: 0.712421	Val Acc: 82.03125
+The accuracy is 83.91
+Train Epoch: 13 [12800/49000 (26%)]	Train Loss: 0.087915	Val Loss: 0.665226	Val Acc: 83.90625
+The accuracy is 78.91
+Train Epoch: 13 [14080/49000 (29%)]	Train Loss: 0.191063	Val Loss: 0.987925	Val Acc: 78.90625
+The accuracy is 82.03
+Train Epoch: 13 [15360/49000 (31%)]	Train Loss: 0.088162	Val Loss: 0.663703	Val Acc: 82.03125
+The accuracy is 78.91
+Train Epoch: 13 [16640/49000 (34%)]	Train Loss: 0.232477	Val Loss: 0.843277	Val Acc: 78.90625
+The accuracy is 85.00
+Train Epoch: 13 [17920/49000 (37%)]	Train Loss: 0.133540	Val Loss: 0.687644	Val Acc: 85.0
+The accuracy is 79.38
+Train Epoch: 13 [19200/49000 (39%)]	Train Loss: 0.131370	Val Loss: 0.873896	Val Acc: 79.375
+The accuracy is 80.62
+Train Epoch: 13 [20480/49000 (42%)]	Train Loss: 0.220181	Val Loss: 0.771751	Val Acc: 80.625
+The accuracy is 82.81
+Train Epoch: 13 [21760/49000 (44%)]	Train Loss: 0.131943	Val Loss: 0.677375	Val Acc: 82.8125
+The accuracy is 80.62
+Train Epoch: 13 [23040/49000 (47%)]	Train Loss: 0.090692	Val Loss: 0.732126	Val Acc: 80.625
+The accuracy is 80.47
+Train Epoch: 13 [24320/49000 (50%)]	Train Loss: 0.166892	Val Loss: 0.690856	Val Acc: 80.46875
+The accuracy is 83.75
+Train Epoch: 13 [25600/49000 (52%)]	Train Loss: 0.082589	Val Loss: 0.641611	Val Acc: 83.75
+The accuracy is 82.34
+Train Epoch: 13 [26880/49000 (55%)]	Train Loss: 0.114133	Val Loss: 0.740371	Val Acc: 82.34375
+The accuracy is 84.06
+Train Epoch: 13 [28160/49000 (57%)]	Train Loss: 0.088255	Val Loss: 0.665883	Val Acc: 84.0625
+The accuracy is 81.88
+Train Epoch: 13 [29440/49000 (60%)]	Train Loss: 0.046961	Val Loss: 0.702338	Val Acc: 81.875
+The accuracy is 79.84
+Train Epoch: 13 [30720/49000 (63%)]	Train Loss: 0.122111	Val Loss: 0.703648	Val Acc: 79.84375
+The accuracy is 84.53
+Train Epoch: 13 [32000/49000 (65%)]	Train Loss: 0.063177	Val Loss: 0.622209	Val Acc: 84.53125
+The accuracy is 82.34
+Train Epoch: 13 [33280/49000 (68%)]	Train Loss: 0.169393	Val Loss: 0.657432	Val Acc: 82.34375
+The accuracy is 82.50
+Train Epoch: 13 [34560/49000 (70%)]	Train Loss: 0.128150	Val Loss: 0.619323	Val Acc: 82.5
+The accuracy is 80.47
+Train Epoch: 13 [35840/49000 (73%)]	Train Loss: 0.171933	Val Loss: 0.779570	Val Acc: 80.46875
+The accuracy is 85.47
+Train Epoch: 13 [37120/49000 (76%)]	Train Loss: 0.130633	Val Loss: 0.576595	Val Acc: 85.46875
+The accuracy is 82.66
+Train Epoch: 13 [38400/49000 (78%)]	Train Loss: 0.101437	Val Loss: 0.601491	Val Acc: 82.65625
+The accuracy is 77.81
+Train Epoch: 13 [39680/49000 (81%)]	Train Loss: 0.225756	Val Loss: 1.005670	Val Acc: 77.8125
+The accuracy is 83.91
+Train Epoch: 13 [40960/49000 (84%)]	Train Loss: 0.106230	Val Loss: 0.647373	Val Acc: 83.90625
+The accuracy is 77.66
+Train Epoch: 13 [42240/49000 (86%)]	Train Loss: 0.376850	Val Loss: 0.744952	Val Acc: 77.65625
+The accuracy is 82.81
+Train Epoch: 13 [43520/49000 (89%)]	Train Loss: 0.090938	Val Loss: 0.610045	Val Acc: 82.8125
+The accuracy is 83.28
+Train Epoch: 13 [44800/49000 (91%)]	Train Loss: 0.084339	Val Loss: 0.607822	Val Acc: 83.28125
+The accuracy is 84.06
+Train Epoch: 13 [46080/49000 (94%)]	Train Loss: 0.140667	Val Loss: 0.623690	Val Acc: 84.0625
+The accuracy is 78.91
+Train Epoch: 13 [47360/49000 (97%)]	Train Loss: 0.354803	Val Loss: 0.776915	Val Acc: 78.90625
+The accuracy is 83.75
+Train Epoch: 13 [48640/49000 (99%)]	Train Loss: 0.148285	Val Loss: 0.619993	Val Acc: 83.75
+The accuracy is 82.66
+Train Epoch: 14 [0/49000 (0%)]	Train Loss: 0.902867	Val Loss: 0.721384	Val Acc: 82.65625
+The accuracy is 85.00
+Train Epoch: 14 [1280/49000 (3%)]	Train Loss: 0.076759	Val Loss: 0.602840	Val Acc: 85.0
+The accuracy is 82.66
+Train Epoch: 14 [2560/49000 (5%)]	Train Loss: 0.079547	Val Loss: 0.759164	Val Acc: 82.65625
+The accuracy is 83.12
+Train Epoch: 14 [3840/49000 (8%)]	Train Loss: 0.063771	Val Loss: 0.751282	Val Acc: 83.125
+The accuracy is 84.38
+Train Epoch: 14 [5120/49000 (10%)]	Train Loss: 0.072651	Val Loss: 0.715154	Val Acc: 84.375
+The accuracy is 81.41
+Train Epoch: 14 [6400/49000 (13%)]	Train Loss: 0.072366	Val Loss: 0.886662	Val Acc: 81.40625
+The accuracy is 81.41
+Train Epoch: 14 [7680/49000 (16%)]	Train Loss: 0.272864	Val Loss: 0.582431	Val Acc: 81.40625
+The accuracy is 83.12
+Train Epoch: 14 [8960/49000 (18%)]	Train Loss: 0.108523	Val Loss: 0.590135	Val Acc: 83.125
+The accuracy is 84.84
+Train Epoch: 14 [10240/49000 (21%)]	Train Loss: 0.041800	Val Loss: 0.637140	Val Acc: 84.84375
+The accuracy is 81.25
+Train Epoch: 14 [11520/49000 (23%)]	Train Loss: 0.169005	Val Loss: 0.765424	Val Acc: 81.25
+The accuracy is 80.31
+Train Epoch: 14 [12800/49000 (26%)]	Train Loss: 0.249953	Val Loss: 0.831390	Val Acc: 80.3125
+The accuracy is 83.44
+Train Epoch: 14 [14080/49000 (29%)]	Train Loss: 0.120582	Val Loss: 0.622054	Val Acc: 83.4375
+The accuracy is 80.94
+Train Epoch: 14 [15360/49000 (31%)]	Train Loss: 0.100640	Val Loss: 0.776015	Val Acc: 80.9375
+The accuracy is 79.22
+Train Epoch: 14 [16640/49000 (34%)]	Train Loss: 0.171133	Val Loss: 1.028675	Val Acc: 79.21875
+The accuracy is 83.44
+Train Epoch: 14 [17920/49000 (37%)]	Train Loss: 0.162324	Val Loss: 0.667416	Val Acc: 83.4375
+The accuracy is 79.22
+Train Epoch: 14 [19200/49000 (39%)]	Train Loss: 0.169663	Val Loss: 0.845518	Val Acc: 79.21875
+The accuracy is 81.72
+Train Epoch: 14 [20480/49000 (42%)]	Train Loss: 0.110527	Val Loss: 0.714829	Val Acc: 81.71875
+The accuracy is 83.28
+Train Epoch: 14 [21760/49000 (44%)]	Train Loss: 0.112949	Val Loss: 0.732551	Val Acc: 83.28125
+The accuracy is 84.84
+Train Epoch: 14 [23040/49000 (47%)]	Train Loss: 0.050104	Val Loss: 0.665172	Val Acc: 84.84375
+The accuracy is 82.97
+Train Epoch: 14 [24320/49000 (50%)]	Train Loss: 0.124087	Val Loss: 0.690996	Val Acc: 82.96875
+The accuracy is 78.12
+Train Epoch: 14 [25600/49000 (52%)]	Train Loss: 0.497674	Val Loss: 0.888332	Val Acc: 78.125
+The accuracy is 82.66
+Train Epoch: 14 [26880/49000 (55%)]	Train Loss: 0.087474	Val Loss: 0.712852	Val Acc: 82.65625
+The accuracy is 82.66
+Train Epoch: 14 [28160/49000 (57%)]	Train Loss: 0.178979	Val Loss: 0.728110	Val Acc: 82.65625
+The accuracy is 81.41
+Train Epoch: 14 [29440/49000 (60%)]	Train Loss: 0.124461	Val Loss: 0.749073	Val Acc: 81.40625
+The accuracy is 80.94
+Train Epoch: 14 [30720/49000 (63%)]	Train Loss: 0.223950	Val Loss: 0.796691	Val Acc: 80.9375
+The accuracy is 83.12
+Train Epoch: 14 [32000/49000 (65%)]	Train Loss: 0.083896	Val Loss: 0.691185	Val Acc: 83.125
+The accuracy is 81.88
+Train Epoch: 14 [33280/49000 (68%)]	Train Loss: 0.095242	Val Loss: 0.757786	Val Acc: 81.875
+The accuracy is 73.91
+Train Epoch: 14 [34560/49000 (70%)]	Train Loss: 0.562395	Val Loss: 1.216762	Val Acc: 73.90625
+The accuracy is 81.09
+Train Epoch: 14 [35840/49000 (73%)]	Train Loss: 0.043679	Val Loss: 0.702162	Val Acc: 81.09375
+The accuracy is 82.97
+Train Epoch: 14 [37120/49000 (76%)]	Train Loss: 0.081025	Val Loss: 0.672411	Val Acc: 82.96875
+The accuracy is 83.28
+Train Epoch: 14 [38400/49000 (78%)]	Train Loss: 0.117768	Val Loss: 0.696672	Val Acc: 83.28125
+The accuracy is 84.53
+Train Epoch: 14 [39680/49000 (81%)]	Train Loss: 0.076665	Val Loss: 0.702033	Val Acc: 84.53125
+The accuracy is 82.34
+Train Epoch: 14 [40960/49000 (84%)]	Train Loss: 0.091757	Val Loss: 0.710110	Val Acc: 82.34375
+The accuracy is 81.41
+Train Epoch: 14 [42240/49000 (86%)]	Train Loss: 0.134716	Val Loss: 0.666118	Val Acc: 81.40625
+The accuracy is 82.97
+Train Epoch: 14 [43520/49000 (89%)]	Train Loss: 0.157601	Val Loss: 0.683071	Val Acc: 82.96875
+The accuracy is 82.19
+Train Epoch: 14 [44800/49000 (91%)]	Train Loss: 0.081281	Val Loss: 0.661246	Val Acc: 82.1875
+The accuracy is 83.59
+Train Epoch: 14 [46080/49000 (94%)]	Train Loss: 0.137779	Val Loss: 0.730437	Val Acc: 83.59375
+The accuracy is 84.84
+Train Epoch: 14 [47360/49000 (97%)]	Train Loss: 0.111404	Val Loss: 0.621616	Val Acc: 84.84375
+The accuracy is 83.12
+Train Epoch: 14 [48640/49000 (99%)]	Train Loss: 0.147958	Val Loss: 0.762438	Val Acc: 83.125
+The accuracy is 86.25
+Train Epoch: 15 [0/49000 (0%)]	Train Loss: 0.867506	Val Loss: 0.613275	Val Acc: 86.25
+The accuracy is 81.41
+Train Epoch: 15 [1280/49000 (3%)]	Train Loss: 0.319810	Val Loss: 0.597117	Val Acc: 81.40625
+The accuracy is 83.12
+Train Epoch: 15 [2560/49000 (5%)]	Train Loss: 0.102537	Val Loss: 0.625363	Val Acc: 83.125
+The accuracy is 82.66
+Train Epoch: 15 [3840/49000 (8%)]	Train Loss: 0.049270	Val Loss: 0.730661	Val Acc: 82.65625
+The accuracy is 82.81
+Train Epoch: 15 [5120/49000 (10%)]	Train Loss: 0.064411	Val Loss: 0.724432	Val Acc: 82.8125
+The accuracy is 84.22
+Train Epoch: 15 [6400/49000 (13%)]	Train Loss: 0.027075	Val Loss: 0.676434	Val Acc: 84.21875
+The accuracy is 83.59
+Train Epoch: 15 [7680/49000 (16%)]	Train Loss: 0.086972	Val Loss: 0.688655	Val Acc: 83.59375
+The accuracy is 81.25
+Train Epoch: 15 [8960/49000 (18%)]	Train Loss: 0.060006	Val Loss: 0.845832	Val Acc: 81.25
+The accuracy is 82.50
+Train Epoch: 15 [10240/49000 (21%)]	Train Loss: 0.057078	Val Loss: 0.759111	Val Acc: 82.5
+The accuracy is 81.88
+Train Epoch: 15 [11520/49000 (23%)]	Train Loss: 0.100527	Val Loss: 0.733667	Val Acc: 81.875
+The accuracy is 83.44
+Train Epoch: 15 [12800/49000 (26%)]	Train Loss: 0.113445	Val Loss: 0.717984	Val Acc: 83.4375
+The accuracy is 82.34
+Train Epoch: 15 [14080/49000 (29%)]	Train Loss: 0.080301	Val Loss: 0.775004	Val Acc: 82.34375
+The accuracy is 82.03
+Train Epoch: 15 [15360/49000 (31%)]	Train Loss: 0.058314	Val Loss: 0.882057	Val Acc: 82.03125
+The accuracy is 80.62
+Train Epoch: 15 [16640/49000 (34%)]	Train Loss: 0.031960	Val Loss: 0.834076	Val Acc: 80.625
+The accuracy is 82.03
+Train Epoch: 15 [17920/49000 (37%)]	Train Loss: 0.055488	Val Loss: 0.780956	Val Acc: 82.03125
+The accuracy is 84.38
+Train Epoch: 15 [19200/49000 (39%)]	Train Loss: 0.023044	Val Loss: 0.757637	Val Acc: 84.375
+The accuracy is 82.81
+Train Epoch: 15 [20480/49000 (42%)]	Train Loss: 0.086068	Val Loss: 0.727420	Val Acc: 82.8125
+The accuracy is 81.25
+Train Epoch: 15 [21760/49000 (44%)]	Train Loss: 0.114990	Val Loss: 0.759132	Val Acc: 81.25
+The accuracy is 83.28
+Train Epoch: 15 [23040/49000 (47%)]	Train Loss: 0.065232	Val Loss: 0.795084	Val Acc: 83.28125
+The accuracy is 81.09
+Train Epoch: 15 [24320/49000 (50%)]	Train Loss: 0.170093	Val Loss: 0.756614	Val Acc: 81.09375
+The accuracy is 78.91
+Train Epoch: 15 [25600/49000 (52%)]	Train Loss: 0.632741	Val Loss: 0.858298	Val Acc: 78.90625
+The accuracy is 81.41
+Train Epoch: 15 [26880/49000 (55%)]	Train Loss: 0.082004	Val Loss: 0.780951	Val Acc: 81.40625
+The accuracy is 82.50
+Train Epoch: 15 [28160/49000 (57%)]	Train Loss: 0.053565	Val Loss: 0.774863	Val Acc: 82.5
+The accuracy is 83.91
+Train Epoch: 15 [29440/49000 (60%)]	Train Loss: 0.067712	Val Loss: 0.687220	Val Acc: 83.90625
+The accuracy is 81.25
+Train Epoch: 15 [30720/49000 (63%)]	Train Loss: 0.063071	Val Loss: 0.873458	Val Acc: 81.25
+The accuracy is 46.72
+Train Epoch: 15 [32000/49000 (65%)]	Train Loss: 2.251052	Val Loss: 2.844783	Val Acc: 46.71875
+The accuracy is 73.44
+Train Epoch: 15 [33280/49000 (68%)]	Train Loss: 0.743320	Val Loss: 0.875806	Val Acc: 73.4375
+The accuracy is 79.22
+Train Epoch: 15 [34560/49000 (70%)]	Train Loss: 0.322256	Val Loss: 0.644172	Val Acc: 79.21875
+The accuracy is 81.56
+Train Epoch: 15 [35840/49000 (73%)]	Train Loss: 0.209660	Val Loss: 0.636668	Val Acc: 81.5625
+The accuracy is 82.19
+Train Epoch: 15 [37120/49000 (76%)]	Train Loss: 0.218767	Val Loss: 0.642933	Val Acc: 82.1875
+The accuracy is 81.72
+Train Epoch: 15 [38400/49000 (78%)]	Train Loss: 0.088425	Val Loss: 0.662582	Val Acc: 81.71875
+The accuracy is 80.31
+Train Epoch: 15 [39680/49000 (81%)]	Train Loss: 0.165217	Val Loss: 0.797064	Val Acc: 80.3125
+The accuracy is 80.16
+Train Epoch: 15 [40960/49000 (84%)]	Train Loss: 0.062759	Val Loss: 0.791519	Val Acc: 80.15625
+The accuracy is 82.97
+Train Epoch: 15 [42240/49000 (86%)]	Train Loss: 0.104734	Val Loss: 0.647216	Val Acc: 82.96875
+The accuracy is 78.75
+Train Epoch: 15 [43520/49000 (89%)]	Train Loss: 0.186048	Val Loss: 0.943694	Val Acc: 78.75
+The accuracy is 83.28
+Train Epoch: 15 [44800/49000 (91%)]	Train Loss: 0.103490	Val Loss: 0.632769	Val Acc: 83.28125
+The accuracy is 79.84
+Train Epoch: 15 [46080/49000 (94%)]	Train Loss: 0.069715	Val Loss: 0.777970	Val Acc: 79.84375
+The accuracy is 82.81
+Train Epoch: 15 [47360/49000 (97%)]	Train Loss: 0.094506	Val Loss: 0.765607	Val Acc: 82.8125
+The accuracy is 78.28
+Train Epoch: 15 [48640/49000 (99%)]	Train Loss: 0.224678	Val Loss: 0.766764	Val Acc: 78.28125
+The accuracy is 82.97
+Train Epoch: 16 [0/49000 (0%)]	Train Loss: 1.012642	Val Loss: 0.633112	Val Acc: 82.96875
+The accuracy is 83.12
+Train Epoch: 16 [1280/49000 (3%)]	Train Loss: 0.044228	Val Loss: 0.720644	Val Acc: 83.125
+The accuracy is 83.28
+Train Epoch: 16 [2560/49000 (5%)]	Train Loss: 0.037431	Val Loss: 0.750868	Val Acc: 83.28125
+The accuracy is 82.50
+Train Epoch: 16 [3840/49000 (8%)]	Train Loss: 0.032674	Val Loss: 0.827106	Val Acc: 82.5
+The accuracy is 82.81
+Train Epoch: 16 [5120/49000 (10%)]	Train Loss: 0.018094	Val Loss: 0.815191	Val Acc: 82.8125
+The accuracy is 83.91
+Train Epoch: 16 [6400/49000 (13%)]	Train Loss: 0.104807	Val Loss: 0.801817	Val Acc: 83.90625
+The accuracy is 84.22
+Train Epoch: 16 [7680/49000 (16%)]	Train Loss: 0.110200	Val Loss: 0.768621	Val Acc: 84.21875
+The accuracy is 81.88
+Train Epoch: 16 [8960/49000 (18%)]	Train Loss: 0.097904	Val Loss: 0.850788	Val Acc: 81.875
+The accuracy is 83.75
+Train Epoch: 16 [10240/49000 (21%)]	Train Loss: 0.061272	Val Loss: 0.795049	Val Acc: 83.75
+The accuracy is 83.91
+Train Epoch: 16 [11520/49000 (23%)]	Train Loss: 0.049343	Val Loss: 0.769068	Val Acc: 83.90625
+The accuracy is 74.53
+Train Epoch: 16 [12800/49000 (26%)]	Train Loss: 0.511416	Val Loss: 1.217478	Val Acc: 74.53125
+The accuracy is 81.25
+Train Epoch: 16 [14080/49000 (29%)]	Train Loss: 0.105108	Val Loss: 0.698482	Val Acc: 81.25
+The accuracy is 82.66
+Train Epoch: 16 [15360/49000 (31%)]	Train Loss: 0.081475	Val Loss: 0.738887	Val Acc: 82.65625
+The accuracy is 81.41
+Train Epoch: 16 [16640/49000 (34%)]	Train Loss: 0.075745	Val Loss: 0.736909	Val Acc: 81.40625
+The accuracy is 82.34
+Train Epoch: 16 [17920/49000 (37%)]	Train Loss: 0.034272	Val Loss: 0.793092	Val Acc: 82.34375
+The accuracy is 77.19
+Train Epoch: 16 [19200/49000 (39%)]	Train Loss: 0.129907	Val Loss: 1.240255	Val Acc: 77.1875
+The accuracy is 82.34
+Train Epoch: 16 [20480/49000 (42%)]	Train Loss: 0.131721	Val Loss: 0.564942	Val Acc: 82.34375
+The accuracy is 83.44
+Train Epoch: 16 [21760/49000 (44%)]	Train Loss: 0.061946	Val Loss: 0.661768	Val Acc: 83.4375
+The accuracy is 83.59
+Train Epoch: 16 [23040/49000 (47%)]	Train Loss: 0.085735	Val Loss: 0.653647	Val Acc: 83.59375
+The accuracy is 83.12
+Train Epoch: 16 [24320/49000 (50%)]	Train Loss: 0.090210	Val Loss: 0.730303	Val Acc: 83.125
+The accuracy is 83.91
+Train Epoch: 16 [25600/49000 (52%)]	Train Loss: 0.114254	Val Loss: 0.717202	Val Acc: 83.90625
+The accuracy is 84.22
+Train Epoch: 16 [26880/49000 (55%)]	Train Loss: 0.082873	Val Loss: 0.707711	Val Acc: 84.21875
+The accuracy is 82.50
+Train Epoch: 16 [28160/49000 (57%)]	Train Loss: 0.069041	Val Loss: 0.840494	Val Acc: 82.5
+The accuracy is 80.94
+Train Epoch: 16 [29440/49000 (60%)]	Train Loss: 0.052288	Val Loss: 0.896146	Val Acc: 80.9375
+The accuracy is 84.53
+Train Epoch: 16 [30720/49000 (63%)]	Train Loss: 0.089498	Val Loss: 0.766311	Val Acc: 84.53125
+The accuracy is 83.75
+Train Epoch: 16 [32000/49000 (65%)]	Train Loss: 0.075576	Val Loss: 0.847484	Val Acc: 83.75
+The accuracy is 82.50
+Train Epoch: 16 [33280/49000 (68%)]	Train Loss: 0.048832	Val Loss: 0.782292	Val Acc: 82.5
+The accuracy is 83.28
+Train Epoch: 16 [34560/49000 (70%)]	Train Loss: 0.097118	Val Loss: 0.905022	Val Acc: 83.28125
+The accuracy is 85.16
+Train Epoch: 16 [35840/49000 (73%)]	Train Loss: 0.167206	Val Loss: 0.684235	Val Acc: 85.15625
+The accuracy is 82.81
+Train Epoch: 16 [37120/49000 (76%)]	Train Loss: 0.058282	Val Loss: 0.672744	Val Acc: 82.8125
+The accuracy is 85.16
+Train Epoch: 16 [38400/49000 (78%)]	Train Loss: 0.048453	Val Loss: 0.701411	Val Acc: 85.15625
+The accuracy is 77.97
+Train Epoch: 16 [39680/49000 (81%)]	Train Loss: 0.168471	Val Loss: 1.055656	Val Acc: 77.96875
+The accuracy is 83.12
+Train Epoch: 16 [40960/49000 (84%)]	Train Loss: 0.139091	Val Loss: 0.594847	Val Acc: 83.125
+The accuracy is 84.69
+Train Epoch: 16 [42240/49000 (86%)]	Train Loss: 0.060329	Val Loss: 0.680571	Val Acc: 84.6875
+The accuracy is 82.50
+Train Epoch: 16 [43520/49000 (89%)]	Train Loss: 0.042830	Val Loss: 0.762568	Val Acc: 82.5
+The accuracy is 85.31
+Train Epoch: 16 [44800/49000 (91%)]	Train Loss: 0.026940	Val Loss: 0.673699	Val Acc: 85.3125
+The accuracy is 83.28
+Train Epoch: 16 [46080/49000 (94%)]	Train Loss: 0.111022	Val Loss: 0.734854	Val Acc: 83.28125
+The accuracy is 82.03
+Train Epoch: 16 [47360/49000 (97%)]	Train Loss: 0.224069	Val Loss: 0.830685	Val Acc: 82.03125
+The accuracy is 83.75
+Train Epoch: 16 [48640/49000 (99%)]	Train Loss: 0.118328	Val Loss: 0.623107	Val Acc: 83.75
+The accuracy is 82.34
+Train Epoch: 17 [0/49000 (0%)]	Train Loss: 0.625660	Val Loss: 0.649827	Val Acc: 82.34375
+The accuracy is 84.06
+Train Epoch: 17 [1280/49000 (3%)]	Train Loss: 0.039800	Val Loss: 0.670835	Val Acc: 84.0625
+The accuracy is 81.41
+Train Epoch: 17 [2560/49000 (5%)]	Train Loss: 0.025639	Val Loss: 0.781674	Val Acc: 81.40625
+The accuracy is 82.81
+Train Epoch: 17 [3840/49000 (8%)]	Train Loss: 0.028149	Val Loss: 0.786337	Val Acc: 82.8125
+The accuracy is 84.84
+Train Epoch: 17 [5120/49000 (10%)]	Train Loss: 0.059835	Val Loss: 0.741617	Val Acc: 84.84375
+The accuracy is 83.91
+Train Epoch: 17 [6400/49000 (13%)]	Train Loss: 0.032714	Val Loss: 0.766067	Val Acc: 83.90625
+The accuracy is 79.84
+Train Epoch: 17 [7680/49000 (16%)]	Train Loss: 0.153187	Val Loss: 0.938420	Val Acc: 79.84375
+The accuracy is 85.31
+Train Epoch: 17 [8960/49000 (18%)]	Train Loss: 0.023189	Val Loss: 0.700976	Val Acc: 85.3125
+The accuracy is 84.22
+Train Epoch: 17 [10240/49000 (21%)]	Train Loss: 0.025418	Val Loss: 0.749102	Val Acc: 84.21875
+The accuracy is 83.44
+Train Epoch: 17 [11520/49000 (23%)]	Train Loss: 0.027208	Val Loss: 0.771914	Val Acc: 83.4375
+The accuracy is 67.81
+Train Epoch: 17 [12800/49000 (26%)]	Train Loss: 0.803630	Val Loss: 1.891716	Val Acc: 67.8125
+The accuracy is 82.50
+Train Epoch: 17 [14080/49000 (29%)]	Train Loss: 0.083447	Val Loss: 0.672777	Val Acc: 82.5
+The accuracy is 81.25
+Train Epoch: 17 [15360/49000 (31%)]	Train Loss: 0.089985	Val Loss: 0.743399	Val Acc: 81.25
+The accuracy is 82.81
+Train Epoch: 17 [16640/49000 (34%)]	Train Loss: 0.046202	Val Loss: 0.726945	Val Acc: 82.8125
+The accuracy is 81.56
+Train Epoch: 17 [17920/49000 (37%)]	Train Loss: 0.034585	Val Loss: 0.888144	Val Acc: 81.5625
+The accuracy is 83.44
+Train Epoch: 17 [19200/49000 (39%)]	Train Loss: 0.097175	Val Loss: 0.698922	Val Acc: 83.4375
+The accuracy is 83.59
+Train Epoch: 17 [20480/49000 (42%)]	Train Loss: 0.083010	Val Loss: 0.758370	Val Acc: 83.59375
+The accuracy is 83.59
+Train Epoch: 17 [21760/49000 (44%)]	Train Loss: 0.057985	Val Loss: 0.750205	Val Acc: 83.59375
+The accuracy is 83.59
+Train Epoch: 17 [23040/49000 (47%)]	Train Loss: 0.063460	Val Loss: 0.719433	Val Acc: 83.59375
+The accuracy is 82.97
+Train Epoch: 17 [24320/49000 (50%)]	Train Loss: 0.053361	Val Loss: 0.867260	Val Acc: 82.96875
+The accuracy is 83.12
+Train Epoch: 17 [25600/49000 (52%)]	Train Loss: 0.180584	Val Loss: 0.804752	Val Acc: 83.125
+The accuracy is 79.84
+Train Epoch: 17 [26880/49000 (55%)]	Train Loss: 0.221351	Val Loss: 0.825938	Val Acc: 79.84375
+The accuracy is 80.47
+Train Epoch: 17 [28160/49000 (57%)]	Train Loss: 0.055746	Val Loss: 0.833849	Val Acc: 80.46875
+The accuracy is 83.75
+Train Epoch: 17 [29440/49000 (60%)]	Train Loss: 0.086208	Val Loss: 0.742973	Val Acc: 83.75
+The accuracy is 84.38
+Train Epoch: 17 [30720/49000 (63%)]	Train Loss: 0.026963	Val Loss: 0.858312	Val Acc: 84.375
+The accuracy is 85.00
+Train Epoch: 17 [32000/49000 (65%)]	Train Loss: 0.018346	Val Loss: 0.807937	Val Acc: 85.0
+The accuracy is 82.66
+Train Epoch: 17 [33280/49000 (68%)]	Train Loss: 0.030590	Val Loss: 0.822936	Val Acc: 82.65625
+The accuracy is 83.91
+Train Epoch: 17 [34560/49000 (70%)]	Train Loss: 0.068010	Val Loss: 0.789602	Val Acc: 83.90625
+The accuracy is 83.28
+Train Epoch: 17 [35840/49000 (73%)]	Train Loss: 0.059667	Val Loss: 0.810069	Val Acc: 83.28125
+The accuracy is 83.91
+Train Epoch: 17 [37120/49000 (76%)]	Train Loss: 0.053562	Val Loss: 0.775681	Val Acc: 83.90625
+The accuracy is 85.16
+Train Epoch: 17 [38400/49000 (78%)]	Train Loss: 0.032481	Val Loss: 0.768347	Val Acc: 85.15625
+The accuracy is 82.81
+Train Epoch: 17 [39680/49000 (81%)]	Train Loss: 0.032770	Val Loss: 0.922194	Val Acc: 82.8125
+The accuracy is 84.06
+Train Epoch: 17 [40960/49000 (84%)]	Train Loss: 0.025369	Val Loss: 0.751072	Val Acc: 84.0625
+The accuracy is 83.59
+Train Epoch: 17 [42240/49000 (86%)]	Train Loss: 0.059120	Val Loss: 0.794137	Val Acc: 83.59375
+The accuracy is 84.53
+Train Epoch: 17 [43520/49000 (89%)]	Train Loss: 0.015630	Val Loss: 0.914711	Val Acc: 84.53125
+The accuracy is 83.28
+Train Epoch: 17 [44800/49000 (91%)]	Train Loss: 0.056653	Val Loss: 0.875391	Val Acc: 83.28125
+The accuracy is 85.00
+Train Epoch: 17 [46080/49000 (94%)]	Train Loss: 0.093817	Val Loss: 0.782339	Val Acc: 85.0
+The accuracy is 85.00
+Train Epoch: 17 [47360/49000 (97%)]	Train Loss: 0.062413	Val Loss: 0.799438	Val Acc: 85.0
+The accuracy is 82.19
+Train Epoch: 17 [48640/49000 (99%)]	Train Loss: 0.079696	Val Loss: 0.933585	Val Acc: 82.1875
+The accuracy is 79.53
+Train Epoch: 18 [0/49000 (0%)]	Train Loss: 0.728062	Val Loss: 1.078388	Val Acc: 79.53125
+The accuracy is 84.06
+Train Epoch: 18 [1280/49000 (3%)]	Train Loss: 0.015096	Val Loss: 0.826172	Val Acc: 84.0625
+The accuracy is 84.22
+Train Epoch: 18 [2560/49000 (5%)]	Train Loss: 0.017383	Val Loss: 0.799403	Val Acc: 84.21875
+The accuracy is 84.53
+Train Epoch: 18 [3840/49000 (8%)]	Train Loss: 0.015773	Val Loss: 0.745801	Val Acc: 84.53125
+The accuracy is 86.72
+Train Epoch: 18 [5120/49000 (10%)]	Train Loss: 0.040224	Val Loss: 0.806535	Val Acc: 86.71875
+The accuracy is 85.94
+Train Epoch: 18 [6400/49000 (13%)]	Train Loss: 0.025697	Val Loss: 0.878915	Val Acc: 85.9375
+The accuracy is 84.38
+Train Epoch: 18 [7680/49000 (16%)]	Train Loss: 0.014726	Val Loss: 0.945620	Val Acc: 84.375
+The accuracy is 83.12
+Train Epoch: 18 [8960/49000 (18%)]	Train Loss: 0.011011	Val Loss: 1.016615	Val Acc: 83.125
+The accuracy is 84.06
+Train Epoch: 18 [10240/49000 (21%)]	Train Loss: 0.058504	Val Loss: 0.932453	Val Acc: 84.0625
+The accuracy is 82.50
+Train Epoch: 18 [11520/49000 (23%)]	Train Loss: 0.043125	Val Loss: 0.993069	Val Acc: 82.5
+The accuracy is 83.75
+Train Epoch: 18 [12800/49000 (26%)]	Train Loss: 0.016728	Val Loss: 0.875697	Val Acc: 83.75
+The accuracy is 77.66
+Train Epoch: 18 [14080/49000 (29%)]	Train Loss: 0.067927	Val Loss: 1.402079	Val Acc: 77.65625
+The accuracy is 78.59
+Train Epoch: 18 [15360/49000 (31%)]	Train Loss: 0.229489	Val Loss: 0.674305	Val Acc: 78.59375
+The accuracy is 81.72
+Train Epoch: 18 [16640/49000 (34%)]	Train Loss: 0.130818	Val Loss: 0.733547	Val Acc: 81.71875
+The accuracy is 83.75
+Train Epoch: 18 [17920/49000 (37%)]	Train Loss: 0.056219	Val Loss: 0.675668	Val Acc: 83.75
+The accuracy is 85.62
+Train Epoch: 18 [19200/49000 (39%)]	Train Loss: 0.029144	Val Loss: 0.664579	Val Acc: 85.625
+The accuracy is 85.78
+Train Epoch: 18 [20480/49000 (42%)]	Train Loss: 0.055833	Val Loss: 0.614159	Val Acc: 85.78125
+The accuracy is 82.66
+Train Epoch: 18 [21760/49000 (44%)]	Train Loss: 0.020563	Val Loss: 0.814581	Val Acc: 82.65625
+The accuracy is 84.06
+Train Epoch: 18 [23040/49000 (47%)]	Train Loss: 0.034453	Val Loss: 0.800527	Val Acc: 84.0625
+The accuracy is 75.00
+Train Epoch: 18 [24320/49000 (50%)]	Train Loss: 0.260610	Val Loss: 1.049460	Val Acc: 75.0
+The accuracy is 82.97
+Train Epoch: 18 [25600/49000 (52%)]	Train Loss: 0.142553	Val Loss: 0.676190	Val Acc: 82.96875
+The accuracy is 83.59
+Train Epoch: 18 [26880/49000 (55%)]	Train Loss: 0.035931	Val Loss: 0.717361	Val Acc: 83.59375
+The accuracy is 83.91
+Train Epoch: 18 [28160/49000 (57%)]	Train Loss: 0.060378	Val Loss: 0.727578	Val Acc: 83.90625
+The accuracy is 81.56
+Train Epoch: 18 [29440/49000 (60%)]	Train Loss: 0.066544	Val Loss: 0.878886	Val Acc: 81.5625
+The accuracy is 81.72
+Train Epoch: 18 [30720/49000 (63%)]	Train Loss: 0.030355	Val Loss: 0.836703	Val Acc: 81.71875
+The accuracy is 83.59
+Train Epoch: 18 [32000/49000 (65%)]	Train Loss: 0.037439	Val Loss: 0.765781	Val Acc: 83.59375
+The accuracy is 82.50
+Train Epoch: 18 [33280/49000 (68%)]	Train Loss: 0.100261	Val Loss: 0.838802	Val Acc: 82.5
+The accuracy is 84.53
+Train Epoch: 18 [34560/49000 (70%)]	Train Loss: 0.048098	Val Loss: 0.807286	Val Acc: 84.53125
+The accuracy is 82.66
+Train Epoch: 18 [35840/49000 (73%)]	Train Loss: 0.016194	Val Loss: 0.850376	Val Acc: 82.65625
+The accuracy is 80.62
+Train Epoch: 18 [37120/49000 (76%)]	Train Loss: 0.028546	Val Loss: 0.987466	Val Acc: 80.625
+The accuracy is 83.28
+Train Epoch: 18 [38400/49000 (78%)]	Train Loss: 0.027892	Val Loss: 0.823861	Val Acc: 83.28125
+The accuracy is 82.66
+Train Epoch: 18 [39680/49000 (81%)]	Train Loss: 0.073728	Val Loss: 1.007695	Val Acc: 82.65625
+The accuracy is 80.62
+Train Epoch: 18 [40960/49000 (84%)]	Train Loss: 0.291793	Val Loss: 0.697560	Val Acc: 80.625
+The accuracy is 81.88
+Train Epoch: 18 [42240/49000 (86%)]	Train Loss: 0.108175	Val Loss: 0.771811	Val Acc: 81.875
+The accuracy is 84.53
+Train Epoch: 18 [43520/49000 (89%)]	Train Loss: 0.044905	Val Loss: 0.677987	Val Acc: 84.53125
+The accuracy is 84.06
+Train Epoch: 18 [44800/49000 (91%)]	Train Loss: 0.041827	Val Loss: 0.764347	Val Acc: 84.0625
+The accuracy is 84.06
+Train Epoch: 18 [46080/49000 (94%)]	Train Loss: 0.047354	Val Loss: 0.742387	Val Acc: 84.0625
+The accuracy is 84.38
+Train Epoch: 18 [47360/49000 (97%)]	Train Loss: 0.027186	Val Loss: 0.760264	Val Acc: 84.375
+The accuracy is 81.41
+Train Epoch: 18 [48640/49000 (99%)]	Train Loss: 0.112011	Val Loss: 0.845788	Val Acc: 81.40625
+The accuracy is 84.38
+Train Epoch: 19 [0/49000 (0%)]	Train Loss: 1.008712	Val Loss: 0.751928	Val Acc: 84.375
+The accuracy is 85.31
+Train Epoch: 19 [1280/49000 (3%)]	Train Loss: 0.027733	Val Loss: 0.818787	Val Acc: 85.3125
+The accuracy is 83.44
+Train Epoch: 19 [2560/49000 (5%)]	Train Loss: 0.010246	Val Loss: 0.875290	Val Acc: 83.4375
+The accuracy is 84.06
+Train Epoch: 19 [3840/49000 (8%)]	Train Loss: 0.004641	Val Loss: 0.869869	Val Acc: 84.0625
+The accuracy is 83.59
+Train Epoch: 19 [5120/49000 (10%)]	Train Loss: 0.022346	Val Loss: 0.863834	Val Acc: 83.59375
+The accuracy is 85.62
+Train Epoch: 19 [6400/49000 (13%)]	Train Loss: 0.008041	Val Loss: 0.881606	Val Acc: 85.625
+The accuracy is 84.06
+Train Epoch: 19 [7680/49000 (16%)]	Train Loss: 0.020670	Val Loss: 0.870864	Val Acc: 84.0625
+The accuracy is 83.91
+Train Epoch: 19 [8960/49000 (18%)]	Train Loss: 0.017274	Val Loss: 0.850106	Val Acc: 83.90625
+The accuracy is 84.22
+Train Epoch: 19 [10240/49000 (21%)]	Train Loss: 0.014368	Val Loss: 0.784180	Val Acc: 84.21875
+The accuracy is 83.75
+Train Epoch: 19 [11520/49000 (23%)]	Train Loss: 0.026693	Val Loss: 0.947937	Val Acc: 83.75
+The accuracy is 85.78
+Train Epoch: 19 [12800/49000 (26%)]	Train Loss: 0.011520	Val Loss: 0.778927	Val Acc: 85.78125
+The accuracy is 84.06
+Train Epoch: 19 [14080/49000 (29%)]	Train Loss: 0.020235	Val Loss: 1.006098	Val Acc: 84.0625
+The accuracy is 85.16
+Train Epoch: 19 [15360/49000 (31%)]	Train Loss: 0.011272	Val Loss: 0.903980	Val Acc: 85.15625
+The accuracy is 74.22
+Train Epoch: 19 [16640/49000 (34%)]	Train Loss: 0.351154	Val Loss: 1.654504	Val Acc: 74.21875
+The accuracy is 82.03
+Train Epoch: 19 [17920/49000 (37%)]	Train Loss: 0.057391	Val Loss: 0.747341	Val Acc: 82.03125
+The accuracy is 80.78
+Train Epoch: 19 [19200/49000 (39%)]	Train Loss: 0.171123	Val Loss: 0.831618	Val Acc: 80.78125
+The accuracy is 84.22
+Train Epoch: 19 [20480/49000 (42%)]	Train Loss: 0.027088	Val Loss: 0.772081	Val Acc: 84.21875
+The accuracy is 85.00
+Train Epoch: 19 [21760/49000 (44%)]	Train Loss: 0.016430	Val Loss: 0.743614	Val Acc: 85.0
+The accuracy is 84.53
+Train Epoch: 19 [23040/49000 (47%)]	Train Loss: 0.030718	Val Loss: 0.803182	Val Acc: 84.53125
+The accuracy is 84.38
+Train Epoch: 19 [24320/49000 (50%)]	Train Loss: 0.013430	Val Loss: 0.880284	Val Acc: 84.375
+The accuracy is 83.12
+Train Epoch: 19 [25600/49000 (52%)]	Train Loss: 0.130502	Val Loss: 0.678218	Val Acc: 83.125
+The accuracy is 83.12
+Train Epoch: 19 [26880/49000 (55%)]	Train Loss: 0.088030	Val Loss: 0.687714	Val Acc: 83.125
+The accuracy is 83.91
+Train Epoch: 19 [28160/49000 (57%)]	Train Loss: 0.113133	Val Loss: 0.676566	Val Acc: 83.90625
+The accuracy is 81.56
+Train Epoch: 19 [29440/49000 (60%)]	Train Loss: 0.038827	Val Loss: 0.837858	Val Acc: 81.5625
+The accuracy is 82.97
+Train Epoch: 19 [30720/49000 (63%)]	Train Loss: 0.030840	Val Loss: 0.812549	Val Acc: 82.96875
+The accuracy is 81.56
+Train Epoch: 19 [32000/49000 (65%)]	Train Loss: 0.024427	Val Loss: 0.911021	Val Acc: 81.5625
+The accuracy is 81.09
+Train Epoch: 19 [33280/49000 (68%)]	Train Loss: 0.015550	Val Loss: 0.917714	Val Acc: 81.09375
+The accuracy is 81.72
+Train Epoch: 19 [34560/49000 (70%)]	Train Loss: 0.028090	Val Loss: 1.001792	Val Acc: 81.71875
+The accuracy is 81.09
+Train Epoch: 19 [35840/49000 (73%)]	Train Loss: 0.036585	Val Loss: 0.891996	Val Acc: 81.09375
+The accuracy is 83.91
+Train Epoch: 19 [37120/49000 (76%)]	Train Loss: 0.050078	Val Loss: 0.612005	Val Acc: 83.90625
+The accuracy is 82.81
+Train Epoch: 19 [38400/49000 (78%)]	Train Loss: 0.088099	Val Loss: 0.651120	Val Acc: 82.8125
+The accuracy is 83.59
+Train Epoch: 19 [39680/49000 (81%)]	Train Loss: 0.058473	Val Loss: 0.803896	Val Acc: 83.59375
+The accuracy is 84.84
+Train Epoch: 19 [40960/49000 (84%)]	Train Loss: 0.041263	Val Loss: 0.770494	Val Acc: 84.84375
+The accuracy is 83.59
+Train Epoch: 19 [42240/49000 (86%)]	Train Loss: 0.020471	Val Loss: 0.796246	Val Acc: 83.59375
+The accuracy is 82.34
+Train Epoch: 19 [43520/49000 (89%)]	Train Loss: 0.013372	Val Loss: 0.769098	Val Acc: 82.34375
+The accuracy is 84.38
+Train Epoch: 19 [44800/49000 (91%)]	Train Loss: 0.035401	Val Loss: 0.853525	Val Acc: 84.375
+The accuracy is 76.88
+Train Epoch: 19 [46080/49000 (94%)]	Train Loss: 0.692149	Val Loss: 1.063504	Val Acc: 76.875
+The accuracy is 83.12
+Train Epoch: 19 [47360/49000 (97%)]	Train Loss: 0.026246	Val Loss: 0.739102	Val Acc: 83.125
+The accuracy is 84.38
+Train Epoch: 19 [48640/49000 (99%)]	Train Loss: 0.056265	Val Loss: 0.745671	Val Acc: 84.375
+The accuracy is 82.97
+Train Epoch: 20 [0/49000 (0%)]	Train Loss: 0.796038	Val Loss: 0.837005	Val Acc: 82.96875
+The accuracy is 82.97
+Train Epoch: 20 [1280/49000 (3%)]	Train Loss: 0.035556	Val Loss: 0.926429	Val Acc: 82.96875
+The accuracy is 83.28
+Train Epoch: 20 [2560/49000 (5%)]	Train Loss: 0.001778	Val Loss: 0.887826	Val Acc: 83.28125
+The accuracy is 83.91
+Train Epoch: 20 [3840/49000 (8%)]	Train Loss: 0.025616	Val Loss: 0.858475	Val Acc: 83.90625
+The accuracy is 84.06
+Train Epoch: 20 [5120/49000 (10%)]	Train Loss: 0.005334	Val Loss: 0.864795	Val Acc: 84.0625
+The accuracy is 84.06
+Train Epoch: 20 [6400/49000 (13%)]	Train Loss: 0.005999	Val Loss: 0.902040	Val Acc: 84.0625
+The accuracy is 82.97
+Train Epoch: 20 [7680/49000 (16%)]	Train Loss: 0.009528	Val Loss: 0.875505	Val Acc: 82.96875
+The accuracy is 82.34
+Train Epoch: 20 [8960/49000 (18%)]	Train Loss: 0.034972	Val Loss: 1.004942	Val Acc: 82.34375
+The accuracy is 82.81
+Train Epoch: 20 [10240/49000 (21%)]	Train Loss: 0.016120	Val Loss: 1.073710	Val Acc: 82.8125
+The accuracy is 84.22
+Train Epoch: 20 [11520/49000 (23%)]	Train Loss: 0.006250	Val Loss: 0.861637	Val Acc: 84.21875
+The accuracy is 84.22
+Train Epoch: 20 [12800/49000 (26%)]	Train Loss: 0.008892	Val Loss: 1.011686	Val Acc: 84.21875
+The accuracy is 82.97
+Train Epoch: 20 [14080/49000 (29%)]	Train Loss: 0.006633	Val Loss: 0.952080	Val Acc: 82.96875
+The accuracy is 83.75
+Train Epoch: 20 [15360/49000 (31%)]	Train Loss: 0.007226	Val Loss: 0.855014	Val Acc: 83.75
+The accuracy is 83.12
+Train Epoch: 20 [16640/49000 (34%)]	Train Loss: 0.039661	Val Loss: 1.071885	Val Acc: 83.125
+The accuracy is 82.66
+Train Epoch: 20 [17920/49000 (37%)]	Train Loss: 0.007109	Val Loss: 0.912479	Val Acc: 82.65625
+The accuracy is 83.28
+Train Epoch: 20 [19200/49000 (39%)]	Train Loss: 0.008623	Val Loss: 0.872487	Val Acc: 83.28125
+The accuracy is 81.88
+Train Epoch: 20 [20480/49000 (42%)]	Train Loss: 0.064776	Val Loss: 1.059854	Val Acc: 81.875
+The accuracy is 63.28
+Train Epoch: 20 [21760/49000 (44%)]	Train Loss: 1.019597	Val Loss: 1.957432	Val Acc: 63.28125
+The accuracy is 82.34
+Train Epoch: 20 [23040/49000 (47%)]	Train Loss: 0.126529	Val Loss: 0.638424	Val Acc: 82.34375
+The accuracy is 84.22
+Train Epoch: 20 [24320/49000 (50%)]	Train Loss: 0.096147	Val Loss: 0.715141	Val Acc: 84.21875
+The accuracy is 81.72
+Train Epoch: 20 [25600/49000 (52%)]	Train Loss: 0.140671	Val Loss: 0.873880	Val Acc: 81.71875
+The accuracy is 82.03
+Train Epoch: 20 [26880/49000 (55%)]	Train Loss: 0.043107	Val Loss: 0.834509	Val Acc: 82.03125
+The accuracy is 83.91
+Train Epoch: 20 [28160/49000 (57%)]	Train Loss: 0.014042	Val Loss: 0.820650	Val Acc: 83.90625
+The accuracy is 84.84
+Train Epoch: 20 [29440/49000 (60%)]	Train Loss: 0.029795	Val Loss: 0.877033	Val Acc: 84.84375
+The accuracy is 84.22
+Train Epoch: 20 [30720/49000 (63%)]	Train Loss: 0.031155	Val Loss: 0.868506	Val Acc: 84.21875
+The accuracy is 83.44
+Train Epoch: 20 [32000/49000 (65%)]	Train Loss: 0.054694	Val Loss: 0.815707	Val Acc: 83.4375
+The accuracy is 85.16
+Train Epoch: 20 [33280/49000 (68%)]	Train Loss: 0.014908	Val Loss: 0.862933	Val Acc: 85.15625
+The accuracy is 83.75
+Train Epoch: 20 [34560/49000 (70%)]	Train Loss: 0.025234	Val Loss: 0.914728	Val Acc: 83.75
+The accuracy is 54.69
+Train Epoch: 20 [35840/49000 (73%)]	Train Loss: 1.496140	Val Loss: 1.713446	Val Acc: 54.6875
+The accuracy is 83.12
+Train Epoch: 20 [37120/49000 (76%)]	Train Loss: 0.101208	Val Loss: 0.649293	Val Acc: 83.125
+The accuracy is 82.34
+Train Epoch: 20 [38400/49000 (78%)]	Train Loss: 0.036054	Val Loss: 0.738498	Val Acc: 82.34375
+The accuracy is 83.12
+Train Epoch: 20 [39680/49000 (81%)]	Train Loss: 0.028359	Val Loss: 0.775321	Val Acc: 83.125
+The accuracy is 80.94
+Train Epoch: 20 [40960/49000 (84%)]	Train Loss: 0.016478	Val Loss: 0.871038	Val Acc: 80.9375
+The accuracy is 83.75
+Train Epoch: 20 [42240/49000 (86%)]	Train Loss: 0.029453	Val Loss: 0.818437	Val Acc: 83.75
+The accuracy is 83.44
+Train Epoch: 20 [43520/49000 (89%)]	Train Loss: 0.053796	Val Loss: 0.855951	Val Acc: 83.4375
+The accuracy is 80.00
+Train Epoch: 20 [44800/49000 (91%)]	Train Loss: 0.199899	Val Loss: 0.853534	Val Acc: 80.0
+The accuracy is 83.91
+Train Epoch: 20 [46080/49000 (94%)]	Train Loss: 0.066335	Val Loss: 0.728533	Val Acc: 83.90625
+The accuracy is 82.81
+Train Epoch: 20 [47360/49000 (97%)]	Train Loss: 0.027309	Val Loss: 0.791109	Val Acc: 82.8125
+The accuracy is 82.34
+Train Epoch: 20 [48640/49000 (99%)]	Train Loss: 0.019110	Val Loss: 0.903756	Val Acc: 82.34375
+The accuracy is 85.16
+Train Epoch: 21 [0/49000 (0%)]	Train Loss: 0.734260	Val Loss: 0.733176	Val Acc: 85.15625
+The accuracy is 85.00
+Train Epoch: 21 [1280/49000 (3%)]	Train Loss: 0.019734	Val Loss: 0.826446	Val Acc: 85.0
+The accuracy is 85.00
+Train Epoch: 21 [2560/49000 (5%)]	Train Loss: 0.019644	Val Loss: 0.872311	Val Acc: 85.0
+The accuracy is 83.91
+Train Epoch: 21 [3840/49000 (8%)]	Train Loss: 0.011556	Val Loss: 0.934493	Val Acc: 83.90625
+The accuracy is 84.38
+Train Epoch: 21 [5120/49000 (10%)]	Train Loss: 0.005073	Val Loss: 0.875698	Val Acc: 84.375
+The accuracy is 83.12
+Train Epoch: 21 [6400/49000 (13%)]	Train Loss: 0.009693	Val Loss: 0.988312	Val Acc: 83.125
+The accuracy is 85.00
+Train Epoch: 21 [7680/49000 (16%)]	Train Loss: 0.019801	Val Loss: 0.841760	Val Acc: 85.0
+The accuracy is 83.12
+Train Epoch: 21 [8960/49000 (18%)]	Train Loss: 0.040030	Val Loss: 0.837758	Val Acc: 83.125
+The accuracy is 83.59
+Train Epoch: 21 [10240/49000 (21%)]	Train Loss: 0.012148	Val Loss: 1.042357	Val Acc: 83.59375
+The accuracy is 83.44
+Train Epoch: 21 [11520/49000 (23%)]	Train Loss: 0.007082	Val Loss: 0.990410	Val Acc: 83.4375
+The accuracy is 83.12
+Train Epoch: 21 [12800/49000 (26%)]	Train Loss: 0.017774	Val Loss: 0.965415	Val Acc: 83.125
+The accuracy is 66.72
+Train Epoch: 21 [14080/49000 (29%)]	Train Loss: 1.309574	Val Loss: 1.358899	Val Acc: 66.71875
+The accuracy is 81.41
+Train Epoch: 21 [15360/49000 (31%)]	Train Loss: 0.081698	Val Loss: 0.804613	Val Acc: 81.40625
+The accuracy is 81.09
+Train Epoch: 21 [16640/49000 (34%)]	Train Loss: 0.073874	Val Loss: 0.814688	Val Acc: 81.09375
+The accuracy is 82.66
+Train Epoch: 21 [17920/49000 (37%)]	Train Loss: 0.034106	Val Loss: 0.897874	Val Acc: 82.65625
+The accuracy is 83.91
+Train Epoch: 21 [19200/49000 (39%)]	Train Loss: 0.017482	Val Loss: 0.790816	Val Acc: 83.90625
+The accuracy is 83.28
+Train Epoch: 21 [20480/49000 (42%)]	Train Loss: 0.025933	Val Loss: 0.880970	Val Acc: 83.28125
+The accuracy is 83.59
+Train Epoch: 21 [21760/49000 (44%)]	Train Loss: 0.051533	Val Loss: 0.859502	Val Acc: 83.59375
+The accuracy is 85.16
+Train Epoch: 21 [23040/49000 (47%)]	Train Loss: 0.023105	Val Loss: 0.772649	Val Acc: 85.15625
+The accuracy is 83.59
+Train Epoch: 21 [24320/49000 (50%)]	Train Loss: 0.021155	Val Loss: 0.805753	Val Acc: 83.59375
+The accuracy is 84.06
+Train Epoch: 21 [25600/49000 (52%)]	Train Loss: 0.045974	Val Loss: 0.835458	Val Acc: 84.0625
+The accuracy is 84.22
+Train Epoch: 21 [26880/49000 (55%)]	Train Loss: 0.011739	Val Loss: 0.959608	Val Acc: 84.21875
+The accuracy is 80.00
+Train Epoch: 21 [28160/49000 (57%)]	Train Loss: 0.094462	Val Loss: 1.152201	Val Acc: 80.0
+The accuracy is 82.03
+Train Epoch: 21 [29440/49000 (60%)]	Train Loss: 0.075612	Val Loss: 0.736568	Val Acc: 82.03125
+The accuracy is 82.50
+Train Epoch: 21 [30720/49000 (63%)]	Train Loss: 0.029996	Val Loss: 0.886238	Val Acc: 82.5
+The accuracy is 84.06
+Train Epoch: 21 [32000/49000 (65%)]	Train Loss: 0.025354	Val Loss: 0.764877	Val Acc: 84.0625
+The accuracy is 82.19
+Train Epoch: 21 [33280/49000 (68%)]	Train Loss: 0.018177	Val Loss: 0.938043	Val Acc: 82.1875
+The accuracy is 80.31
+Train Epoch: 21 [34560/49000 (70%)]	Train Loss: 0.047432	Val Loss: 1.109459	Val Acc: 80.3125
+The accuracy is 81.72
+Train Epoch: 21 [35840/49000 (73%)]	Train Loss: 0.020175	Val Loss: 0.860387	Val Acc: 81.71875
+The accuracy is 83.91
+Train Epoch: 21 [37120/49000 (76%)]	Train Loss: 0.006381	Val Loss: 0.935743	Val Acc: 83.90625
+The accuracy is 83.59
+Train Epoch: 21 [38400/49000 (78%)]	Train Loss: 0.012396	Val Loss: 0.936553	Val Acc: 83.59375
+The accuracy is 81.56
+Train Epoch: 21 [39680/49000 (81%)]	Train Loss: 0.009546	Val Loss: 1.049994	Val Acc: 81.5625
+The accuracy is 84.53
+Train Epoch: 21 [40960/49000 (84%)]	Train Loss: 0.015175	Val Loss: 0.869657	Val Acc: 84.53125
+The accuracy is 82.97
+Train Epoch: 21 [42240/49000 (86%)]	Train Loss: 0.004568	Val Loss: 0.946063	Val Acc: 82.96875
+The accuracy is 84.06
+Train Epoch: 21 [43520/49000 (89%)]	Train Loss: 0.013179	Val Loss: 0.939909	Val Acc: 84.0625
+The accuracy is 82.66
+Train Epoch: 21 [44800/49000 (91%)]	Train Loss: 0.025531	Val Loss: 1.015872	Val Acc: 82.65625
+The accuracy is 82.81
+Train Epoch: 21 [46080/49000 (94%)]	Train Loss: 0.098704	Val Loss: 0.886850	Val Acc: 82.8125
+The accuracy is 82.97
+Train Epoch: 21 [47360/49000 (97%)]	Train Loss: 0.040312	Val Loss: 0.911993	Val Acc: 82.96875
+The accuracy is 82.97
+Train Epoch: 21 [48640/49000 (99%)]	Train Loss: 0.137164	Val Loss: 0.885691	Val Acc: 82.96875
+The accuracy is 84.38
+Train Epoch: 22 [0/49000 (0%)]	Train Loss: 0.639672	Val Loss: 0.783562	Val Acc: 84.375
+The accuracy is 82.03
+Train Epoch: 22 [1280/49000 (3%)]	Train Loss: 0.086470	Val Loss: 0.858806	Val Acc: 82.03125
+The accuracy is 85.94
+Train Epoch: 22 [2560/49000 (5%)]	Train Loss: 0.013165	Val Loss: 0.699981	Val Acc: 85.9375
+The accuracy is 83.91
+Train Epoch: 22 [3840/49000 (8%)]	Train Loss: 0.015499	Val Loss: 0.831956	Val Acc: 83.90625
+The accuracy is 84.84
+Train Epoch: 22 [5120/49000 (10%)]	Train Loss: 0.018456	Val Loss: 0.777184	Val Acc: 84.84375
+The accuracy is 83.28
+Train Epoch: 22 [6400/49000 (13%)]	Train Loss: 0.012718	Val Loss: 1.020744	Val Acc: 83.28125
+The accuracy is 85.31
+Train Epoch: 22 [7680/49000 (16%)]	Train Loss: 0.015273	Val Loss: 0.902146	Val Acc: 85.3125
+The accuracy is 84.38
+Train Epoch: 22 [8960/49000 (18%)]	Train Loss: 0.068054	Val Loss: 1.115090	Val Acc: 84.375
+The accuracy is 67.66
+Train Epoch: 22 [10240/49000 (21%)]	Train Loss: 1.012929	Val Loss: 0.971472	Val Acc: 67.65625
+The accuracy is 82.66
+Train Epoch: 22 [11520/49000 (23%)]	Train Loss: 0.136261	Val Loss: 0.705748	Val Acc: 82.65625
+The accuracy is 83.12
+Train Epoch: 22 [12800/49000 (26%)]	Train Loss: 0.064545	Val Loss: 0.710922	Val Acc: 83.125
+The accuracy is 83.12
+Train Epoch: 22 [14080/49000 (29%)]	Train Loss: 0.025474	Val Loss: 0.815539	Val Acc: 83.125
+The accuracy is 83.44
+Train Epoch: 22 [15360/49000 (31%)]	Train Loss: 0.024314	Val Loss: 0.698766	Val Acc: 83.4375
+The accuracy is 85.16
+Train Epoch: 22 [16640/49000 (34%)]	Train Loss: 0.020519	Val Loss: 0.827539	Val Acc: 85.15625
+The accuracy is 84.06
+Train Epoch: 22 [17920/49000 (37%)]	Train Loss: 0.021968	Val Loss: 0.844436	Val Acc: 84.0625
+The accuracy is 81.25
+Train Epoch: 22 [19200/49000 (39%)]	Train Loss: 0.166299	Val Loss: 0.761099	Val Acc: 81.25
+The accuracy is 81.25
+Train Epoch: 22 [20480/49000 (42%)]	Train Loss: 0.035368	Val Loss: 0.850071	Val Acc: 81.25
+The accuracy is 84.06
+Train Epoch: 22 [21760/49000 (44%)]	Train Loss: 0.016804	Val Loss: 0.806893	Val Acc: 84.0625
+The accuracy is 84.22
+Train Epoch: 22 [23040/49000 (47%)]	Train Loss: 0.014397	Val Loss: 0.823670	Val Acc: 84.21875
+The accuracy is 81.25
+Train Epoch: 22 [24320/49000 (50%)]	Train Loss: 0.041715	Val Loss: 1.011581	Val Acc: 81.25
+The accuracy is 83.91
+Train Epoch: 22 [25600/49000 (52%)]	Train Loss: 0.044422	Val Loss: 0.878850	Val Acc: 83.90625
+The accuracy is 83.12
+Train Epoch: 22 [26880/49000 (55%)]	Train Loss: 0.021603	Val Loss: 0.971507	Val Acc: 83.125
+The accuracy is 82.50
+Train Epoch: 22 [28160/49000 (57%)]	Train Loss: 0.026610	Val Loss: 0.980048	Val Acc: 82.5
+The accuracy is 82.81
+Train Epoch: 22 [29440/49000 (60%)]	Train Loss: 0.015981	Val Loss: 0.948221	Val Acc: 82.8125
+The accuracy is 83.44
+Train Epoch: 22 [30720/49000 (63%)]	Train Loss: 0.036856	Val Loss: 0.984796	Val Acc: 83.4375
+The accuracy is 83.59
+Train Epoch: 22 [32000/49000 (65%)]	Train Loss: 0.015269	Val Loss: 1.068277	Val Acc: 83.59375
+The accuracy is 82.19
+Train Epoch: 22 [33280/49000 (68%)]	Train Loss: 0.005727	Val Loss: 1.132714	Val Acc: 82.1875
+The accuracy is 75.78
+Train Epoch: 22 [34560/49000 (70%)]	Train Loss: 0.818178	Val Loss: 0.745118	Val Acc: 75.78125
+The accuracy is 82.66
+Train Epoch: 22 [35840/49000 (73%)]	Train Loss: 0.105519	Val Loss: 0.637374	Val Acc: 82.65625
+The accuracy is 79.53
+Train Epoch: 22 [37120/49000 (76%)]	Train Loss: 0.057808	Val Loss: 0.898537	Val Acc: 79.53125
+The accuracy is 84.53
+Train Epoch: 22 [38400/49000 (78%)]	Train Loss: 0.104226	Val Loss: 0.760477	Val Acc: 84.53125
+The accuracy is 83.28
+Train Epoch: 22 [39680/49000 (81%)]	Train Loss: 0.038503	Val Loss: 0.775302	Val Acc: 83.28125
+The accuracy is 82.97
+Train Epoch: 22 [40960/49000 (84%)]	Train Loss: 0.037978	Val Loss: 0.760741	Val Acc: 82.96875
+The accuracy is 80.31
+Train Epoch: 22 [42240/49000 (86%)]	Train Loss: 0.198833	Val Loss: 1.012083	Val Acc: 80.3125
+The accuracy is 82.66
+Train Epoch: 22 [43520/49000 (89%)]	Train Loss: 0.023122	Val Loss: 0.815417	Val Acc: 82.65625
+The accuracy is 82.19
+Train Epoch: 22 [44800/49000 (91%)]	Train Loss: 0.049334	Val Loss: 0.866218	Val Acc: 82.1875
+The accuracy is 82.50
+Train Epoch: 22 [46080/49000 (94%)]	Train Loss: 0.050658	Val Loss: 0.845921	Val Acc: 82.5
+The accuracy is 84.53
+Train Epoch: 22 [47360/49000 (97%)]	Train Loss: 0.027331	Val Loss: 0.747207	Val Acc: 84.53125
+The accuracy is 84.22
+Train Epoch: 22 [48640/49000 (99%)]	Train Loss: 0.039266	Val Loss: 0.877612	Val Acc: 84.21875
+The accuracy is 80.47
+Train Epoch: 23 [0/49000 (0%)]	Train Loss: 0.762809	Val Loss: 0.963991	Val Acc: 80.46875
+The accuracy is 83.12
+Train Epoch: 23 [1280/49000 (3%)]	Train Loss: 0.006975	Val Loss: 0.931003	Val Acc: 83.125
+The accuracy is 85.31
+Train Epoch: 23 [2560/49000 (5%)]	Train Loss: 0.012431	Val Loss: 0.826931	Val Acc: 85.3125
+The accuracy is 84.22
+Train Epoch: 23 [3840/49000 (8%)]	Train Loss: 0.039631	Val Loss: 0.913428	Val Acc: 84.21875
+The accuracy is 83.75
+Train Epoch: 23 [5120/49000 (10%)]	Train Loss: 0.018470	Val Loss: 0.956422	Val Acc: 83.75
+The accuracy is 84.84
+Train Epoch: 23 [6400/49000 (13%)]	Train Loss: 0.006879	Val Loss: 0.900367	Val Acc: 84.84375
+The accuracy is 80.47
+Train Epoch: 23 [7680/49000 (16%)]	Train Loss: 0.009639	Val Loss: 1.145026	Val Acc: 80.46875
+The accuracy is 83.91
+Train Epoch: 23 [8960/49000 (18%)]	Train Loss: 0.016965	Val Loss: 0.965356	Val Acc: 83.90625
+The accuracy is 86.56
+Train Epoch: 23 [10240/49000 (21%)]	Train Loss: 0.009749	Val Loss: 0.869077	Val Acc: 86.5625
+The accuracy is 83.91
+Train Epoch: 23 [11520/49000 (23%)]	Train Loss: 0.022792	Val Loss: 0.965851	Val Acc: 83.90625
+The accuracy is 84.38
+Train Epoch: 23 [12800/49000 (26%)]	Train Loss: 0.004331	Val Loss: 0.966785	Val Acc: 84.375
+The accuracy is 82.03
+Train Epoch: 23 [14080/49000 (29%)]	Train Loss: 0.003541	Val Loss: 1.145348	Val Acc: 82.03125
+The accuracy is 78.12
+Train Epoch: 23 [15360/49000 (31%)]	Train Loss: 0.227005	Val Loss: 1.068133	Val Acc: 78.125
+The accuracy is 82.50
+Train Epoch: 23 [16640/49000 (34%)]	Train Loss: 0.030211	Val Loss: 0.974087	Val Acc: 82.5
+The accuracy is 83.59
+Train Epoch: 23 [17920/49000 (37%)]	Train Loss: 0.025083	Val Loss: 0.938300	Val Acc: 83.59375
+The accuracy is 84.22
+Train Epoch: 23 [19200/49000 (39%)]	Train Loss: 0.038566	Val Loss: 0.912753	Val Acc: 84.21875
+The accuracy is 83.12
+Train Epoch: 23 [20480/49000 (42%)]	Train Loss: 0.027057	Val Loss: 0.950667	Val Acc: 83.125
+The accuracy is 83.91
+Train Epoch: 23 [21760/49000 (44%)]	Train Loss: 0.024979	Val Loss: 0.958020	Val Acc: 83.90625
+The accuracy is 84.53
+Train Epoch: 23 [23040/49000 (47%)]	Train Loss: 0.011725	Val Loss: 0.943834	Val Acc: 84.53125
+The accuracy is 85.47
+Train Epoch: 23 [24320/49000 (50%)]	Train Loss: 0.008802	Val Loss: 0.839973	Val Acc: 85.46875
+The accuracy is 83.59
+Train Epoch: 23 [25600/49000 (52%)]	Train Loss: 0.049741	Val Loss: 0.916685	Val Acc: 83.59375
+The accuracy is 80.47
+Train Epoch: 23 [26880/49000 (55%)]	Train Loss: 0.034349	Val Loss: 1.193154	Val Acc: 80.46875
+The accuracy is 83.91
+Train Epoch: 23 [28160/49000 (57%)]	Train Loss: 0.012323	Val Loss: 0.967676	Val Acc: 83.90625
+The accuracy is 80.00
+Train Epoch: 23 [29440/49000 (60%)]	Train Loss: 0.081594	Val Loss: 1.271457	Val Acc: 80.0
+The accuracy is 84.53
+Train Epoch: 23 [30720/49000 (63%)]	Train Loss: 0.022287	Val Loss: 0.870678	Val Acc: 84.53125
+The accuracy is 82.50
+Train Epoch: 23 [32000/49000 (65%)]	Train Loss: 0.004867	Val Loss: 1.083195	Val Acc: 82.5
+The accuracy is 70.00
+Train Epoch: 23 [33280/49000 (68%)]	Train Loss: 0.506639	Val Loss: 2.266341	Val Acc: 70.0
+The accuracy is 80.94
+Train Epoch: 23 [34560/49000 (70%)]	Train Loss: 0.133212	Val Loss: 0.738609	Val Acc: 80.9375
+The accuracy is 81.41
+Train Epoch: 23 [35840/49000 (73%)]	Train Loss: 0.031997	Val Loss: 0.805400	Val Acc: 81.40625
+The accuracy is 81.09
+Train Epoch: 23 [37120/49000 (76%)]	Train Loss: 0.036034	Val Loss: 0.966260	Val Acc: 81.09375
+The accuracy is 82.03
+Train Epoch: 23 [38400/49000 (78%)]	Train Loss: 0.038745	Val Loss: 0.833046	Val Acc: 82.03125
+The accuracy is 83.75
+Train Epoch: 23 [39680/49000 (81%)]	Train Loss: 0.043330	Val Loss: 0.906293	Val Acc: 83.75
+The accuracy is 82.03
+Train Epoch: 23 [40960/49000 (84%)]	Train Loss: 0.063998	Val Loss: 0.913031	Val Acc: 82.03125
+The accuracy is 82.97
+Train Epoch: 23 [42240/49000 (86%)]	Train Loss: 0.054419	Val Loss: 0.897074	Val Acc: 82.96875
+The accuracy is 82.81
+Train Epoch: 23 [43520/49000 (89%)]	Train Loss: 0.046634	Val Loss: 0.867610	Val Acc: 82.8125
+The accuracy is 82.66
+Train Epoch: 23 [44800/49000 (91%)]	Train Loss: 0.124877	Val Loss: 0.807065	Val Acc: 82.65625
+The accuracy is 79.06
+Train Epoch: 23 [46080/49000 (94%)]	Train Loss: 0.224811	Val Loss: 1.073822	Val Acc: 79.0625
+The accuracy is 83.59
+Train Epoch: 23 [47360/49000 (97%)]	Train Loss: 0.077661	Val Loss: 0.710904	Val Acc: 83.59375
+The accuracy is 83.12
+Train Epoch: 23 [48640/49000 (99%)]	Train Loss: 0.053440	Val Loss: 0.663306	Val Acc: 83.125
+The accuracy is 82.81
+Train Epoch: 24 [0/49000 (0%)]	Train Loss: 0.886472	Val Loss: 0.679516	Val Acc: 82.8125
+The accuracy is 84.69
+Train Epoch: 24 [1280/49000 (3%)]	Train Loss: 0.023864	Val Loss: 0.772984	Val Acc: 84.6875
+The accuracy is 83.91
+Train Epoch: 24 [2560/49000 (5%)]	Train Loss: 0.009729	Val Loss: 0.818557	Val Acc: 83.90625
+The accuracy is 85.00
+Train Epoch: 24 [3840/49000 (8%)]	Train Loss: 0.006922	Val Loss: 0.809206	Val Acc: 85.0
+The accuracy is 83.12
+Train Epoch: 24 [5120/49000 (10%)]	Train Loss: 0.016889	Val Loss: 0.914846	Val Acc: 83.125
+The accuracy is 84.53
+Train Epoch: 24 [6400/49000 (13%)]	Train Loss: 0.012984	Val Loss: 0.900540	Val Acc: 84.53125
+The accuracy is 82.81
+Train Epoch: 24 [7680/49000 (16%)]	Train Loss: 0.028789	Val Loss: 0.947211	Val Acc: 82.8125
+The accuracy is 85.62
+Train Epoch: 24 [8960/49000 (18%)]	Train Loss: 0.014813	Val Loss: 0.882400	Val Acc: 85.625
+The accuracy is 84.53
+Train Epoch: 24 [10240/49000 (21%)]	Train Loss: 0.008769	Val Loss: 0.928320	Val Acc: 84.53125
+The accuracy is 84.69
+Train Epoch: 24 [11520/49000 (23%)]	Train Loss: 0.005318	Val Loss: 0.906672	Val Acc: 84.6875
+The accuracy is 85.31
+Train Epoch: 24 [12800/49000 (26%)]	Train Loss: 0.010383	Val Loss: 0.900617	Val Acc: 85.3125
+The accuracy is 81.25
+Train Epoch: 24 [14080/49000 (29%)]	Train Loss: 0.045707	Val Loss: 1.200412	Val Acc: 81.25
+The accuracy is 83.91
+Train Epoch: 24 [15360/49000 (31%)]	Train Loss: 0.057808	Val Loss: 0.926145	Val Acc: 83.90625
+The accuracy is 83.91
+Train Epoch: 24 [16640/49000 (34%)]	Train Loss: 0.017223	Val Loss: 0.889143	Val Acc: 83.90625
+The accuracy is 86.25
+Train Epoch: 24 [17920/49000 (37%)]	Train Loss: 0.001340	Val Loss: 0.844901	Val Acc: 86.25
+The accuracy is 84.84
+Train Epoch: 24 [19200/49000 (39%)]	Train Loss: 0.024420	Val Loss: 0.974611	Val Acc: 84.84375
+The accuracy is 85.16
+Train Epoch: 24 [20480/49000 (42%)]	Train Loss: 0.007412	Val Loss: 0.935463	Val Acc: 85.15625
+The accuracy is 82.81
+Train Epoch: 24 [21760/49000 (44%)]	Train Loss: 0.005412	Val Loss: 1.090733	Val Acc: 82.8125
+The accuracy is 82.50
+Train Epoch: 24 [23040/49000 (47%)]	Train Loss: 0.014391	Val Loss: 1.110950	Val Acc: 82.5
+The accuracy is 81.56
+Train Epoch: 24 [24320/49000 (50%)]	Train Loss: 0.027646	Val Loss: 1.141742	Val Acc: 81.5625
+The accuracy is 83.44
+Train Epoch: 24 [25600/49000 (52%)]	Train Loss: 0.044961	Val Loss: 1.080850	Val Acc: 83.4375
+The accuracy is 83.75
+Train Epoch: 24 [26880/49000 (55%)]	Train Loss: 0.042878	Val Loss: 0.966103	Val Acc: 83.75
+The accuracy is 83.59
+Train Epoch: 24 [28160/49000 (57%)]	Train Loss: 0.028302	Val Loss: 1.034701	Val Acc: 83.59375
+The accuracy is 82.50
+Train Epoch: 24 [29440/49000 (60%)]	Train Loss: 0.016896	Val Loss: 1.070725	Val Acc: 82.5
+The accuracy is 81.09
+Train Epoch: 24 [30720/49000 (63%)]	Train Loss: 0.024165	Val Loss: 0.949882	Val Acc: 81.09375
+The accuracy is 82.97
+Train Epoch: 24 [32000/49000 (65%)]	Train Loss: 0.018306	Val Loss: 0.957690	Val Acc: 82.96875
+The accuracy is 83.44
+Train Epoch: 24 [33280/49000 (68%)]	Train Loss: 0.063639	Val Loss: 1.023617	Val Acc: 83.4375
+The accuracy is 84.38
+Train Epoch: 24 [34560/49000 (70%)]	Train Loss: 0.005514	Val Loss: 1.038345	Val Acc: 84.375
+The accuracy is 84.69
+Train Epoch: 24 [35840/49000 (73%)]	Train Loss: 0.026476	Val Loss: 0.875414	Val Acc: 84.6875
+The accuracy is 83.44
+Train Epoch: 24 [37120/49000 (76%)]	Train Loss: 0.002503	Val Loss: 0.966688	Val Acc: 83.4375
+The accuracy is 83.91
+Train Epoch: 24 [38400/49000 (78%)]	Train Loss: 0.009820	Val Loss: 0.944695	Val Acc: 83.90625
+The accuracy is 82.19
+Train Epoch: 24 [39680/49000 (81%)]	Train Loss: 0.063481	Val Loss: 0.995692	Val Acc: 82.1875
+The accuracy is 84.69
+Train Epoch: 24 [40960/49000 (84%)]	Train Loss: 0.007161	Val Loss: 0.925125	Val Acc: 84.6875
+The accuracy is 82.19
+Train Epoch: 24 [42240/49000 (86%)]	Train Loss: 0.071822	Val Loss: 1.039950	Val Acc: 82.1875
+The accuracy is 85.78
+Train Epoch: 24 [43520/49000 (89%)]	Train Loss: 0.096009	Val Loss: 0.652006	Val Acc: 85.78125
+The accuracy is 82.97
+Train Epoch: 24 [44800/49000 (91%)]	Train Loss: 0.138616	Val Loss: 0.660433	Val Acc: 82.96875
+The accuracy is 86.41
+Train Epoch: 24 [46080/49000 (94%)]	Train Loss: 0.038321	Val Loss: 0.717440	Val Acc: 86.40625
+The accuracy is 84.84
+Train Epoch: 24 [47360/49000 (97%)]	Train Loss: 0.030648	Val Loss: 0.796681	Val Acc: 84.84375
+The accuracy is 82.66
+Train Epoch: 24 [48640/49000 (99%)]	Train Loss: 0.046089	Val Loss: 0.863281	Val Acc: 82.65625
+The accuracy is 83.28
+Train Epoch: 25 [0/49000 (0%)]	Train Loss: 0.574904	Val Loss: 0.777512	Val Acc: 83.28125
+The accuracy is 83.91
+Train Epoch: 25 [1280/49000 (3%)]	Train Loss: 0.014572	Val Loss: 0.899165	Val Acc: 83.90625
+The accuracy is 84.53
+Train Epoch: 25 [2560/49000 (5%)]	Train Loss: 0.034629	Val Loss: 0.880900	Val Acc: 84.53125
+The accuracy is 86.41
+Train Epoch: 25 [3840/49000 (8%)]	Train Loss: 0.010880	Val Loss: 0.822557	Val Acc: 86.40625
+The accuracy is 85.47
+Train Epoch: 25 [5120/49000 (10%)]	Train Loss: 0.004193	Val Loss: 0.906516	Val Acc: 85.46875
+The accuracy is 84.22
+Train Epoch: 25 [6400/49000 (13%)]	Train Loss: 0.006488	Val Loss: 1.008989	Val Acc: 84.21875
+The accuracy is 85.62
+Train Epoch: 25 [7680/49000 (16%)]	Train Loss: 0.006254	Val Loss: 0.834727	Val Acc: 85.625
+The accuracy is 82.97
+Train Epoch: 25 [8960/49000 (18%)]	Train Loss: 0.098324	Val Loss: 1.114598	Val Acc: 82.96875
+The accuracy is 84.06
+Train Epoch: 25 [10240/49000 (21%)]	Train Loss: 0.005680	Val Loss: 1.037040	Val Acc: 84.0625
+The accuracy is 82.03
+Train Epoch: 25 [11520/49000 (23%)]	Train Loss: 0.027435	Val Loss: 1.056054	Val Acc: 82.03125
+The accuracy is 83.12
+Train Epoch: 25 [12800/49000 (26%)]	Train Loss: 0.005019	Val Loss: 1.037396	Val Acc: 83.125
+The accuracy is 85.47
+Train Epoch: 25 [14080/49000 (29%)]	Train Loss: 0.003470	Val Loss: 0.884339	Val Acc: 85.46875
+The accuracy is 84.38
+Train Epoch: 25 [15360/49000 (31%)]	Train Loss: 0.021375	Val Loss: 1.008084	Val Acc: 84.375
+The accuracy is 82.97
+Train Epoch: 25 [16640/49000 (34%)]	Train Loss: 0.072719	Val Loss: 1.136709	Val Acc: 82.96875
+The accuracy is 83.75
+Train Epoch: 25 [17920/49000 (37%)]	Train Loss: 0.008468	Val Loss: 0.952390	Val Acc: 83.75
+The accuracy is 76.88
+Train Epoch: 25 [19200/49000 (39%)]	Train Loss: 0.454633	Val Loss: 1.330148	Val Acc: 76.875
+The accuracy is 85.16
+Train Epoch: 25 [20480/49000 (42%)]	Train Loss: 0.113259	Val Loss: 0.716826	Val Acc: 85.15625
+The accuracy is 85.94
+Train Epoch: 25 [21760/49000 (44%)]	Train Loss: 0.014145	Val Loss: 0.710990	Val Acc: 85.9375
+The accuracy is 83.12
+Train Epoch: 25 [23040/49000 (47%)]	Train Loss: 0.034619	Val Loss: 0.821877	Val Acc: 83.125
+The accuracy is 83.91
+Train Epoch: 25 [24320/49000 (50%)]	Train Loss: 0.015538	Val Loss: 0.810520	Val Acc: 83.90625
+The accuracy is 83.91
+Train Epoch: 25 [25600/49000 (52%)]	Train Loss: 0.022708	Val Loss: 0.938986	Val Acc: 83.90625
+The accuracy is 82.97
+Train Epoch: 25 [26880/49000 (55%)]	Train Loss: 0.009212	Val Loss: 0.931612	Val Acc: 82.96875
+The accuracy is 85.00
+Train Epoch: 25 [28160/49000 (57%)]	Train Loss: 0.016610	Val Loss: 0.899871	Val Acc: 85.0
+The accuracy is 82.81
+Train Epoch: 25 [29440/49000 (60%)]	Train Loss: 0.037596	Val Loss: 1.104270	Val Acc: 82.8125
+The accuracy is 82.03
+Train Epoch: 25 [30720/49000 (63%)]	Train Loss: 0.035597	Val Loss: 1.154385	Val Acc: 82.03125
+The accuracy is 80.31
+Train Epoch: 25 [32000/49000 (65%)]	Train Loss: 0.290248	Val Loss: 0.870655	Val Acc: 80.3125
+The accuracy is 80.31
+Train Epoch: 25 [33280/49000 (68%)]	Train Loss: 0.239868	Val Loss: 0.942164	Val Acc: 80.3125
+The accuracy is 82.03
+Train Epoch: 25 [34560/49000 (70%)]	Train Loss: 0.017640	Val Loss: 0.885414	Val Acc: 82.03125
+The accuracy is 84.22
+Train Epoch: 25 [35840/49000 (73%)]	Train Loss: 0.016727	Val Loss: 0.848583	Val Acc: 84.21875
+The accuracy is 83.75
+Train Epoch: 25 [37120/49000 (76%)]	Train Loss: 0.065829	Val Loss: 0.845595	Val Acc: 83.75
+The accuracy is 83.59
+Train Epoch: 25 [38400/49000 (78%)]	Train Loss: 0.037863	Val Loss: 0.858821	Val Acc: 83.59375
+The accuracy is 81.88
+Train Epoch: 25 [39680/49000 (81%)]	Train Loss: 0.256672	Val Loss: 0.655256	Val Acc: 81.875
+The accuracy is 83.28
+Train Epoch: 25 [40960/49000 (84%)]	Train Loss: 0.023525	Val Loss: 0.835222	Val Acc: 83.28125
+The accuracy is 83.12
+Train Epoch: 25 [42240/49000 (86%)]	Train Loss: 0.028405	Val Loss: 0.824051	Val Acc: 83.125
+The accuracy is 84.53
+Train Epoch: 25 [43520/49000 (89%)]	Train Loss: 0.021141	Val Loss: 0.808009	Val Acc: 84.53125
+The accuracy is 86.09
+Train Epoch: 25 [44800/49000 (91%)]	Train Loss: 0.012011	Val Loss: 0.738570	Val Acc: 86.09375
+The accuracy is 83.28
+Train Epoch: 25 [46080/49000 (94%)]	Train Loss: 0.016122	Val Loss: 0.921361	Val Acc: 83.28125
+The accuracy is 84.53
+Train Epoch: 25 [47360/49000 (97%)]	Train Loss: 0.010975	Val Loss: 0.802229	Val Acc: 84.53125
+The accuracy is 84.53
+Train Epoch: 25 [48640/49000 (99%)]	Train Loss: 0.004800	Val Loss: 0.910411	Val Acc: 84.53125
+The accuracy is 84.38
+Train Epoch: 26 [0/49000 (0%)]	Train Loss: 0.619441	Val Loss: 0.805505	Val Acc: 84.375
+The accuracy is 83.75
+Train Epoch: 26 [1280/49000 (3%)]	Train Loss: 0.012188	Val Loss: 0.860703	Val Acc: 83.75
+The accuracy is 84.84
+Train Epoch: 26 [2560/49000 (5%)]	Train Loss: 0.010276	Val Loss: 0.881439	Val Acc: 84.84375
+The accuracy is 85.31
+Train Epoch: 26 [3840/49000 (8%)]	Train Loss: 0.004659	Val Loss: 0.816755	Val Acc: 85.3125
+The accuracy is 83.28
+Train Epoch: 26 [5120/49000 (10%)]	Train Loss: 0.012505	Val Loss: 0.910542	Val Acc: 83.28125
+The accuracy is 83.12
+Train Epoch: 26 [6400/49000 (13%)]	Train Loss: 0.003729	Val Loss: 1.045509	Val Acc: 83.125
+The accuracy is 82.34
+Train Epoch: 26 [7680/49000 (16%)]	Train Loss: 0.035327	Val Loss: 1.135219	Val Acc: 82.34375
+The accuracy is 84.38
+Train Epoch: 26 [8960/49000 (18%)]	Train Loss: 0.024774	Val Loss: 1.002108	Val Acc: 84.375
+The accuracy is 82.19
+Train Epoch: 26 [10240/49000 (21%)]	Train Loss: 0.056508	Val Loss: 1.020438	Val Acc: 82.1875
+The accuracy is 82.81
+Train Epoch: 26 [11520/49000 (23%)]	Train Loss: 0.014522	Val Loss: 1.079430	Val Acc: 82.8125
+The accuracy is 81.09
+Train Epoch: 26 [12800/49000 (26%)]	Train Loss: 0.080274	Val Loss: 1.136296	Val Acc: 81.09375
+The accuracy is 82.97
+Train Epoch: 26 [14080/49000 (29%)]	Train Loss: 0.061891	Val Loss: 0.737904	Val Acc: 82.96875
+The accuracy is 85.78
+Train Epoch: 26 [15360/49000 (31%)]	Train Loss: 0.034853	Val Loss: 0.710492	Val Acc: 85.78125
+The accuracy is 83.44
+Train Epoch: 26 [16640/49000 (34%)]	Train Loss: 0.020363	Val Loss: 0.794238	Val Acc: 83.4375
+The accuracy is 85.00
+Train Epoch: 26 [17920/49000 (37%)]	Train Loss: 0.014280	Val Loss: 0.810527	Val Acc: 85.0
+The accuracy is 84.84
+Train Epoch: 26 [19200/49000 (39%)]	Train Loss: 0.011982	Val Loss: 0.827361	Val Acc: 84.84375
+The accuracy is 83.91
+Train Epoch: 26 [20480/49000 (42%)]	Train Loss: 0.007343	Val Loss: 0.940523	Val Acc: 83.90625
+The accuracy is 87.50
+Train Epoch: 26 [21760/49000 (44%)]	Train Loss: 0.011345	Val Loss: 0.782172	Val Acc: 87.5
+The accuracy is 83.44
+Train Epoch: 26 [23040/49000 (47%)]	Train Loss: 0.016772	Val Loss: 0.934227	Val Acc: 83.4375
+The accuracy is 83.59
+Train Epoch: 26 [24320/49000 (50%)]	Train Loss: 0.070786	Val Loss: 1.092369	Val Acc: 83.59375
+The accuracy is 85.00
+Train Epoch: 26 [25600/49000 (52%)]	Train Loss: 0.021160	Val Loss: 0.892823	Val Acc: 85.0
+The accuracy is 84.22
+Train Epoch: 26 [26880/49000 (55%)]	Train Loss: 0.006437	Val Loss: 0.909426	Val Acc: 84.21875
+The accuracy is 85.78
+Train Epoch: 26 [28160/49000 (57%)]	Train Loss: 0.030385	Val Loss: 0.845071	Val Acc: 85.78125
+The accuracy is 83.59
+Train Epoch: 26 [29440/49000 (60%)]	Train Loss: 0.018429	Val Loss: 0.974420	Val Acc: 83.59375
+The accuracy is 82.03
+Train Epoch: 26 [30720/49000 (63%)]	Train Loss: 0.041335	Val Loss: 1.068441	Val Acc: 82.03125
+The accuracy is 83.75
+Train Epoch: 26 [32000/49000 (65%)]	Train Loss: 0.004832	Val Loss: 1.038524	Val Acc: 83.75
+The accuracy is 82.34
+Train Epoch: 26 [33280/49000 (68%)]	Train Loss: 0.003231	Val Loss: 0.960743	Val Acc: 82.34375
+The accuracy is 82.03
+Train Epoch: 26 [34560/49000 (70%)]	Train Loss: 0.021652	Val Loss: 1.045977	Val Acc: 82.03125
+The accuracy is 82.19
+Train Epoch: 26 [35840/49000 (73%)]	Train Loss: 0.022329	Val Loss: 1.249295	Val Acc: 82.1875
+The accuracy is 85.16
+Train Epoch: 26 [37120/49000 (76%)]	Train Loss: 0.011996	Val Loss: 0.954604	Val Acc: 85.15625
+The accuracy is 82.50
+Train Epoch: 26 [38400/49000 (78%)]	Train Loss: 0.002351	Val Loss: 1.143983	Val Acc: 82.5
+The accuracy is 84.06
+Train Epoch: 26 [39680/49000 (81%)]	Train Loss: 0.021574	Val Loss: 1.103802	Val Acc: 84.0625
+The accuracy is 83.12
+Train Epoch: 26 [40960/49000 (84%)]	Train Loss: 0.099575	Val Loss: 0.680045	Val Acc: 83.125
+The accuracy is 83.28
+Train Epoch: 26 [42240/49000 (86%)]	Train Loss: 0.027728	Val Loss: 0.826496	Val Acc: 83.28125
+The accuracy is 82.03
+Train Epoch: 26 [43520/49000 (89%)]	Train Loss: 0.030990	Val Loss: 0.940087	Val Acc: 82.03125
+The accuracy is 82.50
+Train Epoch: 26 [44800/49000 (91%)]	Train Loss: 0.042583	Val Loss: 0.922870	Val Acc: 82.5
+The accuracy is 83.91
+Train Epoch: 26 [46080/49000 (94%)]	Train Loss: 0.003907	Val Loss: 0.936490	Val Acc: 83.90625
+The accuracy is 82.97
+Train Epoch: 26 [47360/49000 (97%)]	Train Loss: 0.034924	Val Loss: 0.926766	Val Acc: 82.96875
+The accuracy is 85.00
+Train Epoch: 26 [48640/49000 (99%)]	Train Loss: 0.007295	Val Loss: 0.841086	Val Acc: 85.0
+The accuracy is 82.97
+Train Epoch: 27 [0/49000 (0%)]	Train Loss: 0.587229	Val Loss: 0.962573	Val Acc: 82.96875
+The accuracy is 84.53
+Train Epoch: 27 [1280/49000 (3%)]	Train Loss: 0.007862	Val Loss: 0.834825	Val Acc: 84.53125
+The accuracy is 85.62
+Train Epoch: 27 [2560/49000 (5%)]	Train Loss: 0.006967	Val Loss: 0.862890	Val Acc: 85.625
+The accuracy is 82.34
+Train Epoch: 27 [3840/49000 (8%)]	Train Loss: 0.001640	Val Loss: 1.037736	Val Acc: 82.34375
+The accuracy is 85.78
+Train Epoch: 27 [5120/49000 (10%)]	Train Loss: 0.001374	Val Loss: 0.859603	Val Acc: 85.78125
+The accuracy is 86.09
+Train Epoch: 27 [6400/49000 (13%)]	Train Loss: 0.002501	Val Loss: 0.810498	Val Acc: 86.09375
+The accuracy is 81.72
+Train Epoch: 27 [7680/49000 (16%)]	Train Loss: 0.043869	Val Loss: 1.015634	Val Acc: 81.71875
+The accuracy is 83.75
+Train Epoch: 27 [8960/49000 (18%)]	Train Loss: 0.068209	Val Loss: 0.810355	Val Acc: 83.75
+The accuracy is 84.84
+Train Epoch: 27 [10240/49000 (21%)]	Train Loss: 0.017783	Val Loss: 0.864656	Val Acc: 84.84375
+The accuracy is 83.59
+Train Epoch: 27 [11520/49000 (23%)]	Train Loss: 0.034481	Val Loss: 0.977903	Val Acc: 83.59375
+The accuracy is 83.75
+Train Epoch: 27 [12800/49000 (26%)]	Train Loss: 0.198981	Val Loss: 0.948172	Val Acc: 83.75
+The accuracy is 84.69
+Train Epoch: 27 [14080/49000 (29%)]	Train Loss: 0.006617	Val Loss: 0.750059	Val Acc: 84.6875
+The accuracy is 84.69
+Train Epoch: 27 [15360/49000 (31%)]	Train Loss: 0.017811	Val Loss: 0.835074	Val Acc: 84.6875
+The accuracy is 82.66
+Train Epoch: 27 [16640/49000 (34%)]	Train Loss: 0.020254	Val Loss: 0.850788	Val Acc: 82.65625
+The accuracy is 80.62
+Train Epoch: 27 [17920/49000 (37%)]	Train Loss: 0.158478	Val Loss: 1.158939	Val Acc: 80.625
+The accuracy is 75.00
+Train Epoch: 27 [19200/49000 (39%)]	Train Loss: 0.426509	Val Loss: 0.960666	Val Acc: 75.0
+The accuracy is 83.75
+Train Epoch: 27 [20480/49000 (42%)]	Train Loss: 0.092472	Val Loss: 0.628724	Val Acc: 83.75
+The accuracy is 83.91
+Train Epoch: 27 [21760/49000 (44%)]	Train Loss: 0.039074	Val Loss: 0.684446	Val Acc: 83.90625
+The accuracy is 84.53
+Train Epoch: 27 [23040/49000 (47%)]	Train Loss: 0.051518	Val Loss: 0.769232	Val Acc: 84.53125
+The accuracy is 83.91
+Train Epoch: 27 [24320/49000 (50%)]	Train Loss: 0.063375	Val Loss: 0.835738	Val Acc: 83.90625
+The accuracy is 83.12
+Train Epoch: 27 [25600/49000 (52%)]	Train Loss: 0.015351	Val Loss: 0.841561	Val Acc: 83.125
+The accuracy is 84.84
+Train Epoch: 27 [26880/49000 (55%)]	Train Loss: 0.021890	Val Loss: 0.767499	Val Acc: 84.84375
+The accuracy is 85.31
+Train Epoch: 27 [28160/49000 (57%)]	Train Loss: 0.004729	Val Loss: 0.816066	Val Acc: 85.3125
+The accuracy is 85.00
+Train Epoch: 27 [29440/49000 (60%)]	Train Loss: 0.003464	Val Loss: 0.855091	Val Acc: 85.0
+The accuracy is 86.09
+Train Epoch: 27 [30720/49000 (63%)]	Train Loss: 0.016362	Val Loss: 0.840312	Val Acc: 86.09375
+The accuracy is 83.59
+Train Epoch: 27 [32000/49000 (65%)]	Train Loss: 0.032955	Val Loss: 0.973314	Val Acc: 83.59375
+The accuracy is 85.00
+Train Epoch: 27 [33280/49000 (68%)]	Train Loss: 0.015024	Val Loss: 0.870515	Val Acc: 85.0
+The accuracy is 83.44
+Train Epoch: 27 [34560/49000 (70%)]	Train Loss: 0.010577	Val Loss: 1.021847	Val Acc: 83.4375
+The accuracy is 82.81
+Train Epoch: 27 [35840/49000 (73%)]	Train Loss: 0.085576	Val Loss: 0.961029	Val Acc: 82.8125
+The accuracy is 81.56
+Train Epoch: 27 [37120/49000 (76%)]	Train Loss: 0.057813	Val Loss: 1.013859	Val Acc: 81.5625
+The accuracy is 77.66
+Train Epoch: 27 [38400/49000 (78%)]	Train Loss: 0.183579	Val Loss: 1.564873	Val Acc: 77.65625
+The accuracy is 79.06
+Train Epoch: 27 [39680/49000 (81%)]	Train Loss: 0.298420	Val Loss: 0.804776	Val Acc: 79.0625
+The accuracy is 82.50
+Train Epoch: 27 [40960/49000 (84%)]	Train Loss: 0.093601	Val Loss: 0.671190	Val Acc: 82.5
+The accuracy is 82.97
+Train Epoch: 27 [42240/49000 (86%)]	Train Loss: 0.073744	Val Loss: 0.768940	Val Acc: 82.96875
+The accuracy is 83.12
+Train Epoch: 27 [43520/49000 (89%)]	Train Loss: 0.039571	Val Loss: 0.797486	Val Acc: 83.125
+The accuracy is 83.91
+Train Epoch: 27 [44800/49000 (91%)]	Train Loss: 0.022475	Val Loss: 0.837332	Val Acc: 83.90625
+The accuracy is 82.50
+Train Epoch: 27 [46080/49000 (94%)]	Train Loss: 0.136641	Val Loss: 0.712087	Val Acc: 82.5
+The accuracy is 84.38
+Train Epoch: 27 [47360/49000 (97%)]	Train Loss: 0.048505	Val Loss: 0.744522	Val Acc: 84.375
+The accuracy is 86.41
+Train Epoch: 27 [48640/49000 (99%)]	Train Loss: 0.023372	Val Loss: 0.667415	Val Acc: 86.40625
+The accuracy is 84.84
+Train Epoch: 28 [0/49000 (0%)]	Train Loss: 0.706901	Val Loss: 0.757815	Val Acc: 84.84375
+The accuracy is 82.97
+Train Epoch: 28 [1280/49000 (3%)]	Train Loss: 0.026545	Val Loss: 0.857256	Val Acc: 82.96875
+The accuracy is 87.50
+Train Epoch: 28 [2560/49000 (5%)]	Train Loss: 0.005080	Val Loss: 0.679387	Val Acc: 87.5
+The accuracy is 85.62
+Train Epoch: 28 [3840/49000 (8%)]	Train Loss: 0.006323	Val Loss: 0.729011	Val Acc: 85.625
+The accuracy is 85.94
+Train Epoch: 28 [5120/49000 (10%)]	Train Loss: 0.005633	Val Loss: 0.806229	Val Acc: 85.9375
+The accuracy is 85.31
+Train Epoch: 28 [6400/49000 (13%)]	Train Loss: 0.011639	Val Loss: 0.860088	Val Acc: 85.3125
+The accuracy is 85.16
+Train Epoch: 28 [7680/49000 (16%)]	Train Loss: 0.022829	Val Loss: 0.842404	Val Acc: 85.15625
+The accuracy is 83.44
+Train Epoch: 28 [8960/49000 (18%)]	Train Loss: 0.028802	Val Loss: 0.912147	Val Acc: 83.4375
+The accuracy is 84.69
+Train Epoch: 28 [10240/49000 (21%)]	Train Loss: 0.003831	Val Loss: 0.892583	Val Acc: 84.6875
+The accuracy is 85.16
+Train Epoch: 28 [11520/49000 (23%)]	Train Loss: 0.002988	Val Loss: 0.904316	Val Acc: 85.15625
+The accuracy is 83.59
+Train Epoch: 28 [12800/49000 (26%)]	Train Loss: 0.004900	Val Loss: 0.904121	Val Acc: 83.59375
+The accuracy is 86.09
+Train Epoch: 28 [14080/49000 (29%)]	Train Loss: 0.004974	Val Loss: 0.819624	Val Acc: 86.09375
+The accuracy is 85.31
+Train Epoch: 28 [15360/49000 (31%)]	Train Loss: 0.001818	Val Loss: 0.948807	Val Acc: 85.3125
+The accuracy is 84.69
+Train Epoch: 28 [16640/49000 (34%)]	Train Loss: 0.001272	Val Loss: 0.956688	Val Acc: 84.6875
+The accuracy is 83.59
+Train Epoch: 28 [17920/49000 (37%)]	Train Loss: 0.015908	Val Loss: 1.031594	Val Acc: 83.59375
+The accuracy is 83.75
+Train Epoch: 28 [19200/49000 (39%)]	Train Loss: 0.004085	Val Loss: 0.828899	Val Acc: 83.75
+The accuracy is 84.06
+Train Epoch: 28 [20480/49000 (42%)]	Train Loss: 0.005015	Val Loss: 0.935501	Val Acc: 84.0625
+The accuracy is 84.84
+Train Epoch: 28 [21760/49000 (44%)]	Train Loss: 0.006686	Val Loss: 1.000141	Val Acc: 84.84375
+The accuracy is 84.22
+Train Epoch: 28 [23040/49000 (47%)]	Train Loss: 0.015620	Val Loss: 0.953261	Val Acc: 84.21875
+The accuracy is 85.94
+Train Epoch: 28 [24320/49000 (50%)]	Train Loss: 0.001545	Val Loss: 0.933553	Val Acc: 85.9375
+The accuracy is 84.38
+Train Epoch: 28 [25600/49000 (52%)]	Train Loss: 0.001263	Val Loss: 1.014435	Val Acc: 84.375
+The accuracy is 86.25
+Train Epoch: 28 [26880/49000 (55%)]	Train Loss: 0.007751	Val Loss: 0.920537	Val Acc: 86.25
+The accuracy is 85.78
+Train Epoch: 28 [28160/49000 (57%)]	Train Loss: 0.008845	Val Loss: 0.946887	Val Acc: 85.78125
+The accuracy is 85.47
+Train Epoch: 28 [29440/49000 (60%)]	Train Loss: 0.002103	Val Loss: 1.000003	Val Acc: 85.46875
+The accuracy is 86.72
+Train Epoch: 28 [30720/49000 (63%)]	Train Loss: 0.003397	Val Loss: 0.846678	Val Acc: 86.71875
+The accuracy is 83.12
+Train Epoch: 28 [32000/49000 (65%)]	Train Loss: 0.066488	Val Loss: 1.041839	Val Acc: 83.125
+The accuracy is 55.00
+Train Epoch: 28 [33280/49000 (68%)]	Train Loss: 1.584434	Val Loss: 1.624641	Val Acc: 55.0
+The accuracy is 81.25
+Train Epoch: 28 [34560/49000 (70%)]	Train Loss: 0.230503	Val Loss: 0.721015	Val Acc: 81.25
+The accuracy is 83.28
+Train Epoch: 28 [35840/49000 (73%)]	Train Loss: 0.052907	Val Loss: 0.696615	Val Acc: 83.28125
+The accuracy is 83.75
+Train Epoch: 28 [37120/49000 (76%)]	Train Loss: 0.054029	Val Loss: 0.710631	Val Acc: 83.75
+The accuracy is 85.00
+Train Epoch: 28 [38400/49000 (78%)]	Train Loss: 0.009789	Val Loss: 0.783702	Val Acc: 85.0
+The accuracy is 83.28
+Train Epoch: 28 [39680/49000 (81%)]	Train Loss: 0.012944	Val Loss: 0.914829	Val Acc: 83.28125
+The accuracy is 83.12
+Train Epoch: 28 [40960/49000 (84%)]	Train Loss: 0.008553	Val Loss: 0.938913	Val Acc: 83.125
+The accuracy is 82.66
+Train Epoch: 28 [42240/49000 (86%)]	Train Loss: 0.065641	Val Loss: 0.941659	Val Acc: 82.65625
+The accuracy is 85.78
+Train Epoch: 28 [43520/49000 (89%)]	Train Loss: 0.015143	Val Loss: 0.846724	Val Acc: 85.78125
+The accuracy is 84.53
+Train Epoch: 28 [44800/49000 (91%)]	Train Loss: 0.033230	Val Loss: 0.862927	Val Acc: 84.53125
+The accuracy is 82.34
+Train Epoch: 28 [46080/49000 (94%)]	Train Loss: 0.044143	Val Loss: 0.867689	Val Acc: 82.34375
+The accuracy is 83.12
+Train Epoch: 28 [47360/49000 (97%)]	Train Loss: 0.007378	Val Loss: 0.807540	Val Acc: 83.125
+The accuracy is 83.44
+Train Epoch: 28 [48640/49000 (99%)]	Train Loss: 0.010076	Val Loss: 0.796120	Val Acc: 83.4375
+The accuracy is 82.97
+Train Epoch: 29 [0/49000 (0%)]	Train Loss: 0.600468	Val Loss: 0.860460	Val Acc: 82.96875
+The accuracy is 83.75
+Train Epoch: 29 [1280/49000 (3%)]	Train Loss: 0.004426	Val Loss: 0.872017	Val Acc: 83.75
+The accuracy is 84.06
+Train Epoch: 29 [2560/49000 (5%)]	Train Loss: 0.003691	Val Loss: 0.981586	Val Acc: 84.0625
+The accuracy is 84.53
+Train Epoch: 29 [3840/49000 (8%)]	Train Loss: 0.002446	Val Loss: 0.867409	Val Acc: 84.53125
+The accuracy is 83.91
+Train Epoch: 29 [5120/49000 (10%)]	Train Loss: 0.007881	Val Loss: 0.910969	Val Acc: 83.90625
+The accuracy is 84.69
+Train Epoch: 29 [6400/49000 (13%)]	Train Loss: 0.005286	Val Loss: 0.806628	Val Acc: 84.6875
+The accuracy is 84.69
+Train Epoch: 29 [7680/49000 (16%)]	Train Loss: 0.006292	Val Loss: 0.895156	Val Acc: 84.6875
+The accuracy is 84.22
+Train Epoch: 29 [8960/49000 (18%)]	Train Loss: 0.011021	Val Loss: 1.009133	Val Acc: 84.21875
+The accuracy is 85.16
+Train Epoch: 29 [10240/49000 (21%)]	Train Loss: 0.005724	Val Loss: 0.815701	Val Acc: 85.15625
+The accuracy is 83.91
+Train Epoch: 29 [11520/49000 (23%)]	Train Loss: 0.022175	Val Loss: 0.969195	Val Acc: 83.90625
+The accuracy is 80.31
+Train Epoch: 29 [12800/49000 (26%)]	Train Loss: 0.024680	Val Loss: 1.120656	Val Acc: 80.3125
+The accuracy is 82.03
+Train Epoch: 29 [14080/49000 (29%)]	Train Loss: 0.067423	Val Loss: 0.912536	Val Acc: 82.03125
+The accuracy is 83.12
+Train Epoch: 29 [15360/49000 (31%)]	Train Loss: 0.018455	Val Loss: 0.915459	Val Acc: 83.125
+The accuracy is 84.84
+Train Epoch: 29 [16640/49000 (34%)]	Train Loss: 0.002036	Val Loss: 0.760625	Val Acc: 84.84375
+The accuracy is 84.38
+Train Epoch: 29 [17920/49000 (37%)]	Train Loss: 0.005682	Val Loss: 0.988238	Val Acc: 84.375
+The accuracy is 83.44
+Train Epoch: 29 [19200/49000 (39%)]	Train Loss: 0.006794	Val Loss: 1.026627	Val Acc: 83.4375
+The accuracy is 83.12
+Train Epoch: 29 [20480/49000 (42%)]	Train Loss: 0.092793	Val Loss: 0.998562	Val Acc: 83.125
+The accuracy is 85.16
+Train Epoch: 29 [21760/49000 (44%)]	Train Loss: 0.022358	Val Loss: 0.901492	Val Acc: 85.15625
+The accuracy is 82.50
+Train Epoch: 29 [23040/49000 (47%)]	Train Loss: 0.008818	Val Loss: 0.949981	Val Acc: 82.5
+The accuracy is 83.44
+Train Epoch: 29 [24320/49000 (50%)]	Train Loss: 0.006411	Val Loss: 0.998498	Val Acc: 83.4375
+The accuracy is 83.12
+Train Epoch: 29 [25600/49000 (52%)]	Train Loss: 0.004411	Val Loss: 1.060865	Val Acc: 83.125
+The accuracy is 82.50
+Train Epoch: 29 [26880/49000 (55%)]	Train Loss: 0.152886	Val Loss: 1.288735	Val Acc: 82.5
+The accuracy is 82.19
+Train Epoch: 29 [28160/49000 (57%)]	Train Loss: 0.020287	Val Loss: 1.014748	Val Acc: 82.1875
+The accuracy is 83.12
+Train Epoch: 29 [29440/49000 (60%)]	Train Loss: 0.036846	Val Loss: 1.052971	Val Acc: 83.125
+The accuracy is 83.12
+Train Epoch: 29 [30720/49000 (63%)]	Train Loss: 0.015568	Val Loss: 1.038842	Val Acc: 83.125
+The accuracy is 84.53
+Train Epoch: 29 [32000/49000 (65%)]	Train Loss: 0.063474	Val Loss: 1.088815	Val Acc: 84.53125
+The accuracy is 85.62
+Train Epoch: 29 [33280/49000 (68%)]	Train Loss: 0.021564	Val Loss: 0.926534	Val Acc: 85.625
+The accuracy is 81.88
+Train Epoch: 29 [34560/49000 (70%)]	Train Loss: 0.065092	Val Loss: 1.136580	Val Acc: 81.875
+The accuracy is 82.81
+Train Epoch: 29 [35840/49000 (73%)]	Train Loss: 0.007866	Val Loss: 0.987640	Val Acc: 82.8125
+The accuracy is 83.44
+Train Epoch: 29 [37120/49000 (76%)]	Train Loss: 0.027872	Val Loss: 0.959510	Val Acc: 83.4375
+The accuracy is 82.19
+Train Epoch: 29 [38400/49000 (78%)]	Train Loss: 0.012228	Val Loss: 1.030344	Val Acc: 82.1875
+The accuracy is 83.59
+Train Epoch: 29 [39680/49000 (81%)]	Train Loss: 0.024037	Val Loss: 1.065786	Val Acc: 83.59375
+The accuracy is 82.34
+Train Epoch: 29 [40960/49000 (84%)]	Train Loss: 0.084034	Val Loss: 0.744714	Val Acc: 82.34375
+The accuracy is 83.91
+Train Epoch: 29 [42240/49000 (86%)]	Train Loss: 0.024977	Val Loss: 0.867553	Val Acc: 83.90625
+The accuracy is 83.75
+Train Epoch: 29 [43520/49000 (89%)]	Train Loss: 0.009787	Val Loss: 0.866193	Val Acc: 83.75
+The accuracy is 82.66
+Train Epoch: 29 [44800/49000 (91%)]	Train Loss: 0.022861	Val Loss: 0.940859	Val Acc: 82.65625
+The accuracy is 84.69
+Train Epoch: 29 [46080/49000 (94%)]	Train Loss: 0.016718	Val Loss: 0.881724	Val Acc: 84.6875
+The accuracy is 82.81
+Train Epoch: 29 [47360/49000 (97%)]	Train Loss: 0.057415	Val Loss: 1.070581	Val Acc: 82.8125
+The accuracy is 81.25
+Train Epoch: 29 [48640/49000 (99%)]	Train Loss: 0.027503	Val Loss: 1.049209	Val Acc: 81.25
+The accuracy is 80.47
+Train Epoch: 30 [0/49000 (0%)]	Train Loss: 0.445110	Val Loss: 0.911986	Val Acc: 80.46875
+The accuracy is 84.06
+Train Epoch: 30 [1280/49000 (3%)]	Train Loss: 0.007539	Val Loss: 0.895657	Val Acc: 84.0625
+The accuracy is 83.44
+Train Epoch: 30 [2560/49000 (5%)]	Train Loss: 0.028213	Val Loss: 0.959043	Val Acc: 83.4375
+The accuracy is 83.28
+Train Epoch: 30 [3840/49000 (8%)]	Train Loss: 0.009668	Val Loss: 1.020146	Val Acc: 83.28125
+The accuracy is 83.44
+Train Epoch: 30 [5120/49000 (10%)]	Train Loss: 0.006444	Val Loss: 1.060394	Val Acc: 83.4375
+The accuracy is 85.31
+Train Epoch: 30 [6400/49000 (13%)]	Train Loss: 0.017502	Val Loss: 0.950962	Val Acc: 85.3125
+The accuracy is 83.44
+Train Epoch: 30 [7680/49000 (16%)]	Train Loss: 0.011832	Val Loss: 0.989424	Val Acc: 83.4375
+The accuracy is 83.59
+Train Epoch: 30 [8960/49000 (18%)]	Train Loss: 0.020762	Val Loss: 0.998271	Val Acc: 83.59375
+The accuracy is 81.25
+Train Epoch: 30 [10240/49000 (21%)]	Train Loss: 0.025327	Val Loss: 1.252192	Val Acc: 81.25
+The accuracy is 84.53
+Train Epoch: 30 [11520/49000 (23%)]	Train Loss: 0.008564	Val Loss: 1.094701	Val Acc: 84.53125
+The accuracy is 83.44
+Train Epoch: 30 [12800/49000 (26%)]	Train Loss: 0.018372	Val Loss: 0.809960	Val Acc: 83.4375
+The accuracy is 84.38
+Train Epoch: 30 [14080/49000 (29%)]	Train Loss: 0.012335	Val Loss: 0.883881	Val Acc: 84.375
+The accuracy is 84.69
+Train Epoch: 30 [15360/49000 (31%)]	Train Loss: 0.007968	Val Loss: 0.959337	Val Acc: 84.6875
+The accuracy is 84.69
+Train Epoch: 30 [16640/49000 (34%)]	Train Loss: 0.027326	Val Loss: 0.813890	Val Acc: 84.6875
+The accuracy is 79.53
+Train Epoch: 30 [17920/49000 (37%)]	Train Loss: 0.060707	Val Loss: 1.223014	Val Acc: 79.53125
+The accuracy is 83.44
+Train Epoch: 30 [19200/49000 (39%)]	Train Loss: 0.037006	Val Loss: 0.942557	Val Acc: 83.4375
+The accuracy is 84.53
+Train Epoch: 30 [20480/49000 (42%)]	Train Loss: 0.024508	Val Loss: 0.866210	Val Acc: 84.53125
+The accuracy is 85.62
+Train Epoch: 30 [21760/49000 (44%)]	Train Loss: 0.012464	Val Loss: 0.872265	Val Acc: 85.625
+The accuracy is 84.69
+Train Epoch: 30 [23040/49000 (47%)]	Train Loss: 0.003818	Val Loss: 0.972820	Val Acc: 84.6875
+The accuracy is 85.00
+Train Epoch: 30 [24320/49000 (50%)]	Train Loss: 0.019989	Val Loss: 0.914131	Val Acc: 85.0
+The accuracy is 84.38
+Train Epoch: 30 [25600/49000 (52%)]	Train Loss: 0.016379	Val Loss: 0.896919	Val Acc: 84.375
+The accuracy is 84.06
+Train Epoch: 30 [26880/49000 (55%)]	Train Loss: 0.018176	Val Loss: 0.921605	Val Acc: 84.0625
+The accuracy is 84.06
+Train Epoch: 30 [28160/49000 (57%)]	Train Loss: 0.027304	Val Loss: 1.076932	Val Acc: 84.0625
+The accuracy is 82.19
+Train Epoch: 30 [29440/49000 (60%)]	Train Loss: 0.016453	Val Loss: 1.089425	Val Acc: 82.1875
+The accuracy is 84.38
+Train Epoch: 30 [30720/49000 (63%)]	Train Loss: 0.012473	Val Loss: 0.956817	Val Acc: 84.375
+The accuracy is 83.59
+Train Epoch: 30 [32000/49000 (65%)]	Train Loss: 0.004238	Val Loss: 1.004014	Val Acc: 83.59375
+The accuracy is 77.03
+Train Epoch: 30 [33280/49000 (68%)]	Train Loss: 0.341018	Val Loss: 1.178116	Val Acc: 77.03125
+The accuracy is 83.28
+Train Epoch: 30 [34560/49000 (70%)]	Train Loss: 0.064497	Val Loss: 0.696464	Val Acc: 83.28125
+The accuracy is 81.72
+Train Epoch: 30 [35840/49000 (73%)]	Train Loss: 0.032664	Val Loss: 0.785756	Val Acc: 81.71875
+The accuracy is 82.81
+Train Epoch: 30 [37120/49000 (76%)]	Train Loss: 0.010177	Val Loss: 0.816226	Val Acc: 82.8125
+The accuracy is 84.69
+Train Epoch: 30 [38400/49000 (78%)]	Train Loss: 0.010029	Val Loss: 0.810953	Val Acc: 84.6875
+The accuracy is 84.53
+Train Epoch: 30 [39680/49000 (81%)]	Train Loss: 0.042961	Val Loss: 0.860534	Val Acc: 84.53125
+The accuracy is 85.31
+Train Epoch: 30 [40960/49000 (84%)]	Train Loss: 0.005835	Val Loss: 0.756355	Val Acc: 85.3125
+The accuracy is 83.44
+Train Epoch: 30 [42240/49000 (86%)]	Train Loss: 0.026015	Val Loss: 0.991976	Val Acc: 83.4375
+The accuracy is 83.28
+Train Epoch: 30 [43520/49000 (89%)]	Train Loss: 0.034268	Val Loss: 0.963840	Val Acc: 83.28125
+The accuracy is 77.81
+Train Epoch: 30 [44800/49000 (91%)]	Train Loss: 0.515429	Val Loss: 0.829422	Val Acc: 77.8125
+The accuracy is 83.75
+Train Epoch: 30 [46080/49000 (94%)]	Train Loss: 0.083086	Val Loss: 0.680551	Val Acc: 83.75
+The accuracy is 83.28
+Train Epoch: 30 [47360/49000 (97%)]	Train Loss: 0.030911	Val Loss: 0.810716	Val Acc: 83.28125
+The accuracy is 85.31
+Train Epoch: 30 [48640/49000 (99%)]	Train Loss: 0.043952	Val Loss: 0.754735	Val Acc: 85.3125
+The accuracy is 85.16
+Train Epoch: 31 [0/49000 (0%)]	Train Loss: 0.431984	Val Loss: 0.782813	Val Acc: 85.15625
+The accuracy is 85.00
+Train Epoch: 31 [1280/49000 (3%)]	Train Loss: 0.018700	Val Loss: 0.780297	Val Acc: 85.0
+The accuracy is 85.31
+Train Epoch: 31 [2560/49000 (5%)]	Train Loss: 0.004972	Val Loss: 0.807140	Val Acc: 85.3125
+The accuracy is 81.56
+Train Epoch: 31 [3840/49000 (8%)]	Train Loss: 0.057293	Val Loss: 0.927421	Val Acc: 81.5625
+The accuracy is 84.38
+Train Epoch: 31 [5120/49000 (10%)]	Train Loss: 0.004909	Val Loss: 0.956793	Val Acc: 84.375
+The accuracy is 85.47
+Train Epoch: 31 [6400/49000 (13%)]	Train Loss: 0.002336	Val Loss: 0.743343	Val Acc: 85.46875
+The accuracy is 85.00
+Train Epoch: 31 [7680/49000 (16%)]	Train Loss: 0.003349	Val Loss: 0.878525	Val Acc: 85.0
+The accuracy is 82.97
+Train Epoch: 31 [8960/49000 (18%)]	Train Loss: 0.007348	Val Loss: 0.924900	Val Acc: 82.96875
+The accuracy is 82.03
+Train Epoch: 31 [10240/49000 (21%)]	Train Loss: 0.032274	Val Loss: 1.065597	Val Acc: 82.03125
+The accuracy is 81.25
+Train Epoch: 31 [11520/49000 (23%)]	Train Loss: 0.075704	Val Loss: 1.080952	Val Acc: 81.25
+The accuracy is 84.69
+Train Epoch: 31 [12800/49000 (26%)]	Train Loss: 0.010376	Val Loss: 0.966422	Val Acc: 84.6875
+The accuracy is 85.16
+Train Epoch: 31 [14080/49000 (29%)]	Train Loss: 0.023370	Val Loss: 0.979553	Val Acc: 85.15625
+The accuracy is 83.44
+Train Epoch: 31 [15360/49000 (31%)]	Train Loss: 0.045829	Val Loss: 1.027528	Val Acc: 83.4375
+The accuracy is 86.09
+Train Epoch: 31 [16640/49000 (34%)]	Train Loss: 0.006870	Val Loss: 0.872815	Val Acc: 86.09375
+The accuracy is 85.00
+Train Epoch: 31 [17920/49000 (37%)]	Train Loss: 0.009916	Val Loss: 0.919883	Val Acc: 85.0
+The accuracy is 83.59
+Train Epoch: 31 [19200/49000 (39%)]	Train Loss: 0.006974	Val Loss: 0.984031	Val Acc: 83.59375
+The accuracy is 83.28
+Train Epoch: 31 [20480/49000 (42%)]	Train Loss: 0.008227	Val Loss: 1.051879	Val Acc: 83.28125
+The accuracy is 85.00
+Train Epoch: 31 [21760/49000 (44%)]	Train Loss: 0.004870	Val Loss: 0.917732	Val Acc: 85.0
+The accuracy is 84.38
+Train Epoch: 31 [23040/49000 (47%)]	Train Loss: 0.002850	Val Loss: 1.056302	Val Acc: 84.375
+The accuracy is 84.06
+Train Epoch: 31 [24320/49000 (50%)]	Train Loss: 0.002439	Val Loss: 1.062153	Val Acc: 84.0625
+The accuracy is 84.84
+Train Epoch: 31 [25600/49000 (52%)]	Train Loss: 0.002986	Val Loss: 1.008151	Val Acc: 84.84375
+The accuracy is 84.38
+Train Epoch: 31 [26880/49000 (55%)]	Train Loss: 0.029910	Val Loss: 1.051931	Val Acc: 84.375
+The accuracy is 84.53
+Train Epoch: 31 [28160/49000 (57%)]	Train Loss: 0.001834	Val Loss: 1.002340	Val Acc: 84.53125
+The accuracy is 83.12
+Train Epoch: 31 [29440/49000 (60%)]	Train Loss: 0.017070	Val Loss: 1.149251	Val Acc: 83.125
+The accuracy is 84.38
+Train Epoch: 31 [30720/49000 (63%)]	Train Loss: 0.002078	Val Loss: 1.092957	Val Acc: 84.375
+The accuracy is 83.75
+Train Epoch: 31 [32000/49000 (65%)]	Train Loss: 0.007182	Val Loss: 1.120008	Val Acc: 83.75
+The accuracy is 85.00
+Train Epoch: 31 [33280/49000 (68%)]	Train Loss: 0.006425	Val Loss: 1.005545	Val Acc: 85.0
+The accuracy is 85.16
+Train Epoch: 31 [34560/49000 (70%)]	Train Loss: 0.021228	Val Loss: 1.159397	Val Acc: 85.15625
+The accuracy is 52.50
+Train Epoch: 31 [35840/49000 (73%)]	Train Loss: 1.921979	Val Loss: 1.495161	Val Acc: 52.5
+The accuracy is 80.62
+Train Epoch: 31 [37120/49000 (76%)]	Train Loss: 0.192775	Val Loss: 0.647024	Val Acc: 80.625
+The accuracy is 83.12
+Train Epoch: 31 [38400/49000 (78%)]	Train Loss: 0.142986	Val Loss: 0.682029	Val Acc: 83.125
+The accuracy is 85.62
+Train Epoch: 31 [39680/49000 (81%)]	Train Loss: 0.030114	Val Loss: 0.700686	Val Acc: 85.625
+The accuracy is 82.66
+Train Epoch: 31 [40960/49000 (84%)]	Train Loss: 0.044555	Val Loss: 0.811426	Val Acc: 82.65625
+The accuracy is 83.44
+Train Epoch: 31 [42240/49000 (86%)]	Train Loss: 0.043231	Val Loss: 0.836889	Val Acc: 83.4375
+The accuracy is 84.69
+Train Epoch: 31 [43520/49000 (89%)]	Train Loss: 0.028259	Val Loss: 0.756367	Val Acc: 84.6875
+The accuracy is 80.31
+Train Epoch: 31 [44800/49000 (91%)]	Train Loss: 0.142048	Val Loss: 0.980821	Val Acc: 80.3125
+The accuracy is 81.56
+Train Epoch: 31 [46080/49000 (94%)]	Train Loss: 0.069350	Val Loss: 0.796660	Val Acc: 81.5625
+The accuracy is 82.81
+Train Epoch: 31 [47360/49000 (97%)]	Train Loss: 0.021257	Val Loss: 0.822701	Val Acc: 82.8125
+The accuracy is 83.75
+Train Epoch: 31 [48640/49000 (99%)]	Train Loss: 0.027929	Val Loss: 0.772531	Val Acc: 83.75
+The accuracy is 83.59
+Train Epoch: 32 [0/49000 (0%)]	Train Loss: 0.484462	Val Loss: 0.825717	Val Acc: 83.59375
+The accuracy is 83.28
+Train Epoch: 32 [1280/49000 (3%)]	Train Loss: 0.007427	Val Loss: 0.913489	Val Acc: 83.28125
+The accuracy is 82.81
+Train Epoch: 32 [2560/49000 (5%)]	Train Loss: 0.017598	Val Loss: 0.944904	Val Acc: 82.8125
+The accuracy is 84.38
+Train Epoch: 32 [3840/49000 (8%)]	Train Loss: 0.006632	Val Loss: 0.825152	Val Acc: 84.375
+The accuracy is 83.59
+Train Epoch: 32 [5120/49000 (10%)]	Train Loss: 0.007151	Val Loss: 0.902978	Val Acc: 83.59375
+The accuracy is 82.50
+Train Epoch: 32 [6400/49000 (13%)]	Train Loss: 0.002756	Val Loss: 1.006115	Val Acc: 82.5
+The accuracy is 83.59
+Train Epoch: 32 [7680/49000 (16%)]	Train Loss: 0.014604	Val Loss: 0.969960	Val Acc: 83.59375
+The accuracy is 83.44
+Train Epoch: 32 [8960/49000 (18%)]	Train Loss: 0.024165	Val Loss: 0.998683	Val Acc: 83.4375
+The accuracy is 81.88
+Train Epoch: 32 [10240/49000 (21%)]	Train Loss: 0.002731	Val Loss: 1.099425	Val Acc: 81.875
+The accuracy is 83.28
+Train Epoch: 32 [11520/49000 (23%)]	Train Loss: 0.006160	Val Loss: 1.040210	Val Acc: 83.28125
+The accuracy is 82.34
+Train Epoch: 32 [12800/49000 (26%)]	Train Loss: 0.005130	Val Loss: 1.071977	Val Acc: 82.34375
+The accuracy is 82.03
+Train Epoch: 32 [14080/49000 (29%)]	Train Loss: 0.028343	Val Loss: 1.191093	Val Acc: 82.03125
+The accuracy is 82.03
+Train Epoch: 32 [15360/49000 (31%)]	Train Loss: 0.008311	Val Loss: 1.176629	Val Acc: 82.03125
+The accuracy is 82.97
+Train Epoch: 32 [16640/49000 (34%)]	Train Loss: 0.009767	Val Loss: 1.089785	Val Acc: 82.96875
+The accuracy is 83.91
+Train Epoch: 32 [17920/49000 (37%)]	Train Loss: 0.008785	Val Loss: 1.052653	Val Acc: 83.90625
+The accuracy is 84.22
+Train Epoch: 32 [19200/49000 (39%)]	Train Loss: 0.002163	Val Loss: 1.117862	Val Acc: 84.21875
+The accuracy is 82.66
+Train Epoch: 32 [20480/49000 (42%)]	Train Loss: 0.009108	Val Loss: 1.175076	Val Acc: 82.65625
+The accuracy is 85.47
+Train Epoch: 32 [21760/49000 (44%)]	Train Loss: 0.004645	Val Loss: 1.016204	Val Acc: 85.46875
+The accuracy is 84.84
+Train Epoch: 32 [23040/49000 (47%)]	Train Loss: 0.000396	Val Loss: 1.143343	Val Acc: 84.84375
+The accuracy is 84.69
+Train Epoch: 32 [24320/49000 (50%)]	Train Loss: 0.003396	Val Loss: 1.012498	Val Acc: 84.6875
+The accuracy is 83.44
+Train Epoch: 32 [25600/49000 (52%)]	Train Loss: 0.005424	Val Loss: 1.192671	Val Acc: 83.4375
+The accuracy is 83.75
+Train Epoch: 32 [26880/49000 (55%)]	Train Loss: 0.000448	Val Loss: 1.117499	Val Acc: 83.75
+The accuracy is 82.97
+Train Epoch: 32 [28160/49000 (57%)]	Train Loss: 0.001002	Val Loss: 1.145920	Val Acc: 82.96875
+The accuracy is 83.75
+Train Epoch: 32 [29440/49000 (60%)]	Train Loss: 0.011257	Val Loss: 1.078117	Val Acc: 83.75
+The accuracy is 82.19
+Train Epoch: 32 [30720/49000 (63%)]	Train Loss: 0.022725	Val Loss: 1.231697	Val Acc: 82.1875
+The accuracy is 84.84
+Train Epoch: 32 [32000/49000 (65%)]	Train Loss: 0.004237	Val Loss: 1.059514	Val Acc: 84.84375
+The accuracy is 83.12
+Train Epoch: 32 [33280/49000 (68%)]	Train Loss: 0.014494	Val Loss: 1.111949	Val Acc: 83.125
+The accuracy is 69.84
+Train Epoch: 32 [34560/49000 (70%)]	Train Loss: 0.761128	Val Loss: 0.954533	Val Acc: 69.84375
+The accuracy is 80.47
+Train Epoch: 32 [35840/49000 (73%)]	Train Loss: 0.377462	Val Loss: 0.740253	Val Acc: 80.46875
+The accuracy is 81.25
+Train Epoch: 32 [37120/49000 (76%)]	Train Loss: 0.078175	Val Loss: 0.807483	Val Acc: 81.25
+The accuracy is 80.47
+Train Epoch: 32 [38400/49000 (78%)]	Train Loss: 0.102502	Val Loss: 0.798622	Val Acc: 80.46875
+The accuracy is 81.88
+Train Epoch: 32 [39680/49000 (81%)]	Train Loss: 0.091196	Val Loss: 0.828105	Val Acc: 81.875
+The accuracy is 82.03
+Train Epoch: 32 [40960/49000 (84%)]	Train Loss: 0.047852	Val Loss: 0.822142	Val Acc: 82.03125
+The accuracy is 83.28
+Train Epoch: 32 [42240/49000 (86%)]	Train Loss: 0.032225	Val Loss: 0.797592	Val Acc: 83.28125
+The accuracy is 80.78
+Train Epoch: 32 [43520/49000 (89%)]	Train Loss: 0.178765	Val Loss: 1.013398	Val Acc: 80.78125
+The accuracy is 82.03
+Train Epoch: 32 [44800/49000 (91%)]	Train Loss: 0.023241	Val Loss: 0.846728	Val Acc: 82.03125
+The accuracy is 82.81
+Train Epoch: 32 [46080/49000 (94%)]	Train Loss: 0.057936	Val Loss: 1.053707	Val Acc: 82.8125
+The accuracy is 84.53
+Train Epoch: 32 [47360/49000 (97%)]	Train Loss: 0.071640	Val Loss: 0.739246	Val Acc: 84.53125
+The accuracy is 83.75
+Train Epoch: 32 [48640/49000 (99%)]	Train Loss: 0.009028	Val Loss: 0.822921	Val Acc: 83.75
+The accuracy is 83.75
+Train Epoch: 33 [0/49000 (0%)]	Train Loss: 0.474586	Val Loss: 0.760332	Val Acc: 83.75
+The accuracy is 83.91
+Train Epoch: 33 [1280/49000 (3%)]	Train Loss: 0.009332	Val Loss: 0.893317	Val Acc: 83.90625
+The accuracy is 82.03
+Train Epoch: 33 [2560/49000 (5%)]	Train Loss: 0.031524	Val Loss: 0.952187	Val Acc: 82.03125
+The accuracy is 84.38
+Train Epoch: 33 [3840/49000 (8%)]	Train Loss: 0.002886	Val Loss: 0.967339	Val Acc: 84.375
+The accuracy is 83.59
+Train Epoch: 33 [5120/49000 (10%)]	Train Loss: 0.004736	Val Loss: 0.953143	Val Acc: 83.59375
+The accuracy is 84.38
+Train Epoch: 33 [6400/49000 (13%)]	Train Loss: 0.005985	Val Loss: 0.983178	Val Acc: 84.375
+The accuracy is 84.38
+Train Epoch: 33 [7680/49000 (16%)]	Train Loss: 0.010356	Val Loss: 0.768753	Val Acc: 84.375
+The accuracy is 84.06
+Train Epoch: 33 [8960/49000 (18%)]	Train Loss: 0.002916	Val Loss: 0.917710	Val Acc: 84.0625
+The accuracy is 84.38
+Train Epoch: 33 [10240/49000 (21%)]	Train Loss: 0.010673	Val Loss: 0.989454	Val Acc: 84.375
+The accuracy is 78.91
+Train Epoch: 33 [11520/49000 (23%)]	Train Loss: 0.243784	Val Loss: 0.804034	Val Acc: 78.90625
+The accuracy is 81.88
+Train Epoch: 33 [12800/49000 (26%)]	Train Loss: 0.057555	Val Loss: 0.765820	Val Acc: 81.875
+The accuracy is 80.94
+Train Epoch: 33 [14080/49000 (29%)]	Train Loss: 0.016129	Val Loss: 0.882975	Val Acc: 80.9375
+The accuracy is 81.56
+Train Epoch: 33 [15360/49000 (31%)]	Train Loss: 0.033660	Val Loss: 0.884888	Val Acc: 81.5625
+The accuracy is 82.81
+Train Epoch: 33 [16640/49000 (34%)]	Train Loss: 0.071020	Val Loss: 0.828967	Val Acc: 82.8125
+The accuracy is 82.97
+Train Epoch: 33 [17920/49000 (37%)]	Train Loss: 0.042987	Val Loss: 0.822622	Val Acc: 82.96875
+The accuracy is 85.16
+Train Epoch: 33 [19200/49000 (39%)]	Train Loss: 0.019021	Val Loss: 0.741666	Val Acc: 85.15625
+The accuracy is 83.91
+Train Epoch: 33 [20480/49000 (42%)]	Train Loss: 0.039266	Val Loss: 0.863825	Val Acc: 83.90625
+The accuracy is 84.06
+Train Epoch: 33 [21760/49000 (44%)]	Train Loss: 0.014318	Val Loss: 0.853697	Val Acc: 84.0625
+The accuracy is 84.38
+Train Epoch: 33 [23040/49000 (47%)]	Train Loss: 0.016100	Val Loss: 0.892683	Val Acc: 84.375
+The accuracy is 84.84
+Train Epoch: 33 [24320/49000 (50%)]	Train Loss: 0.013172	Val Loss: 0.847271	Val Acc: 84.84375
+The accuracy is 83.91
+Train Epoch: 33 [25600/49000 (52%)]	Train Loss: 0.027707	Val Loss: 0.928940	Val Acc: 83.90625
+The accuracy is 85.94
+Train Epoch: 33 [26880/49000 (55%)]	Train Loss: 0.033938	Val Loss: 0.802636	Val Acc: 85.9375
+The accuracy is 83.59
+Train Epoch: 33 [28160/49000 (57%)]	Train Loss: 0.005511	Val Loss: 0.941587	Val Acc: 83.59375
+The accuracy is 85.78
+Train Epoch: 33 [29440/49000 (60%)]	Train Loss: 0.005737	Val Loss: 0.843141	Val Acc: 85.78125
+The accuracy is 85.62
+Train Epoch: 33 [30720/49000 (63%)]	Train Loss: 0.018789	Val Loss: 0.971488	Val Acc: 85.625
+The accuracy is 84.84
+Train Epoch: 33 [32000/49000 (65%)]	Train Loss: 0.004199	Val Loss: 0.952614	Val Acc: 84.84375
+The accuracy is 85.00
+Train Epoch: 33 [33280/49000 (68%)]	Train Loss: 0.003580	Val Loss: 0.969288	Val Acc: 85.0
+The accuracy is 84.84
+Train Epoch: 33 [34560/49000 (70%)]	Train Loss: 0.010190	Val Loss: 1.021371	Val Acc: 84.84375
+The accuracy is 82.81
+Train Epoch: 33 [35840/49000 (73%)]	Train Loss: 0.059296	Val Loss: 1.180140	Val Acc: 82.8125
+The accuracy is 86.41
+Train Epoch: 33 [37120/49000 (76%)]	Train Loss: 0.012490	Val Loss: 0.824016	Val Acc: 86.40625
+The accuracy is 81.09
+Train Epoch: 33 [38400/49000 (78%)]	Train Loss: 0.017069	Val Loss: 1.214320	Val Acc: 81.09375
+The accuracy is 76.09
+Train Epoch: 33 [39680/49000 (81%)]	Train Loss: 0.753785	Val Loss: 0.796018	Val Acc: 76.09375
+The accuracy is 81.25
+Train Epoch: 33 [40960/49000 (84%)]	Train Loss: 0.123243	Val Loss: 0.739167	Val Acc: 81.25
+The accuracy is 83.75
+Train Epoch: 33 [42240/49000 (86%)]	Train Loss: 0.063784	Val Loss: 0.797012	Val Acc: 83.75
+The accuracy is 81.88
+Train Epoch: 33 [43520/49000 (89%)]	Train Loss: 0.024015	Val Loss: 0.872330	Val Acc: 81.875
+The accuracy is 82.97
+Train Epoch: 33 [44800/49000 (91%)]	Train Loss: 0.004376	Val Loss: 0.895815	Val Acc: 82.96875
+The accuracy is 82.50
+Train Epoch: 33 [46080/49000 (94%)]	Train Loss: 0.009071	Val Loss: 0.970663	Val Acc: 82.5
+The accuracy is 83.44
+Train Epoch: 33 [47360/49000 (97%)]	Train Loss: 0.030943	Val Loss: 0.841931	Val Acc: 83.4375
+The accuracy is 83.75
+Train Epoch: 33 [48640/49000 (99%)]	Train Loss: 0.011252	Val Loss: 0.848589	Val Acc: 83.75
+The accuracy is 82.97
+Train Epoch: 34 [0/49000 (0%)]	Train Loss: 0.418920	Val Loss: 0.958472	Val Acc: 82.96875
+The accuracy is 82.66
+Train Epoch: 34 [1280/49000 (3%)]	Train Loss: 0.004637	Val Loss: 0.921265	Val Acc: 82.65625
+The accuracy is 84.06
+Train Epoch: 34 [2560/49000 (5%)]	Train Loss: 0.003589	Val Loss: 0.757517	Val Acc: 84.0625
+The accuracy is 83.44
+Train Epoch: 34 [3840/49000 (8%)]	Train Loss: 0.004618	Val Loss: 0.975016	Val Acc: 83.4375
+The accuracy is 85.31
+Train Epoch: 34 [5120/49000 (10%)]	Train Loss: 0.001428	Val Loss: 0.855929	Val Acc: 85.3125
+The accuracy is 85.94
+Train Epoch: 34 [6400/49000 (13%)]	Train Loss: 0.002971	Val Loss: 0.858967	Val Acc: 85.9375
+The accuracy is 86.41
+Train Epoch: 34 [7680/49000 (16%)]	Train Loss: 0.002146	Val Loss: 0.852393	Val Acc: 86.40625
+The accuracy is 85.31
+Train Epoch: 34 [8960/49000 (18%)]	Train Loss: 0.002092	Val Loss: 0.875926	Val Acc: 85.3125
+The accuracy is 85.31
+Train Epoch: 34 [10240/49000 (21%)]	Train Loss: 0.002358	Val Loss: 0.960648	Val Acc: 85.3125
+The accuracy is 84.22
+Train Epoch: 34 [11520/49000 (23%)]	Train Loss: 0.002589	Val Loss: 0.882929	Val Acc: 84.21875
+The accuracy is 83.75
+Train Epoch: 34 [12800/49000 (26%)]	Train Loss: 0.002457	Val Loss: 0.941319	Val Acc: 83.75
+The accuracy is 85.00
+Train Epoch: 34 [14080/49000 (29%)]	Train Loss: 0.004148	Val Loss: 0.900875	Val Acc: 85.0
+The accuracy is 84.22
+Train Epoch: 34 [15360/49000 (31%)]	Train Loss: 0.001815	Val Loss: 1.011391	Val Acc: 84.21875
+The accuracy is 84.38
+Train Epoch: 34 [16640/49000 (34%)]	Train Loss: 0.002546	Val Loss: 1.010392	Val Acc: 84.375
+The accuracy is 86.09
+Train Epoch: 34 [17920/49000 (37%)]	Train Loss: 0.005370	Val Loss: 0.948340	Val Acc: 86.09375
+The accuracy is 84.69
+Train Epoch: 34 [19200/49000 (39%)]	Train Loss: 0.022572	Val Loss: 0.986469	Val Acc: 84.6875
+The accuracy is 59.69
+Train Epoch: 34 [20480/49000 (42%)]	Train Loss: 1.346194	Val Loss: 1.250168	Val Acc: 59.6875
+The accuracy is 80.78
+Train Epoch: 34 [21760/49000 (44%)]	Train Loss: 0.213009	Val Loss: 0.694198	Val Acc: 80.78125
+The accuracy is 81.72
+Train Epoch: 34 [23040/49000 (47%)]	Train Loss: 0.178304	Val Loss: 0.796373	Val Acc: 81.71875
+The accuracy is 82.97
+Train Epoch: 34 [24320/49000 (50%)]	Train Loss: 0.028969	Val Loss: 0.807326	Val Acc: 82.96875
+The accuracy is 83.12
+Train Epoch: 34 [25600/49000 (52%)]	Train Loss: 0.064678	Val Loss: 0.813192	Val Acc: 83.125
+The accuracy is 82.81
+Train Epoch: 34 [26880/49000 (55%)]	Train Loss: 0.022039	Val Loss: 0.894491	Val Acc: 82.8125
+The accuracy is 79.38
+Train Epoch: 34 [28160/49000 (57%)]	Train Loss: 0.118472	Val Loss: 1.000291	Val Acc: 79.375
+The accuracy is 84.06
+Train Epoch: 34 [29440/49000 (60%)]	Train Loss: 0.032157	Val Loss: 0.843433	Val Acc: 84.0625
+The accuracy is 81.41
+Train Epoch: 34 [30720/49000 (63%)]	Train Loss: 0.048018	Val Loss: 1.000050	Val Acc: 81.40625
+The accuracy is 81.25
+Train Epoch: 34 [32000/49000 (65%)]	Train Loss: 0.065549	Val Loss: 0.980744	Val Acc: 81.25
+The accuracy is 81.88
+Train Epoch: 34 [33280/49000 (68%)]	Train Loss: 0.014091	Val Loss: 1.018353	Val Acc: 81.875
+The accuracy is 82.97
+Train Epoch: 34 [34560/49000 (70%)]	Train Loss: 0.012130	Val Loss: 0.856663	Val Acc: 82.96875
+The accuracy is 82.03
+Train Epoch: 34 [35840/49000 (73%)]	Train Loss: 0.013691	Val Loss: 1.023722	Val Acc: 82.03125
+The accuracy is 83.59
+Train Epoch: 34 [37120/49000 (76%)]	Train Loss: 0.018901	Val Loss: 0.917722	Val Acc: 83.59375
+The accuracy is 83.12
+Train Epoch: 34 [38400/49000 (78%)]	Train Loss: 0.022527	Val Loss: 0.857385	Val Acc: 83.125
+The accuracy is 83.75
+Train Epoch: 34 [39680/49000 (81%)]	Train Loss: 0.011840	Val Loss: 0.873105	Val Acc: 83.75
+The accuracy is 85.00
+Train Epoch: 34 [40960/49000 (84%)]	Train Loss: 0.007702	Val Loss: 0.808054	Val Acc: 85.0
+The accuracy is 84.38
+Train Epoch: 34 [42240/49000 (86%)]	Train Loss: 0.002305	Val Loss: 0.975469	Val Acc: 84.375
+The accuracy is 80.62
+Train Epoch: 34 [43520/49000 (89%)]	Train Loss: 0.215165	Val Loss: 1.015728	Val Acc: 80.625
+The accuracy is 82.66
+Train Epoch: 34 [44800/49000 (91%)]	Train Loss: 0.015487	Val Loss: 0.920974	Val Acc: 82.65625
+The accuracy is 83.91
+Train Epoch: 34 [46080/49000 (94%)]	Train Loss: 0.028008	Val Loss: 0.886554	Val Acc: 83.90625
+The accuracy is 84.22
+Train Epoch: 34 [47360/49000 (97%)]	Train Loss: 0.008330	Val Loss: 0.936692	Val Acc: 84.21875
+The accuracy is 84.06
+Train Epoch: 34 [48640/49000 (99%)]	Train Loss: 0.015638	Val Loss: 0.959706	Val Acc: 84.0625
+The accuracy is 84.06
+Train Epoch: 35 [0/49000 (0%)]	Train Loss: 0.637249	Val Loss: 0.815546	Val Acc: 84.0625
+The accuracy is 84.69
+Train Epoch: 35 [1280/49000 (3%)]	Train Loss: 0.020868	Val Loss: 0.846557	Val Acc: 84.6875
+The accuracy is 83.75
+Train Epoch: 35 [2560/49000 (5%)]	Train Loss: 0.011386	Val Loss: 0.986590	Val Acc: 83.75
+The accuracy is 84.38
+Train Epoch: 35 [3840/49000 (8%)]	Train Loss: 0.010607	Val Loss: 0.974401	Val Acc: 84.375
+The accuracy is 84.69
+Train Epoch: 35 [5120/49000 (10%)]	Train Loss: 0.001816	Val Loss: 1.067666	Val Acc: 84.6875
+The accuracy is 83.59
+Train Epoch: 35 [6400/49000 (13%)]	Train Loss: 0.001361	Val Loss: 1.080624	Val Acc: 83.59375
+The accuracy is 83.12
+Train Epoch: 35 [7680/49000 (16%)]	Train Loss: 0.002982	Val Loss: 1.103090	Val Acc: 83.125
+The accuracy is 84.53
+Train Epoch: 35 [8960/49000 (18%)]	Train Loss: 0.005293	Val Loss: 1.000631	Val Acc: 84.53125
+The accuracy is 83.91
+Train Epoch: 35 [10240/49000 (21%)]	Train Loss: 0.001412	Val Loss: 1.079591	Val Acc: 83.90625
+The accuracy is 84.38
+Train Epoch: 35 [11520/49000 (23%)]	Train Loss: 0.000928	Val Loss: 1.061518	Val Acc: 84.375
+The accuracy is 85.16
+Train Epoch: 35 [12800/49000 (26%)]	Train Loss: 0.000509	Val Loss: 0.990831	Val Acc: 85.15625
+The accuracy is 83.59
+Train Epoch: 35 [14080/49000 (29%)]	Train Loss: 0.000951	Val Loss: 1.143641	Val Acc: 83.59375
+The accuracy is 83.91
+Train Epoch: 35 [15360/49000 (31%)]	Train Loss: 0.000827	Val Loss: 1.172089	Val Acc: 83.90625
+The accuracy is 83.28
+Train Epoch: 35 [16640/49000 (34%)]	Train Loss: 0.000635	Val Loss: 1.148977	Val Acc: 83.28125
+The accuracy is 83.59
+Train Epoch: 35 [17920/49000 (37%)]	Train Loss: 0.003507	Val Loss: 1.141640	Val Acc: 83.59375
+The accuracy is 83.44
+Train Epoch: 35 [19200/49000 (39%)]	Train Loss: 0.002076	Val Loss: 1.204918	Val Acc: 83.4375
+The accuracy is 84.84
+Train Epoch: 35 [20480/49000 (42%)]	Train Loss: 0.002906	Val Loss: 1.068421	Val Acc: 84.84375
+The accuracy is 83.28
+Train Epoch: 35 [21760/49000 (44%)]	Train Loss: 0.000754	Val Loss: 1.172488	Val Acc: 83.28125
+The accuracy is 82.97
+Train Epoch: 35 [23040/49000 (47%)]	Train Loss: 0.001871	Val Loss: 1.244745	Val Acc: 82.96875
+The accuracy is 84.38
+Train Epoch: 35 [24320/49000 (50%)]	Train Loss: 0.000827	Val Loss: 1.027719	Val Acc: 84.375
+The accuracy is 83.75
+Train Epoch: 35 [25600/49000 (52%)]	Train Loss: 0.000566	Val Loss: 1.261984	Val Acc: 83.75
+The accuracy is 85.31
+Train Epoch: 35 [26880/49000 (55%)]	Train Loss: 0.000245	Val Loss: 1.089312	Val Acc: 85.3125
+The accuracy is 85.31
+Train Epoch: 35 [28160/49000 (57%)]	Train Loss: 0.000691	Val Loss: 1.180947	Val Acc: 85.3125
+The accuracy is 84.84
+Train Epoch: 35 [29440/49000 (60%)]	Train Loss: 0.001423	Val Loss: 1.054137	Val Acc: 84.84375
+The accuracy is 84.69
+Train Epoch: 35 [30720/49000 (63%)]	Train Loss: 0.005126	Val Loss: 1.082497	Val Acc: 84.6875
+The accuracy is 84.06
+Train Epoch: 35 [32000/49000 (65%)]	Train Loss: 0.001495	Val Loss: 1.153292	Val Acc: 84.0625
+The accuracy is 84.38
+Train Epoch: 35 [33280/49000 (68%)]	Train Loss: 0.002233	Val Loss: 1.034540	Val Acc: 84.375
+The accuracy is 86.41
+Train Epoch: 35 [34560/49000 (70%)]	Train Loss: 0.001221	Val Loss: 0.893526	Val Acc: 86.40625
+The accuracy is 84.69
+Train Epoch: 35 [35840/49000 (73%)]	Train Loss: 0.000555	Val Loss: 1.121047	Val Acc: 84.6875
+The accuracy is 84.38
+Train Epoch: 35 [37120/49000 (76%)]	Train Loss: 0.001101	Val Loss: 1.049983	Val Acc: 84.375
+The accuracy is 83.91
+Train Epoch: 35 [38400/49000 (78%)]	Train Loss: 0.002881	Val Loss: 1.259589	Val Acc: 83.90625
+The accuracy is 84.53
+Train Epoch: 35 [39680/49000 (81%)]	Train Loss: 0.001337	Val Loss: 1.181796	Val Acc: 84.53125
+The accuracy is 83.44
+Train Epoch: 35 [40960/49000 (84%)]	Train Loss: 0.001126	Val Loss: 1.144423	Val Acc: 83.4375
+The accuracy is 83.12
+Train Epoch: 35 [42240/49000 (86%)]	Train Loss: 0.000421	Val Loss: 1.256159	Val Acc: 83.125
+The accuracy is 83.28
+Train Epoch: 35 [43520/49000 (89%)]	Train Loss: 0.000585	Val Loss: 1.228536	Val Acc: 83.28125
+The accuracy is 83.44
+Train Epoch: 35 [44800/49000 (91%)]	Train Loss: 0.000587	Val Loss: 1.201528	Val Acc: 83.4375
+The accuracy is 83.59
+Train Epoch: 35 [46080/49000 (94%)]	Train Loss: 0.003414	Val Loss: 1.258294	Val Acc: 83.59375
+The accuracy is 84.84
+Train Epoch: 35 [47360/49000 (97%)]	Train Loss: 0.000446	Val Loss: 1.109738	Val Acc: 84.84375
+The accuracy is 85.00
+Train Epoch: 35 [48640/49000 (99%)]	Train Loss: 0.000438	Val Loss: 1.051481	Val Acc: 85.0
+The accuracy is 84.22
+Train Epoch: 36 [0/49000 (0%)]	Train Loss: 0.494554	Val Loss: 1.133832	Val Acc: 84.21875
+The accuracy is 85.47
+Train Epoch: 36 [1280/49000 (3%)]	Train Loss: 0.000729	Val Loss: 1.029750	Val Acc: 85.46875
+The accuracy is 86.72
+Train Epoch: 36 [2560/49000 (5%)]	Train Loss: 0.001808	Val Loss: 0.915142	Val Acc: 86.71875
+The accuracy is 85.47
+Train Epoch: 36 [3840/49000 (8%)]	Train Loss: 0.000970	Val Loss: 1.000738	Val Acc: 85.46875
+The accuracy is 86.25
+Train Epoch: 36 [5120/49000 (10%)]	Train Loss: 0.000489	Val Loss: 0.921581	Val Acc: 86.25
+The accuracy is 85.31
+Train Epoch: 36 [6400/49000 (13%)]	Train Loss: 0.000523	Val Loss: 1.018221	Val Acc: 85.3125
+The accuracy is 85.16
+Train Epoch: 36 [7680/49000 (16%)]	Train Loss: 0.001160	Val Loss: 1.121735	Val Acc: 85.15625
+The accuracy is 84.22
+Train Epoch: 36 [8960/49000 (18%)]	Train Loss: 0.000552	Val Loss: 1.152445	Val Acc: 84.21875
+The accuracy is 85.78
+Train Epoch: 36 [10240/49000 (21%)]	Train Loss: 0.000336	Val Loss: 1.115700	Val Acc: 85.78125
+The accuracy is 84.84
+Train Epoch: 36 [11520/49000 (23%)]	Train Loss: 0.000727	Val Loss: 1.110332	Val Acc: 84.84375
+The accuracy is 83.59
+Train Epoch: 36 [12800/49000 (26%)]	Train Loss: 0.000452	Val Loss: 1.173956	Val Acc: 83.59375
+The accuracy is 84.22
+Train Epoch: 36 [14080/49000 (29%)]	Train Loss: 0.000200	Val Loss: 1.292289	Val Acc: 84.21875
+The accuracy is 84.53
+Train Epoch: 36 [15360/49000 (31%)]	Train Loss: 0.000369	Val Loss: 1.137356	Val Acc: 84.53125
+The accuracy is 83.75
+Train Epoch: 36 [16640/49000 (34%)]	Train Loss: 0.000239	Val Loss: 1.049761	Val Acc: 83.75
+The accuracy is 84.38
+Train Epoch: 36 [17920/49000 (37%)]	Train Loss: 0.000902	Val Loss: 1.095562	Val Acc: 84.375
+The accuracy is 85.00
+Train Epoch: 36 [19200/49000 (39%)]	Train Loss: 0.000280	Val Loss: 1.155546	Val Acc: 85.0
+The accuracy is 84.69
+Train Epoch: 36 [20480/49000 (42%)]	Train Loss: 0.000538	Val Loss: 1.221411	Val Acc: 84.6875
+The accuracy is 85.47
+Train Epoch: 36 [21760/49000 (44%)]	Train Loss: 0.000548	Val Loss: 1.115467	Val Acc: 85.46875
+The accuracy is 86.88
+Train Epoch: 36 [23040/49000 (47%)]	Train Loss: 0.001182	Val Loss: 1.042124	Val Acc: 86.875
+The accuracy is 85.94
+Train Epoch: 36 [24320/49000 (50%)]	Train Loss: 0.000238	Val Loss: 1.083702	Val Acc: 85.9375
+The accuracy is 85.47
+Train Epoch: 36 [25600/49000 (52%)]	Train Loss: 0.000185	Val Loss: 1.165208	Val Acc: 85.46875
+The accuracy is 85.31
+Train Epoch: 36 [26880/49000 (55%)]	Train Loss: 0.000187	Val Loss: 1.106042	Val Acc: 85.3125
+The accuracy is 85.16
+Train Epoch: 36 [28160/49000 (57%)]	Train Loss: 0.000159	Val Loss: 1.157944	Val Acc: 85.15625
+The accuracy is 84.69
+Train Epoch: 36 [29440/49000 (60%)]	Train Loss: 0.000446	Val Loss: 1.170209	Val Acc: 84.6875
+The accuracy is 84.06
+Train Epoch: 36 [30720/49000 (63%)]	Train Loss: 0.000329	Val Loss: 1.260276	Val Acc: 84.0625
+The accuracy is 85.47
+Train Epoch: 36 [32000/49000 (65%)]	Train Loss: 0.000231	Val Loss: 1.249322	Val Acc: 85.46875
+The accuracy is 85.62
+Train Epoch: 36 [33280/49000 (68%)]	Train Loss: 0.000244	Val Loss: 1.092091	Val Acc: 85.625
+The accuracy is 86.41
+Train Epoch: 36 [34560/49000 (70%)]	Train Loss: 0.000387	Val Loss: 1.131056	Val Acc: 86.40625
+The accuracy is 85.31
+Train Epoch: 36 [35840/49000 (73%)]	Train Loss: 0.000089	Val Loss: 1.126770	Val Acc: 85.3125
+The accuracy is 86.09
+Train Epoch: 36 [37120/49000 (76%)]	Train Loss: 0.000135	Val Loss: 1.140757	Val Acc: 86.09375
+The accuracy is 84.22
+Train Epoch: 36 [38400/49000 (78%)]	Train Loss: 0.000461	Val Loss: 1.156189	Val Acc: 84.21875
+The accuracy is 86.41
+Train Epoch: 36 [39680/49000 (81%)]	Train Loss: 0.000981	Val Loss: 1.101360	Val Acc: 86.40625
+The accuracy is 84.84
+Train Epoch: 36 [40960/49000 (84%)]	Train Loss: 0.000358	Val Loss: 1.214506	Val Acc: 84.84375
+The accuracy is 86.09
+Train Epoch: 36 [42240/49000 (86%)]	Train Loss: 0.000498	Val Loss: 1.109432	Val Acc: 86.09375
+The accuracy is 85.94
+Train Epoch: 36 [43520/49000 (89%)]	Train Loss: 0.000220	Val Loss: 1.195418	Val Acc: 85.9375
+The accuracy is 83.91
+Train Epoch: 36 [44800/49000 (91%)]	Train Loss: 0.000402	Val Loss: 1.241696	Val Acc: 83.90625
+The accuracy is 85.31
+Train Epoch: 36 [46080/49000 (94%)]	Train Loss: 0.000293	Val Loss: 1.200720	Val Acc: 85.3125
+The accuracy is 84.53
+Train Epoch: 36 [47360/49000 (97%)]	Train Loss: 0.000115	Val Loss: 1.267971	Val Acc: 84.53125
+The accuracy is 84.53
+Train Epoch: 36 [48640/49000 (99%)]	Train Loss: 0.000388	Val Loss: 1.267281	Val Acc: 84.53125
+The accuracy is 84.06
+Train Epoch: 37 [0/49000 (0%)]	Train Loss: 0.382568	Val Loss: 1.199184	Val Acc: 84.0625
+The accuracy is 86.41
+Train Epoch: 37 [1280/49000 (3%)]	Train Loss: 0.000824	Val Loss: 1.008493	Val Acc: 86.40625
+The accuracy is 84.53
+Train Epoch: 37 [2560/49000 (5%)]	Train Loss: 0.000324	Val Loss: 1.215526	Val Acc: 84.53125
+The accuracy is 85.62
+Train Epoch: 37 [3840/49000 (8%)]	Train Loss: 0.000323	Val Loss: 1.147884	Val Acc: 85.625
+The accuracy is 86.09
+Train Epoch: 37 [5120/49000 (10%)]	Train Loss: 0.000251	Val Loss: 1.167253	Val Acc: 86.09375
+The accuracy is 85.00
+Train Epoch: 37 [6400/49000 (13%)]	Train Loss: 0.000231	Val Loss: 1.118501	Val Acc: 85.0
+The accuracy is 84.53
+Train Epoch: 37 [7680/49000 (16%)]	Train Loss: 0.000863	Val Loss: 1.211276	Val Acc: 84.53125
+The accuracy is 84.53
+Train Epoch: 37 [8960/49000 (18%)]	Train Loss: 0.000656	Val Loss: 1.036641	Val Acc: 84.53125
+The accuracy is 85.31
+Train Epoch: 37 [10240/49000 (21%)]	Train Loss: 0.000402	Val Loss: 1.082820	Val Acc: 85.3125
+The accuracy is 86.72
+Train Epoch: 37 [11520/49000 (23%)]	Train Loss: 0.000321	Val Loss: 1.110982	Val Acc: 86.71875
+The accuracy is 85.16
+Train Epoch: 37 [12800/49000 (26%)]	Train Loss: 0.000234	Val Loss: 1.189147	Val Acc: 85.15625
+The accuracy is 83.12
+Train Epoch: 37 [14080/49000 (29%)]	Train Loss: 0.000305	Val Loss: 1.327095	Val Acc: 83.125
+The accuracy is 85.47
+Train Epoch: 37 [15360/49000 (31%)]	Train Loss: 0.000295	Val Loss: 1.189306	Val Acc: 85.46875
+The accuracy is 84.38
+Train Epoch: 37 [16640/49000 (34%)]	Train Loss: 0.000188	Val Loss: 1.277556	Val Acc: 84.375
+The accuracy is 84.38
+Train Epoch: 37 [17920/49000 (37%)]	Train Loss: 0.000470	Val Loss: 1.120884	Val Acc: 84.375
+The accuracy is 83.91
+Train Epoch: 37 [19200/49000 (39%)]	Train Loss: 0.000372	Val Loss: 1.259632	Val Acc: 83.90625
+The accuracy is 85.16
+Train Epoch: 37 [20480/49000 (42%)]	Train Loss: 0.000578	Val Loss: 1.119686	Val Acc: 85.15625
+The accuracy is 84.53
+Train Epoch: 37 [21760/49000 (44%)]	Train Loss: 0.000617	Val Loss: 1.192109	Val Acc: 84.53125
+The accuracy is 84.22
+Train Epoch: 37 [23040/49000 (47%)]	Train Loss: 0.000624	Val Loss: 1.169899	Val Acc: 84.21875
+The accuracy is 83.59
+Train Epoch: 37 [24320/49000 (50%)]	Train Loss: 0.000545	Val Loss: 1.406806	Val Acc: 83.59375
+The accuracy is 85.00
+Train Epoch: 37 [25600/49000 (52%)]	Train Loss: 0.000219	Val Loss: 1.196302	Val Acc: 85.0
+The accuracy is 83.75
+Train Epoch: 37 [26880/49000 (55%)]	Train Loss: 0.000879	Val Loss: 1.259445	Val Acc: 83.75
+The accuracy is 85.31
+Train Epoch: 37 [28160/49000 (57%)]	Train Loss: 0.000220	Val Loss: 1.102075	Val Acc: 85.3125
+The accuracy is 85.00
+Train Epoch: 37 [29440/49000 (60%)]	Train Loss: 0.000088	Val Loss: 1.151777	Val Acc: 85.0
+The accuracy is 85.31
+Train Epoch: 37 [30720/49000 (63%)]	Train Loss: 0.000341	Val Loss: 1.135979	Val Acc: 85.3125
+The accuracy is 84.06
+Train Epoch: 37 [32000/49000 (65%)]	Train Loss: 0.000505	Val Loss: 1.399766	Val Acc: 84.0625
+The accuracy is 84.84
+Train Epoch: 37 [33280/49000 (68%)]	Train Loss: 0.000078	Val Loss: 1.276206	Val Acc: 84.84375
+The accuracy is 85.94
+Train Epoch: 37 [34560/49000 (70%)]	Train Loss: 0.000221	Val Loss: 1.278315	Val Acc: 85.9375
+The accuracy is 85.62
+Train Epoch: 37 [35840/49000 (73%)]	Train Loss: 0.000358	Val Loss: 1.184808	Val Acc: 85.625
+The accuracy is 85.62
+Train Epoch: 37 [37120/49000 (76%)]	Train Loss: 0.000311	Val Loss: 1.134820	Val Acc: 85.625
+The accuracy is 85.62
+Train Epoch: 37 [38400/49000 (78%)]	Train Loss: 0.000114	Val Loss: 1.164039	Val Acc: 85.625
+The accuracy is 84.38
+Train Epoch: 37 [39680/49000 (81%)]	Train Loss: 0.000096	Val Loss: 1.264928	Val Acc: 84.375
+The accuracy is 87.03
+Train Epoch: 37 [40960/49000 (84%)]	Train Loss: 0.000226	Val Loss: 1.157412	Val Acc: 87.03125
+The accuracy is 84.38
+Train Epoch: 37 [42240/49000 (86%)]	Train Loss: 0.000357	Val Loss: 1.250381	Val Acc: 84.375
+The accuracy is 85.78
+Train Epoch: 37 [43520/49000 (89%)]	Train Loss: 0.000921	Val Loss: 1.157551	Val Acc: 85.78125
+The accuracy is 85.94
+Train Epoch: 37 [44800/49000 (91%)]	Train Loss: 0.000305	Val Loss: 1.112198	Val Acc: 85.9375
+The accuracy is 87.19
+Train Epoch: 37 [46080/49000 (94%)]	Train Loss: 0.000467	Val Loss: 1.060464	Val Acc: 87.1875
+The accuracy is 84.69
+Train Epoch: 37 [47360/49000 (97%)]	Train Loss: 0.000655	Val Loss: 1.355246	Val Acc: 84.6875
+The accuracy is 85.47
+Train Epoch: 37 [48640/49000 (99%)]	Train Loss: 0.000427	Val Loss: 1.206031	Val Acc: 85.46875
+The accuracy is 84.84
+Train Epoch: 38 [0/49000 (0%)]	Train Loss: 0.290610	Val Loss: 1.204905	Val Acc: 84.84375
+The accuracy is 84.84
+Train Epoch: 38 [1280/49000 (3%)]	Train Loss: 0.000383	Val Loss: 1.210899	Val Acc: 84.84375
+The accuracy is 84.69
+Train Epoch: 38 [2560/49000 (5%)]	Train Loss: 0.000366	Val Loss: 1.190632	Val Acc: 84.6875
+The accuracy is 84.84
+Train Epoch: 38 [3840/49000 (8%)]	Train Loss: 0.000295	Val Loss: 1.220598	Val Acc: 84.84375
+The accuracy is 85.94
+Train Epoch: 38 [5120/49000 (10%)]	Train Loss: 0.000770	Val Loss: 1.171635	Val Acc: 85.9375
+The accuracy is 84.53
+Train Epoch: 38 [6400/49000 (13%)]	Train Loss: 0.000189	Val Loss: 1.242163	Val Acc: 84.53125
+The accuracy is 85.00
+Train Epoch: 38 [7680/49000 (16%)]	Train Loss: 0.000388	Val Loss: 1.190699	Val Acc: 85.0
+The accuracy is 84.69
+Train Epoch: 38 [8960/49000 (18%)]	Train Loss: 0.000448	Val Loss: 1.195114	Val Acc: 84.6875
+The accuracy is 85.16
+Train Epoch: 38 [10240/49000 (21%)]	Train Loss: 0.000584	Val Loss: 1.141449	Val Acc: 85.15625
+The accuracy is 85.16
+Train Epoch: 38 [11520/49000 (23%)]	Train Loss: 0.000293	Val Loss: 1.194668	Val Acc: 85.15625
+The accuracy is 85.31
+Train Epoch: 38 [12800/49000 (26%)]	Train Loss: 0.000472	Val Loss: 1.115096	Val Acc: 85.3125
+The accuracy is 86.41
+Train Epoch: 38 [14080/49000 (29%)]	Train Loss: 0.000241	Val Loss: 1.117260	Val Acc: 86.40625
+The accuracy is 84.69
+Train Epoch: 38 [15360/49000 (31%)]	Train Loss: 0.000287	Val Loss: 1.168775	Val Acc: 84.6875
+The accuracy is 87.19
+Train Epoch: 38 [16640/49000 (34%)]	Train Loss: 0.000289	Val Loss: 1.007151	Val Acc: 87.1875
+The accuracy is 85.78
+Train Epoch: 38 [17920/49000 (37%)]	Train Loss: 0.000404	Val Loss: 1.156577	Val Acc: 85.78125
+The accuracy is 84.06
+Train Epoch: 38 [19200/49000 (39%)]	Train Loss: 0.000220	Val Loss: 1.300853	Val Acc: 84.0625
+The accuracy is 85.31
+Train Epoch: 38 [20480/49000 (42%)]	Train Loss: 0.000146	Val Loss: 1.158412	Val Acc: 85.3125
+The accuracy is 85.62
+Train Epoch: 38 [21760/49000 (44%)]	Train Loss: 0.000435	Val Loss: 1.185052	Val Acc: 85.625
+The accuracy is 85.31
+Train Epoch: 38 [23040/49000 (47%)]	Train Loss: 0.000176	Val Loss: 1.245864	Val Acc: 85.3125
+The accuracy is 85.78
+Train Epoch: 38 [24320/49000 (50%)]	Train Loss: 0.000255	Val Loss: 1.176013	Val Acc: 85.78125
+The accuracy is 85.31
+Train Epoch: 38 [25600/49000 (52%)]	Train Loss: 0.000343	Val Loss: 1.304145	Val Acc: 85.3125
+The accuracy is 83.12
+Train Epoch: 38 [26880/49000 (55%)]	Train Loss: 0.000322	Val Loss: 1.426574	Val Acc: 83.125
+The accuracy is 86.41
+Train Epoch: 38 [28160/49000 (57%)]	Train Loss: 0.000085	Val Loss: 1.150944	Val Acc: 86.40625
+The accuracy is 85.00
+Train Epoch: 38 [29440/49000 (60%)]	Train Loss: 0.000116	Val Loss: 1.219821	Val Acc: 85.0
+The accuracy is 85.16
+Train Epoch: 38 [30720/49000 (63%)]	Train Loss: 0.000402	Val Loss: 1.217567	Val Acc: 85.15625
+The accuracy is 84.22
+Train Epoch: 38 [32000/49000 (65%)]	Train Loss: 0.000486	Val Loss: 1.295176	Val Acc: 84.21875
+The accuracy is 85.16
+Train Epoch: 38 [33280/49000 (68%)]	Train Loss: 0.000203	Val Loss: 1.170156	Val Acc: 85.15625
+The accuracy is 85.47
+Train Epoch: 38 [34560/49000 (70%)]	Train Loss: 0.000258	Val Loss: 1.135317	Val Acc: 85.46875
+The accuracy is 82.81
+Train Epoch: 38 [35840/49000 (73%)]	Train Loss: 0.000501	Val Loss: 1.477172	Val Acc: 82.8125
+The accuracy is 85.62
+Train Epoch: 38 [37120/49000 (76%)]	Train Loss: 0.000200	Val Loss: 1.158225	Val Acc: 85.625
+The accuracy is 84.06
+Train Epoch: 38 [38400/49000 (78%)]	Train Loss: 0.000170	Val Loss: 1.338408	Val Acc: 84.0625
+The accuracy is 84.84
+Train Epoch: 38 [39680/49000 (81%)]	Train Loss: 0.000064	Val Loss: 1.353983	Val Acc: 84.84375
+The accuracy is 83.91
+Train Epoch: 38 [40960/49000 (84%)]	Train Loss: 0.000246	Val Loss: 1.368537	Val Acc: 83.90625
+The accuracy is 85.94
+Train Epoch: 38 [42240/49000 (86%)]	Train Loss: 0.000317	Val Loss: 1.126721	Val Acc: 85.9375
+The accuracy is 84.38
+Train Epoch: 38 [43520/49000 (89%)]	Train Loss: 0.000208	Val Loss: 1.359683	Val Acc: 84.375
+The accuracy is 86.09
+Train Epoch: 38 [44800/49000 (91%)]	Train Loss: 0.000151	Val Loss: 1.178915	Val Acc: 86.09375
+The accuracy is 86.56
+Train Epoch: 38 [46080/49000 (94%)]	Train Loss: 0.000240	Val Loss: 1.263563	Val Acc: 86.5625
+The accuracy is 85.31
+Train Epoch: 38 [47360/49000 (97%)]	Train Loss: 0.000360	Val Loss: 1.239857	Val Acc: 85.3125
+The accuracy is 86.72
+Train Epoch: 38 [48640/49000 (99%)]	Train Loss: 0.000654	Val Loss: 1.190547	Val Acc: 86.71875
+The accuracy is 84.38
+Train Epoch: 39 [0/49000 (0%)]	Train Loss: 0.526698	Val Loss: 1.162152	Val Acc: 84.375
+The accuracy is 84.38
+Train Epoch: 39 [1280/49000 (3%)]	Train Loss: 0.000569	Val Loss: 1.282597	Val Acc: 84.375
+The accuracy is 84.69
+Train Epoch: 39 [2560/49000 (5%)]	Train Loss: 0.000336	Val Loss: 1.328239	Val Acc: 84.6875
+The accuracy is 84.38
+Train Epoch: 39 [3840/49000 (8%)]	Train Loss: 0.000422	Val Loss: 1.334272	Val Acc: 84.375
+The accuracy is 84.06
+Train Epoch: 39 [5120/49000 (10%)]	Train Loss: 0.000225	Val Loss: 1.289131	Val Acc: 84.0625
+The accuracy is 85.00
+Train Epoch: 39 [6400/49000 (13%)]	Train Loss: 0.000202	Val Loss: 1.253740	Val Acc: 85.0
+The accuracy is 84.84
+Train Epoch: 39 [7680/49000 (16%)]	Train Loss: 0.000372	Val Loss: 1.196805	Val Acc: 84.84375
+The accuracy is 85.94
+Train Epoch: 39 [8960/49000 (18%)]	Train Loss: 0.000094	Val Loss: 1.126776	Val Acc: 85.9375
+The accuracy is 86.09
+Train Epoch: 39 [10240/49000 (21%)]	Train Loss: 0.000590	Val Loss: 1.243446	Val Acc: 86.09375
+The accuracy is 85.16
+Train Epoch: 39 [11520/49000 (23%)]	Train Loss: 0.000424	Val Loss: 1.337797	Val Acc: 85.15625
+The accuracy is 84.69
+Train Epoch: 39 [12800/49000 (26%)]	Train Loss: 0.000156	Val Loss: 1.218931	Val Acc: 84.6875
+The accuracy is 84.38
+Train Epoch: 39 [14080/49000 (29%)]	Train Loss: 0.000379	Val Loss: 1.356647	Val Acc: 84.375
+The accuracy is 87.19
+Train Epoch: 39 [15360/49000 (31%)]	Train Loss: 0.000405	Val Loss: 1.058956	Val Acc: 87.1875
+The accuracy is 85.31
+Train Epoch: 39 [16640/49000 (34%)]	Train Loss: 0.000059	Val Loss: 1.289604	Val Acc: 85.3125
+The accuracy is 84.38
+Train Epoch: 39 [17920/49000 (37%)]	Train Loss: 0.000382	Val Loss: 1.199892	Val Acc: 84.375
+The accuracy is 85.31
+Train Epoch: 39 [19200/49000 (39%)]	Train Loss: 0.000337	Val Loss: 1.132788	Val Acc: 85.3125
+The accuracy is 85.78
+Train Epoch: 39 [20480/49000 (42%)]	Train Loss: 0.000314	Val Loss: 1.183293	Val Acc: 85.78125
+The accuracy is 84.53
+Train Epoch: 39 [21760/49000 (44%)]	Train Loss: 0.000186	Val Loss: 1.254079	Val Acc: 84.53125
+The accuracy is 86.09
+Train Epoch: 39 [23040/49000 (47%)]	Train Loss: 0.000201	Val Loss: 1.253298	Val Acc: 86.09375
+The accuracy is 83.12
+Train Epoch: 39 [24320/49000 (50%)]	Train Loss: 0.000326	Val Loss: 1.516168	Val Acc: 83.125
+The accuracy is 85.78
+Train Epoch: 39 [25600/49000 (52%)]	Train Loss: 0.000118	Val Loss: 1.275655	Val Acc: 85.78125
+The accuracy is 84.69
+Train Epoch: 39 [26880/49000 (55%)]	Train Loss: 0.000739	Val Loss: 1.337398	Val Acc: 84.6875
+The accuracy is 84.69
+Train Epoch: 39 [28160/49000 (57%)]	Train Loss: 0.000186	Val Loss: 1.249024	Val Acc: 84.6875
+The accuracy is 85.47
+Train Epoch: 39 [29440/49000 (60%)]	Train Loss: 0.000234	Val Loss: 1.253721	Val Acc: 85.46875
+The accuracy is 83.75
+Train Epoch: 39 [30720/49000 (63%)]	Train Loss: 0.000262	Val Loss: 1.437829	Val Acc: 83.75
+The accuracy is 84.38
+Train Epoch: 39 [32000/49000 (65%)]	Train Loss: 0.000352	Val Loss: 1.406660	Val Acc: 84.375
+The accuracy is 85.62
+Train Epoch: 39 [33280/49000 (68%)]	Train Loss: 0.000292	Val Loss: 1.243164	Val Acc: 85.625
+The accuracy is 83.28
+Train Epoch: 39 [34560/49000 (70%)]	Train Loss: 0.000468	Val Loss: 1.397532	Val Acc: 83.28125
+The accuracy is 85.16
+Train Epoch: 39 [35840/49000 (73%)]	Train Loss: 0.000141	Val Loss: 1.290342	Val Acc: 85.15625
+The accuracy is 83.75
+Train Epoch: 39 [37120/49000 (76%)]	Train Loss: 0.000385	Val Loss: 1.340132	Val Acc: 83.75
+The accuracy is 85.47
+Train Epoch: 39 [38400/49000 (78%)]	Train Loss: 0.000322	Val Loss: 1.236059	Val Acc: 85.46875
+The accuracy is 85.94
+Train Epoch: 39 [39680/49000 (81%)]	Train Loss: 0.000077	Val Loss: 1.287296	Val Acc: 85.9375
+The accuracy is 85.78
+Train Epoch: 39 [40960/49000 (84%)]	Train Loss: 0.000161	Val Loss: 1.210840	Val Acc: 85.78125
+The accuracy is 85.62
+Train Epoch: 39 [42240/49000 (86%)]	Train Loss: 0.000432	Val Loss: 1.294868	Val Acc: 85.625
+The accuracy is 84.22
+Train Epoch: 39 [43520/49000 (89%)]	Train Loss: 0.000596	Val Loss: 1.363674	Val Acc: 84.21875
+The accuracy is 83.91
+Train Epoch: 39 [44800/49000 (91%)]	Train Loss: 0.000300	Val Loss: 1.470258	Val Acc: 83.90625
+The accuracy is 85.47
+Train Epoch: 39 [46080/49000 (94%)]	Train Loss: 0.000273	Val Loss: 1.273227	Val Acc: 85.46875
+The accuracy is 85.62
+Train Epoch: 39 [47360/49000 (97%)]	Train Loss: 0.000160	Val Loss: 1.243577	Val Acc: 85.625
+The accuracy is 83.91
+Train Epoch: 39 [48640/49000 (99%)]	Train Loss: 0.000312	Val Loss: 1.326268	Val Acc: 83.90625
+The accuracy is 84.69
+Train Epoch: 40 [0/49000 (0%)]	Train Loss: 0.375633	Val Loss: 1.246553	Val Acc: 84.6875
+The accuracy is 84.69
+Train Epoch: 40 [1280/49000 (3%)]	Train Loss: 0.000345	Val Loss: 1.235027	Val Acc: 84.6875
+The accuracy is 84.38
+Train Epoch: 40 [2560/49000 (5%)]	Train Loss: 0.000440	Val Loss: 1.281066	Val Acc: 84.375
+The accuracy is 85.00
+Train Epoch: 40 [3840/49000 (8%)]	Train Loss: 0.001425	Val Loss: 1.323988	Val Acc: 85.0
+The accuracy is 86.56
+Train Epoch: 40 [5120/49000 (10%)]	Train Loss: 0.000450	Val Loss: 1.213037	Val Acc: 86.5625
+The accuracy is 85.47
+Train Epoch: 40 [6400/49000 (13%)]	Train Loss: 0.000388	Val Loss: 1.180461	Val Acc: 85.46875
+The accuracy is 85.47
+Train Epoch: 40 [7680/49000 (16%)]	Train Loss: 0.000520	Val Loss: 1.320422	Val Acc: 85.46875
+The accuracy is 84.06
+Train Epoch: 40 [8960/49000 (18%)]	Train Loss: 0.000223	Val Loss: 1.368830	Val Acc: 84.0625
+The accuracy is 86.09
+Train Epoch: 40 [10240/49000 (21%)]	Train Loss: 0.000368	Val Loss: 1.320497	Val Acc: 86.09375
+The accuracy is 84.69
+Train Epoch: 40 [11520/49000 (23%)]	Train Loss: 0.000222	Val Loss: 1.271247	Val Acc: 84.6875
+The accuracy is 84.84
+Train Epoch: 40 [12800/49000 (26%)]	Train Loss: 0.000182	Val Loss: 1.363441	Val Acc: 84.84375
+The accuracy is 84.06
+Train Epoch: 40 [14080/49000 (29%)]	Train Loss: 0.000390	Val Loss: 1.373785	Val Acc: 84.0625
+The accuracy is 84.84
+Train Epoch: 40 [15360/49000 (31%)]	Train Loss: 0.000140	Val Loss: 1.234475	Val Acc: 84.84375
+The accuracy is 85.62
+Train Epoch: 40 [16640/49000 (34%)]	Train Loss: 0.000197	Val Loss: 1.269067	Val Acc: 85.625
+The accuracy is 84.69
+Train Epoch: 40 [17920/49000 (37%)]	Train Loss: 0.000231	Val Loss: 1.240267	Val Acc: 84.6875
+The accuracy is 84.22
+Train Epoch: 40 [19200/49000 (39%)]	Train Loss: 0.000495	Val Loss: 1.372563	Val Acc: 84.21875
+The accuracy is 85.94
+Train Epoch: 40 [20480/49000 (42%)]	Train Loss: 0.000255	Val Loss: 1.193623	Val Acc: 85.9375
+The accuracy is 85.16
+Train Epoch: 40 [21760/49000 (44%)]	Train Loss: 0.000386	Val Loss: 1.347054	Val Acc: 85.15625
+The accuracy is 86.56
+Train Epoch: 40 [23040/49000 (47%)]	Train Loss: 0.000285	Val Loss: 1.300457	Val Acc: 86.5625
+The accuracy is 85.78
+Train Epoch: 40 [24320/49000 (50%)]	Train Loss: 0.000287	Val Loss: 1.266527	Val Acc: 85.78125
+The accuracy is 85.94
+Train Epoch: 40 [25600/49000 (52%)]	Train Loss: 0.000079	Val Loss: 1.221348	Val Acc: 85.9375
+The accuracy is 86.41
+Train Epoch: 40 [26880/49000 (55%)]	Train Loss: 0.000522	Val Loss: 1.244252	Val Acc: 86.40625
+The accuracy is 84.84
+Train Epoch: 40 [28160/49000 (57%)]	Train Loss: 0.000215	Val Loss: 1.339452	Val Acc: 84.84375
+The accuracy is 85.47
+Train Epoch: 40 [29440/49000 (60%)]	Train Loss: 0.000751	Val Loss: 1.209323	Val Acc: 85.46875
+The accuracy is 86.88
+Train Epoch: 40 [30720/49000 (63%)]	Train Loss: 0.000324	Val Loss: 1.096243	Val Acc: 86.875
+The accuracy is 84.38
+Train Epoch: 40 [32000/49000 (65%)]	Train Loss: 0.000253	Val Loss: 1.340912	Val Acc: 84.375
+The accuracy is 83.91
+Train Epoch: 40 [33280/49000 (68%)]	Train Loss: 0.000186	Val Loss: 1.417224	Val Acc: 83.90625
+The accuracy is 84.22
+Train Epoch: 40 [34560/49000 (70%)]	Train Loss: 0.000487	Val Loss: 1.361100	Val Acc: 84.21875
+The accuracy is 85.16
+Train Epoch: 40 [35840/49000 (73%)]	Train Loss: 0.000327	Val Loss: 1.244576	Val Acc: 85.15625
+The accuracy is 85.47
+Train Epoch: 40 [37120/49000 (76%)]	Train Loss: 0.000134	Val Loss: 1.317460	Val Acc: 85.46875
+The accuracy is 85.16
+Train Epoch: 40 [38400/49000 (78%)]	Train Loss: 0.000494	Val Loss: 1.265087	Val Acc: 85.15625
+The accuracy is 84.53
+Train Epoch: 40 [39680/49000 (81%)]	Train Loss: 0.000299	Val Loss: 1.443306	Val Acc: 84.53125
+The accuracy is 86.56
+Train Epoch: 40 [40960/49000 (84%)]	Train Loss: 0.000340	Val Loss: 1.210322	Val Acc: 86.5625
+The accuracy is 84.69
+Train Epoch: 40 [42240/49000 (86%)]	Train Loss: 0.000086	Val Loss: 1.454630	Val Acc: 84.6875
+The accuracy is 85.31
+Train Epoch: 40 [43520/49000 (89%)]	Train Loss: 0.000320	Val Loss: 1.327713	Val Acc: 85.3125
+The accuracy is 84.69
+Train Epoch: 40 [44800/49000 (91%)]	Train Loss: 0.000119	Val Loss: 1.339973	Val Acc: 84.6875
+The accuracy is 83.44
+Train Epoch: 40 [46080/49000 (94%)]	Train Loss: 0.000210	Val Loss: 1.490527	Val Acc: 83.4375
+The accuracy is 84.53
+Train Epoch: 40 [47360/49000 (97%)]	Train Loss: 0.000123	Val Loss: 1.331803	Val Acc: 84.53125
+The accuracy is 83.91
+Train Epoch: 40 [48640/49000 (99%)]	Train Loss: 0.000409	Val Loss: 1.510219	Val Acc: 83.90625
+
+test set: Average loss: 1.3627, Accuracy: 8328/10000 (83%)
+
+The accuracy is 83.28
